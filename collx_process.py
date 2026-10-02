@@ -114,7 +114,8 @@ try:
 except (FileNotFoundError, ValueError):
     pass
 
-all_lines = lines + carry
+DIVIDER = "0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0"
+all_lines = (lines + [DIVIDER] + carry) if carry else lines
 open(TARGETS, 'w').write('\n'.join(all_lines) + '\n')
 open(POS, 'w').write('1\n')
 
@@ -128,6 +129,10 @@ if True:
         if not m:
             continue
         cards, tags, nm, pid = m.groups()
+        if pid == '0':
+            rows.append('<div style="padding:10px;background:#222;color:#fff;'
+                        'text-align:center;font-weight:bold">SEEN BEFORE — carry-overs below</div>')
+            continue
         fresh = i <= len(lines)
         badge = '<span style="color:#0a0">FRESH</span>' if fresh else '<span style="color:#888">carry</span>'
         rows.append(
