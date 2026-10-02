@@ -63,6 +63,9 @@ RESURFACE_MIN = 15
 is_excl = df.index.isin(excl)
 df['resurface'] = is_excl & (df['delta'] >= RESURFACE_MIN)
 df = df[~is_excl | df['resurface']]
+# FRESH FILTER: only sellers that are new to the report, actively adding,
+# or resurfacing. Everything else was either served already or is stale pool.
+df = df[df['new_arrival'] | (df['delta'] > 0) | df['resurface']]
 
 now = new['last_active'].max()
 df['hrs'] = (now - df['last_active']).dt.total_seconds() / 3600
@@ -117,6 +120,12 @@ except (FileNotFoundError, ValueError):
 DIVIDER = "0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0"
 all_lines = (lines + [DIVIDER] + carry) if carry else lines
 open(TARGETS, 'w').write('\n'.join(all_lines) + '\n')
+
+# SERVED LOG: record every freshly served pid so it never repeats
+# (resurfaces are already in the log; appending again is harmless pre-dedup)
+with open(EXCL, 'a') as _f:
+    for _pid in pool.index:
+        _f.write(f"{_pid}\n")
 open(POS, 'w').write('1\n')
 
 # PHONE VERSION: tappable HTML into iCloud Drive
