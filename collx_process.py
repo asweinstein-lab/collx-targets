@@ -230,5 +230,22 @@ if os.path.exists(pconf):
         req = urllib.request.Request(url, data=json.dumps(payload).encode(), method="PUT", headers=hdrs)
         urllib.request.urlopen(req, timeout=30)
         print("pages updated")
+
+        # SERVED LOG PUSH: publish served_ids.txt so chat-side batches can
+        # exclude against the pipeline's ground truth
+        surl = f"https://api.github.com/repos/{REPO}/contents/served_ids.txt"
+        ssha = None
+        try:
+            req = urllib.request.Request(surl, headers=hdrs)
+            ssha = json.loads(urllib.request.urlopen(req, timeout=30).read())["sha"]
+        except Exception:
+            pass
+        sbody = open(EXCL, 'rb').read()
+        spayload = {"message": "update served log", "content": base64.b64encode(sbody).decode()}
+        if ssha:
+            spayload["sha"] = ssha
+        req = urllib.request.Request(surl, data=json.dumps(spayload).encode(), method="PUT", headers=hdrs)
+        urllib.request.urlopen(req, timeout=30)
+        print("served log pushed")
     except Exception as e:
         print(f"pages push failed: {e}")
