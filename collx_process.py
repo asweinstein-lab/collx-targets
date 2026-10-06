@@ -80,7 +80,7 @@ df['score'] = (
     + df['addr'] * 6
     + df['resurface'] * 25
 )
-pool = df[df['cards'] >= 4].sort_values('score', ascending=False)
+pool = df[df['cards'] >= 1].sort_values('score', ascending=False)
 if pool.empty:
     print("no fresh profiles this pull")
     sys.exit(0)
