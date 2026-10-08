@@ -62,6 +62,27 @@ if old is not None:
 RESURFACE_MIN = 15
 is_excl = df.index.isin(excl)
 df['resurface'] = is_excl & (df['delta'] >= RESURFACE_MIN)
+
+# RESURFACE COOLDOWN: a seller only resurfaces once per 7 days, no matter
+# how many hours in a row they keep adding cards
+import time as _time
+RES_FILE = f"{HOME}/collx_data/resurfaced.txt"
+_now = _time.time()
+_recent = {}
+try:
+    for _ln in open(RES_FILE):
+        _p, _t = _ln.split()
+        if _now - float(_t) < 7*86400:
+            _recent[int(_p)] = float(_t)
+except FileNotFoundError:
+    pass
+df['resurface'] = df['resurface'] & ~df.index.isin(_recent)
+with open(RES_FILE, 'w') as _rf:
+    for _p, _t in _recent.items():
+        _rf.write(f"{_p} {_t}\n")
+    for _p in df.index[df['resurface']]:
+        _rf.write(f"{_p} {_now}\n")
+
 df = df[~is_excl | df['resurface']]
 # FRESH FILTER: only sellers that are new to the report, actively adding,
 # or resurfacing. Everything else was either served already or is stale pool.
