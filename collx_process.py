@@ -47,6 +47,7 @@ if os.path.exists(EXCL):
     excl = {x.strip() for x in open(EXCL) if x.strip()}
 
 df = new[~new['Name'].str.contains(TCG)].copy()
+full_df = df.copy()  # for the random tab: all eligible, pre-exclusion
 
 # delta vs previous export, computed BEFORE exclusion so re-surfaces can see it
 df['delta'] = np.nan
@@ -164,7 +165,7 @@ if True:
                         'text-align:center;font-weight:bold">SEEN BEFORE — carry-overs below</div>')
             continue
         fresh = i <= len(lines)
-        badge = '<span style="color:#0a0">FRESH</span>' if fresh else '<span style="color:#888">carry</span>'
+        badge = '<span class="bdg" style="color:#0a0">FRESH</span>' if fresh else '<span class="bdg" style="color:#888">carry</span>'
         rows.append(
             f'<div style="padding:14px 10px;border-bottom:1px solid #ddd">'
             f'<a href="collx://profiles/{pid}" style="font-size:19px;text-decoration:none">{_html.escape(nm)}</a><br>'
@@ -194,14 +195,13 @@ if True:
         'as.forEach(function(a){'
         ' var pid=a.href.split("/").pop();'
         ' var holder=a.closest("div")||a;'
-        ' if(localStorage.getItem(k(pid))){'
+        ' function mark(){'
         '  holder.style.opacity="0.5";'
-        '  var b=document.createElement("span");'
-        '  b.textContent="VIEWED";'
-        '  b.style.cssText="color:#000;background:#ccc;padding:1px 6px;border-radius:4px;font-size:11px;font-weight:700;margin-left:8px;vertical-align:middle";'
-        '  a.parentNode.insertBefore(b,a.nextSibling);'
+        '  var b=holder.querySelector(".bdg");'
+        '  if(b){b.textContent="VIEWED";b.style.color="#000";b.style.fontWeight="700";}'
         ' }'
-        ' a.addEventListener("click",function(){localStorage.setItem(k(pid),Date.now());});'
+        ' if(localStorage.getItem(k(pid)))mark();'
+        ' a.addEventListener("click",function(){localStorage.setItem(k(pid),Date.now());mark();});'
         '});'
         'var now=Date.now();'
         'for(var i=localStorage.length-1;i>=0;i--){var key=localStorage.key(i);'
@@ -221,6 +221,8 @@ if True:
         + refresh_js
         + f'<body style="font-family:-apple-system;margin:0"><div style="padding:12px;background:#111;color:#fff;'
         f'position:sticky;top:0">CollX targets · updated {ts} · {len(lines)} fresh / {len(carry)} carry'
+        f' · <a href="index.html" style="color:#4af;text-decoration:none">Fresh</a>'
+        f' | <a href="random.html" style="color:#4af;text-decoration:none">Random</a>'
         f' <a href="javascript:location.replace(location.pathname+\'?t=\'+Date.now())"'
         f' style="float:right;color:#4af;text-decoration:none">refresh</a></div>'
         + ''.join(rows) + '</body>'
@@ -251,6 +253,46 @@ if os.path.exists(pconf):
         req = urllib.request.Request(url, data=json.dumps(payload).encode(), method="PUT", headers=hdrs)
         urllib.request.urlopen(req, timeout=30)
         print("pages updated")
+
+        # RANDOM TAB: 100 random never-contacted accounts, regenerated hourly
+        try:
+            rnd_pool = full_df[(full_df['cards'] >= 1) & ~full_df.index.isin(excl)]
+            rnd = rnd_pool.sample(min(100, len(rnd_pool))) if len(rnd_pool) else rnd_pool
+            rrows = []
+            for _pid, _r in rnd.iterrows():
+                _nm = _html.escape(' '.join(str(_r['Name']).split()))
+                if not _nm:
+                    continue
+                rrows.append(
+                    f'<div style="padding:14px 10px;border-bottom:1px solid #ddd">'
+                    f'<a href="collx://profiles/{_pid}" style="font-size:19px;text-decoration:none">{_nm}</a><br>'
+                    f'<span style="color:#555">{int(_r["cards"])} cards · never contacted · '
+                    f'<span class="bdg" style="color:#0a0">RANDOM</span></span></div>')
+            rpage = (
+                '<!doctype html><meta name="viewport" content="width=device-width,initial-scale=1">'
+                + pwa_tags + refresh_js
+                + f'<body style="font-family:-apple-system;margin:0"><div style="padding:12px;background:#111;color:#fff;'
+                f'position:sticky;top:0">CollX random · updated {ts} · {len(rrows)} never contacted'
+                f' · <a href="index.html" style="color:#4af;text-decoration:none">Fresh</a>'
+                f' | <a href="random.html" style="color:#4af;text-decoration:none">Random</a>'
+                f' <a href="javascript:location.replace(location.pathname+\'?t=\'+Date.now())"'
+                f' style="float:right;color:#4af;text-decoration:none">refresh</a></div>'
+                + ''.join(rrows) + '</body>')
+            rurl = f"https://api.github.com/repos/{REPO}/contents/random.html"
+            rsha = None
+            try:
+                req = urllib.request.Request(rurl, headers=hdrs)
+                rsha = json.loads(urllib.request.urlopen(req, timeout=30).read())["sha"]
+            except Exception:
+                pass
+            rpayload = {"message": "update random tab", "content": base64.b64encode(rpage.encode()).decode()}
+            if rsha:
+                rpayload["sha"] = rsha
+            req = urllib.request.Request(rurl, data=json.dumps(rpayload).encode(), method="PUT", headers=hdrs)
+            urllib.request.urlopen(req, timeout=30)
+            print("random tab updated")
+        except Exception as e:
+            print(f"random tab failed: {e}")
 
         # SERVED LOG PUSH: publish served_ids.txt so chat-side batches can
         # exclude against the pipeline's ground truth
