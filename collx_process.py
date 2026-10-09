@@ -154,6 +154,62 @@ open(POS, 'w').write('1\n')
 icloud = f"{HOME}/Library/Mobile Documents/com~apple~CloudDocs"
 if True:
     import datetime, html as _html
+
+STYLE = (
+ '<style>'
+ ':root{--bg:#121A24;--line:#223042;--tx:#E8EEF4;--dim:#8A98A8;--act:#4FA3FF;'
+ '--new:#3DD68C;--back:#F5B83D;--grad:#B48CFF}'
+ '*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}'
+ 'body{font-family:-apple-system,system-ui,sans-serif;margin:0;background:var(--bg);color:var(--tx)}'
+ '.wrap{max-width:560px;margin:0 auto}'
+ '.hdr{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding:10px 14px 0}'
+ '.hrow{display:flex;align-items:baseline;justify-content:space-between;font-size:13px;color:var(--dim)}'
+ '.hrow b{color:var(--tx);font-size:15px;font-weight:600}'
+ '.hrow a{color:var(--act);text-decoration:none;font-size:13px}'
+ '.tabs{display:flex;gap:2px;margin:10px 0 0;background:#1A2430;border-radius:9px;padding:2px}'
+ '.tabs a{flex:1;text-align:center;padding:7px 0;border-radius:7px;font-size:14px;font-weight:600;'
+ 'color:var(--dim);text-decoration:none}'
+ '.tabs a.on{background:#2A3B4E;color:var(--tx)}'
+ '.row{display:flex;gap:12px;align-items:center;padding:11px 14px;border-bottom:1px solid var(--line);'
+ 'text-decoration:none;color:inherit}'
+ '.row:active{background:#1A2430}'
+ '@media(hover:hover){.row:hover{background:#17202B;cursor:pointer}}'
+ '.ct{flex:0 0 52px;text-align:center}'
+ '.ct b{display:block;font-size:19px;font-weight:700;line-height:1.1}'
+ '.ct i{display:block;font-style:normal;font-size:10.5px;color:var(--dim)}'
+ '.main{flex:1;min-width:0}'
+ '.nm{font-size:16.5px;font-weight:600;line-height:1.25;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}'
+ '.meta{margin-top:3px;font-size:12.5px;color:var(--dim);display:flex;gap:6px;align-items:center;flex-wrap:wrap}'
+ '.ch{padding:1px 7px;border-radius:5px;font-weight:700;font-size:11px}'
+ '.ch.new{background:rgba(61,214,140,.16);color:var(--new)}'
+ '.ch.back{background:rgba(245,184,61,.16);color:var(--back)}'
+ '.ch.g{background:rgba(180,140,255,.16);color:var(--grad)}'
+ '.bdg{margin-left:auto;font-size:11px;font-weight:700;color:var(--new)}'
+ '.bdg.c{color:var(--dim)}'
+ '.row.viewed{opacity:.42}'
+ '.row.viewed .bdg{color:var(--tx);opacity:.9}'
+ '.dvd{padding:9px 14px;background:#1A2430;color:var(--dim);font-size:12.5px;font-weight:600;'
+ 'border-bottom:1px solid var(--line)}'
+ '</style>')
+
+def row_html(pid, nm, cards, tags, state):
+    chips = []
+    t = tags
+    if 'BACK' in t: chips.append('<span class="ch back">BACK</span>'); t = t.replace('BACK','')
+    if 'NEW' in t: chips.append('<span class="ch new">NEW</span>'); t = t.replace('NEW','')
+    if 'NOADDR' in t: t = t.replace('NOADDR',''); chips.append('<span class="ch" style="background:#2A3B4E;color:var(--dim)">no addr</span>')
+    tt = t.replace('G','').strip() if 'G' in t.split() or t.startswith('G ') or ' G ' in f' {t} ' else t.strip()
+    if ('G' in t.split()) or t.startswith('G ') or (' G ' in f' {t} '):
+        chips.append('<span class="ch g">graded</span>')
+    delta = ' '.join(w for w in tt.split() if w.startswith('+'))
+    rest = ' '.join(w for w in tt.split() if not w.startswith('+'))
+    if delta: chips.append(f'<span class="ch new">{delta}</span>')
+    if rest: chips.append(f'<span>{rest}</span>')
+    return (f'<a class="row" data-pid="{pid}" href="collx://profiles/{pid}">'
+            f'<span class="ct"><b>{cards}</b><i>cards</i></span>'
+            f'<span class="main"><span class="nm">{nm}</span>'
+            f'<span class="meta">{"".join(chips)}<span class="bdg{" c" if state=="carry" else ""}">{state}</span></span></span></a>')
+
     rows = []
     for i, l in enumerate(all_lines, 1):
         m = re.search(r'^(\d+) cards \[(.*?)\] (.*?) \|collx://profiles/(\d+)$', l)
@@ -191,14 +247,13 @@ if True:
         '})();</script>'
         '<script>(function(){'
         'function k(p){return "viewed_"+p}'
-        'var as=document.querySelectorAll(\'a[href^="collx://profiles/"]\');'
+        'var as=document.querySelectorAll("a.row");'
         'as.forEach(function(a){'
-        ' var pid=a.href.split("/").pop();'
-        ' var holder=a.closest("div")||a;'
+        ' var pid=a.dataset.pid;'
         ' function mark(){'
-        '  holder.style.opacity="0.5";'
-        '  var b=holder.querySelector(".bdg");'
-        '  if(b){b.textContent="VIEWED";b.style.color="#000";b.style.fontWeight="700";}'
+        '  a.classList.add("viewed");'
+        '  var b=a.querySelector(".bdg");'
+        '  if(b)b.textContent="VIEWED";'
         ' }'
         ' if(localStorage.getItem(k(pid)))mark();'
         ' a.addEventListener("click",function(){localStorage.setItem(k(pid),Date.now());mark();});'
@@ -217,15 +272,13 @@ if True:
     )
     page = (
         '<!doctype html><meta name="viewport" content="width=device-width,initial-scale=1">'
-        + pwa_tags
-        + refresh_js
-        + f'<body style="font-family:-apple-system;margin:0"><div style="padding:12px;background:#111;color:#fff;'
-        f'position:sticky;top:0">CollX targets · updated {ts} · {len(lines)} fresh / {len(carry)} carry'
-        f' · <a href="index.html" style="color:#4af;text-decoration:none">Fresh</a>'
-        f' | <a href="random.html" style="color:#4af;text-decoration:none">Random</a>'
-        f' <a href="javascript:location.replace(location.pathname+\'?t=\'+Date.now())"'
-        f' style="float:right;color:#4af;text-decoration:none">refresh</a></div>'
-        + ''.join(rows) + '</body>'
+        + pwa_tags + STYLE + refresh_js
+        + '<body><div class="wrap">'
+        + f'<div class="hdr"><div class="hrow"><span><b>CollX targets</b> · {ts} · {len(lines)} fresh</span>'
+        + '<a href="javascript:location.replace(location.pathname+\'?t=\'+Date.now())">refresh</a></div>'
+        + '<div class="tabs"><a class="on" href="index.html">Fresh</a><a href="random.html">Random</a></div>'
+        + '</div>'
+        + ''.join(rows) + '</div></body>'
     )
     if os.path.isdir(icloud):
         open(f"{icloud}/collx_targets.html", 'w').write(page)
@@ -263,21 +316,16 @@ if os.path.exists(pconf):
                 _nm = _html.escape(' '.join(str(_r['Name']).split()))
                 if not _nm:
                     continue
-                rrows.append(
-                    f'<div style="padding:14px 10px;border-bottom:1px solid #ddd">'
-                    f'<a href="collx://profiles/{_pid}" style="font-size:19px;text-decoration:none">{_nm}</a><br>'
-                    f'<span style="color:#555">{int(_r["cards"])} cards · never contacted · '
-                    f'<span class="bdg" style="color:#0a0">RANDOM</span></span></div>')
+                rrows.append(row_html(_pid, _nm, int(_r["cards"]), '', 'RANDOM'))
             rpage = (
                 '<!doctype html><meta name="viewport" content="width=device-width,initial-scale=1">'
-                + pwa_tags + refresh_js
-                + f'<body style="font-family:-apple-system;margin:0"><div style="padding:12px;background:#111;color:#fff;'
-                f'position:sticky;top:0">CollX random · updated {ts} · {len(rrows)} never contacted'
-                f' · <a href="index.html" style="color:#4af;text-decoration:none">Fresh</a>'
-                f' | <a href="random.html" style="color:#4af;text-decoration:none">Random</a>'
-                f' <a href="javascript:location.replace(location.pathname+\'?t=\'+Date.now())"'
-                f' style="float:right;color:#4af;text-decoration:none">refresh</a></div>'
-                + ''.join(rrows) + '</body>')
+                + pwa_tags + STYLE + refresh_js
+                + '<body><div class="wrap">'
+                + f'<div class="hdr"><div class="hrow"><span><b>CollX random</b> · {ts} · {len(rrows)} never contacted</span>'
+                + '<a href="javascript:location.replace(location.pathname+\'?t=\'+Date.now())">refresh</a></div>'
+                + '<div class="tabs"><a href="index.html">Fresh</a><a class="on" href="random.html">Random</a></div>'
+                + '</div>'
+                + ''.join(rrows) + '</div></body>')
             rurl = f"https://api.github.com/repos/{REPO}/contents/random.html"
             rsha = None
             try:
