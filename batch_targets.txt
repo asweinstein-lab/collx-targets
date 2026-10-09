@@ -1,50 +1,100 @@
-2 cards [15d] Hank Baldridge |collx://profiles/4980924
-1 cards [4d] Stephanie Sallie |collx://profiles/4964048
-2 cards [25h] Cynthia |collx://profiles/4798735
-1 cards [34d] Michael Genovese |collx://profiles/4521007
-1 cards [15d] Cole |collx://profiles/4743536
-1 cards [4d] Amanda Kovar |collx://profiles/4968333
-1 cards [41h] Gustavo Huerena |collx://profiles/4720016
-1 cards [29d] Ben Campbell |collx://profiles/4933923
-2 cards [6d] Butta Stone |collx://profiles/5038232
-2 cards [31d] Tim Holt |collx://profiles/4908496
-2 cards [26d] daniel . |collx://profiles/4868482
-1 cards [5d] Kam Barcus |collx://profiles/5021079
-2 cards [9d] Adalberto Gimenes |collx://profiles/4959619
-1 cards [11d] Anel Mehanovic |collx://profiles/4449976
-1 cards [19d] Manny Gonzalez |collx://profiles/4936126
-2 cards [37h] Carter L |collx://profiles/4712157
-1 cards [2d] Christian Sheckells |collx://profiles/4885108
-1 cards [26d] Joseph |collx://profiles/4930587
-1 cards [35d] robert allan |collx://profiles/4756226
-1 cards [17d] Joe Tamisiea |collx://profiles/4548082
-1 cards [3d] hank haynes |collx://profiles/5037438
-2 cards [20h] Tyler |collx://profiles/4879771
-2 cards [10d] Dillon Ashley |collx://profiles/4893361
-2 cards [14d] Travis Myers |collx://profiles/4992896
-2 cards [4d] Jonathan Goetz |collx://profiles/4675390
-1 cards [G 26d] Colin Sullivan |collx://profiles/4761965
-2 cards [G 3d] Stacey Jeffries |collx://profiles/4804182
-1 cards [34d] Aubrey Mitschow |collx://profiles/4142428
-1 cards [20d] Wil Devine |collx://profiles/4967186
-1 cards [10d] Trenton |collx://profiles/4796790
-1 cards [22d] Justin |collx://profiles/4866110
-1 cards [27d] Isaac Atchley |collx://profiles/4923794
-1 cards [6d] Elijah |collx://profiles/4966376
-1 cards [5d] JP Murphy |collx://profiles/4931863
-1 cards [40h] Joseph Neubauer |collx://profiles/4799427
-1 cards [G 14d] Baldcajuncards |collx://profiles/4883313
-1 cards [5d] Larry Nahalea |collx://profiles/4808709
-1 cards [28d] Harout KARAPETYAN |collx://profiles/4970031
-1 cards [G 21h] ET_SportsCards13 |collx://profiles/4723119
-1 cards [15d] Johnny Holmes Jr |collx://profiles/4955555
-1 cards [26d] Josiah Hoffman |collx://profiles/4802345
-1 cards [9d] Tommy Shipp |collx://profiles/4975309
-2 cards [8d] Christopher olivarez |collx://profiles/4269665
-1 cards [7d] Ashley Manuel |collx://profiles/5005343
-1 cards [32d] Hunter Teamer |collx://profiles/4757953
-1 cards [7d] Kory Buettgenback |collx://profiles/4954731
-1 cards [20d] Jeremy Ballew |collx://profiles/4913277
-1 cards [9d] Travis Hoffman |collx://profiles/4848776
-1 cards [17d] Brian Geary |collx://profiles/4723073
-1 cards [G 11d] Elijah Carlton |collx://profiles/4863015
+2 cards [10d] W St |collx://profiles/5009804
+1 cards [10d] Robert Rose |collx://profiles/4192065
+1 cards [14d] Ryan Hummer (Ryan) |collx://profiles/4861513
+1 cards [11h] B Bass |collx://profiles/4690134
+2 cards [10h] Jaxon |collx://profiles/4930007
+1 cards [6d] Cade Craig |collx://profiles/4959563
+1 cards [11d] Bill Shirer |collx://profiles/4962662
+1 cards [35d] Cooper Altreuter |collx://profiles/4878268
+1 cards [28d] Andrew Turner |collx://profiles/4964992
+2 cards [33h] First Due Sports Cards |collx://profiles/4906135
+1 cards [4d] Lance Nelson |collx://profiles/4262451
+2 cards [8h] Anitra Hurley |collx://profiles/4889273
+2 cards [44h] Tanner Meyer |collx://profiles/4984424
+1 cards [11d] D CHIZUM |collx://profiles/4980728
+1 cards [9d] Christian Hinkle |collx://profiles/4860688
+1 cards [31d] Cael Hamrick |collx://profiles/4912576
+1 cards [23d] Devon McGill |collx://profiles/4886370
+1 cards [9d] Fatty's Collectibles |collx://profiles/4302881
+1 cards [13h] Levi |collx://profiles/4675481
+1 cards [13h] Jonathan |collx://profiles/5008916
+2 cards [29d] Noah Hinton |collx://profiles/4657372
+2 cards [12h] Alexander Negron Rodriguez |collx://profiles/4805598
+1 cards [7d] Gavin Flurie |collx://profiles/4168567
+1 cards [16d] Kai Veien |collx://profiles/4211989
+1 cards [12d] Brenan Rucker |collx://profiles/5004006
+1 cards [24d] John Colvin |collx://profiles/4445348
+1 cards [17d] Phil McCone |collx://profiles/4626072
+1 cards [3d] Mason Fisher |collx://profiles/4921607
+1 cards [4d] Jessica DuFour |collx://profiles/5014208
+1 cards [2d] Gabby Bottino |collx://profiles/5050146
+1 cards [8d] Your Karma |collx://profiles/4983099
+2 cards [21d] Danielle Hobson |collx://profiles/4764889
+1 cards [26d] Johnny Cash |collx://profiles/4379117
+2 cards [G 3d] Alex Myers |collx://profiles/4470411
+1 cards [22d] Posted Till i die |collx://profiles/4980954
+1 cards [G 18d] Adam |collx://profiles/4915441
+1 cards [6d] joey scelza |collx://profiles/4734782
+1 cards [G 9h] TheSacredHerd |collx://profiles/4666132
+1 cards [9d] Isaac Harper |collx://profiles/4979379
+1 cards [28d] Tutall Jei |collx://profiles/4805860
+1 cards [11d] Caleb Myers |collx://profiles/4718310
+2 cards [10h] The Wax Brief |collx://profiles/4903645
+2 cards [9h] Rafael Torres |collx://profiles/4859621
+1 cards [14d] Paul Marz |collx://profiles/4670941
+1 cards [G 7d] Christopher Diolosa |collx://profiles/4776521
+1 cards [G 11h] Beau |collx://profiles/5054965
+1 cards [24d] Jordan |collx://profiles/4955204
+1 cards [34d] Christian |collx://profiles/4927050
+1 cards [6h] Breuer Bass |collx://profiles/4975926
+2 cards [21d] Ainara Longo |collx://profiles/4756250
+1 cards [6d] Bill Combs |collx://profiles/4930229
+1 cards [G 2d] JoshTheVillain |collx://profiles/4986012
+3 cards [41h] Andrew Barnes |collx://profiles/4699801
+1 cards [30d] Careton King |collx://profiles/4726839
+1 cards [37h] Brenden Wright |collx://profiles/4254368
+1 cards [19d] Kenny Zhang |collx://profiles/4710086
+1 cards [7d] Paige Virgin |collx://profiles/4864652
+1 cards [3d] Harry Dix |collx://profiles/4685673
+2 cards [18d] Emily Botkin |collx://profiles/4996726
+1 cards [10d] James Everman |collx://profiles/4953278
+2 cards [G 35h] Thomas Dore |collx://profiles/4882448
+1 cards [32h] A T |collx://profiles/4997140
+1 cards [32d] Sol Sunn |collx://profiles/4726422
+3 cards [G 40h] James Papio |collx://profiles/5020076
+3 cards [17h] Robert Globe |collx://profiles/5028404
+3 cards [21h] Keyshawn Ray |collx://profiles/4866338
+1 cards [20d] Jovanni |collx://profiles/4991321
+1 cards [16h] Brian |collx://profiles/4357343
+1 cards [22d] Eli Brown |collx://profiles/4932452
+1 cards [34h] IanWestbrook |collx://profiles/4911875
+1 cards [34h] Tom Man |collx://profiles/5021122
+1 cards [12h] Carter Koi |collx://profiles/4910288
+1 cards [G 5d] Colin Cordaro |collx://profiles/4951615
+1 cards [9h] Robert Trudeau |collx://profiles/4273836
+1 cards [34d] Dennis Murphy |collx://profiles/4121410
+1 cards [G 20d] Panks |collx://profiles/4122887
+2 cards [7d] Gabriel Sanchez |collx://profiles/4697759
+1 cards [G 34d] BIG JU JU |collx://profiles/4910923
+1 cards [6d] Ronnie Canterbury |collx://profiles/4494477
+1 cards [46h] Eduardo Palomera |collx://profiles/4718542
+1 cards [3d] Donovan Oliveira |collx://profiles/5033994
+2 cards [3d] Brennan Downard |collx://profiles/4343610
+2 cards [13d] Mn Collectables |collx://profiles/4954487
+3 cards [11h] Michael Pavlakis |collx://profiles/4949006
+2 cards [18d] Easton Edwards |collx://profiles/4946674
+2 cards [22d] ROME |collx://profiles/4464187
+2 cards [16h] Aj Tatman |collx://profiles/4751193
+1 cards [19d] Dylan Crowe |collx://profiles/4947649
+2 cards [G 34h] RJcollectibles |collx://profiles/4281035
+1 cards [18d] Fox X |collx://profiles/4737092
+2 cards [G 27d] Randel Rachel |collx://profiles/4103084
+2 cards [G 29d] Mitchell Houston |collx://profiles/4943242
+1 cards [18h] Ryan Perkins |collx://profiles/4202651
+1 cards [8d] Frank Martinez |collx://profiles/4959550
+2 cards [22h] Zach |collx://profiles/4928638
+2 cards [G 3d] Robert Gable |collx://profiles/4270030
+1 cards [22d] Emmanuel parra |collx://profiles/4645320
+1 cards [3d] Shock099 |collx://profiles/4934472
+2 cards [31h] Patrick dahlton |collx://profiles/5050256
+2 cards [G 16d] George Moresi III |collx://profiles/4281504
