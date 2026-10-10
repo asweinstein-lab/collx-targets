@@ -188,10 +188,25 @@ STYLE = (
  '.bdg.c{color:var(--dim)}'
  '.row.viewed{opacity:.42}'
  '.row.viewed .bdg{color:var(--tx);opacity:.9}'
+ '.fbar{display:flex;gap:6px;padding:10px 0;overflow-x:auto}'
+ '.fc{flex:0 0 auto;padding:6px 11px;border-radius:15px;background:#1A2430;color:var(--dim);'
+ 'font-size:12.5px;font-weight:600;border:1px solid var(--line)}'
+ '.fc.on{background:#2A3B4E;color:var(--tx);border-color:#3A5068}'
  '.dvd{padding:9px 14px;background:#1A2430;color:var(--dim);font-size:12.5px;font-weight:600;'
  'border-bottom:1px solid var(--line)}'
  '</style>')
 
+def _hrs_from_tags(tags):
+    import re as _re
+    for w in tags.split():
+        if w == 'now': return 0.0
+        m = _re.match(r'^(\d+)h$', w)
+        if m: return float(m.group(1))
+        m = _re.match(r'^(\d+)d$', w)
+        if m: return float(m.group(1))*24
+    return 9999.0
+
+_ROWI = [0]
 def row_html(pid, nm, cards, tags, state):
     chips = []
     t = tags
@@ -205,7 +220,10 @@ def row_html(pid, nm, cards, tags, state):
     rest = ' '.join(w for w in tt.split() if not w.startswith('+'))
     if delta: chips.append(f'<span class="ch new">{delta}</span>')
     if rest: chips.append(f'<span>{rest}</span>')
-    return (f'<a class="row" data-pid="{pid}" href="collx://profiles/{pid}">'
+    _h = _hrs_from_tags(tags)
+    _ROWI[0] += 1
+    return (f'<a class="row" data-pid="{pid}" data-cards="{cards}" data-hrs="{_h}"'
+            f' data-now="{1 if _h == 0 else 0}" data-i="{_ROWI[0]}" href="collx://profiles/{pid}">'
             f'<span class="ct"><b>{cards}</b><i>cards</i></span>'
             f'<span class="main"><span class="nm">{nm}</span>'
             f'<span class="meta">{"".join(chips)}<span class="bdg{" c" if state=="carry" else ""}">{state}</span></span></span></a>')
@@ -258,6 +276,43 @@ def row_html(pid, nm, cards, tags, state):
         ' if(localStorage.getItem(k(pid)))mark();'
         ' a.addEventListener("click",function(){localStorage.setItem(k(pid),Date.now());mark();});'
         '});'
+        'var FS=JSON.parse(localStorage.getItem("filters_v1")||"{}");'
+        'var chips=document.querySelectorAll(".fc");'
+        'function savef(){localStorage.setItem("filters_v1",JSON.stringify(FS));}'
+        'function apply(){'
+        ' var rows=[].slice.call(document.querySelectorAll("a.row"));'
+        ' var min=FS.c50?50:FS.c25?25:FS.c10?10:0;'
+        ' rows.forEach(function(r){'
+        '  var vis=true;'
+        '  if(FS.hv&&r.classList.contains("viewed"))vis=false;'
+        '  if(+r.dataset.cards<min)vis=false;'
+        '  if(FS.on&&r.dataset.now!=="1")vis=false;'
+        '  r.style.display=vis?"":"none";});'
+        ' var dvd=document.querySelector(".dvd");'
+        ' if(FS.sort){'
+        '  if(dvd)dvd.style.display="none";'
+        '  var par=rows[0]&&rows[0].parentNode;'
+        '  if(par){rows.sort(function(a,b){return (+a.dataset.hrs)-(+b.dataset.hrs)||(+a.dataset.i)-(+b.dataset.i);});'
+        '   rows.forEach(function(r){par.appendChild(r);});}'
+        ' }else{'
+        '  if(dvd)dvd.style.display="";'
+        '  var par2=rows[0]&&rows[0].parentNode;'
+        '  if(par2){rows.sort(function(a,b){return (+a.dataset.i)-(+b.dataset.i);});'
+        '   rows.forEach(function(r){par2.appendChild(r);});'
+        '   if(dvd&&rows.length){var after=rows.filter(function(r){return r.querySelector(".bdg").textContent==="carry";})[0];'
+        '    if(after)par2.insertBefore(dvd,after);}}'
+        ' }'
+        '}'
+        'chips.forEach(function(ch){'
+        ' var f=ch.dataset.f;'
+        ' if(FS[f])ch.classList.add("on");'
+        ' ch.addEventListener("click",function(){'
+        '  if(f==="c10"||f==="c25"||f==="c50"){var was=FS[f];FS.c10=FS.c25=FS.c50=0;FS[f]=was?0:1;'
+        '   chips.forEach(function(c2){if(/^c\\d/.test(c2.dataset.f))c2.classList.toggle("on",!!FS[c2.dataset.f]);});}'
+        '  else{FS[f]=FS[f]?0:1;ch.classList.toggle("on",!!FS[f]);}'
+        '  savef();apply();});'
+        '});'
+        'apply();'
         'var now=Date.now();'
         'for(var i=localStorage.length-1;i>=0;i--){var key=localStorage.key(i);'
         ' if(key&&key.indexOf("viewed_")===0&&now-(+localStorage.getItem(key))>14*86400000)localStorage.removeItem(key);}'
@@ -277,6 +332,7 @@ def row_html(pid, nm, cards, tags, state):
         + f'<div class="hdr"><div class="hrow"><span><b>CollX targets</b> · {ts} · {len(lines)} fresh</span>'
         + '<a href="javascript:location.replace(location.pathname+\'?t=\'+Date.now())">refresh</a></div>'
         + '<div class="tabs"><a class="on" href="index.html">Fresh</a><a href="random.html">Random</a></div>'
+        + '<div class="fbar">''<span class="fc" data-f="hv">Hide viewed</span>''<span class="fc" data-f="c10">10+</span>''<span class="fc" data-f="c25">25+</span>''<span class="fc" data-f="c50">50+</span>''<span class="fc" data-f="on">Online now</span>''<span class="fc" data-f="sort">Newest first</span>''</div>'
         + '</div>'
         + ''.join(rows) + '</div></body>'
     )
@@ -324,6 +380,7 @@ if os.path.exists(pconf):
                 + f'<div class="hdr"><div class="hrow"><span><b>CollX random</b> · {ts} · {len(rrows)} never contacted</span>'
                 + '<a href="javascript:location.replace(location.pathname+\'?t=\'+Date.now())">refresh</a></div>'
                 + '<div class="tabs"><a href="index.html">Fresh</a><a class="on" href="random.html">Random</a></div>'
+                + '<div class="fbar">''<span class="fc" data-f="hv">Hide viewed</span>''<span class="fc" data-f="c10">10+</span>''<span class="fc" data-f="c25">25+</span>''<span class="fc" data-f="c50">50+</span>''<span class="fc" data-f="on">Online now</span>''<span class="fc" data-f="sort">Newest first</span>''</div>'
                 + '</div>'
                 + ''.join(rrows) + '</div></body>')
             rurl = f"https://api.github.com/repos/{REPO}/contents/random.html"
