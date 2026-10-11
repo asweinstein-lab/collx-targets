@@ -123,8 +123,7 @@ df['score'] = (
 )
 pool = df[df['cards'] >= 1].sort_values('score', ascending=False)
 if pool.empty:
-    print("no fresh profiles this pull")
-    sys.exit(0)
+    print("no fresh profiles this pull - rebuilding pages from carry")
 
 lines = []
 for pid, r in pool.iterrows():
@@ -278,7 +277,9 @@ if True:  # page build block
         '  if(!document.hidden && Date.now()-BUILD>10*60*1000)bust();'
         '});'
         '})();</script>'
-        '<script>(function(){'
+    )
+    app_js = (
+        '<script>document.addEventListener("DOMContentLoaded",function(){'
         'function k(p){return "viewed_"+p}'
         'var as=document.querySelectorAll("a.row");'
         'as.forEach(function(a){'
@@ -331,7 +332,7 @@ if True:  # page build block
         'var now=Date.now();'
         'for(var i=localStorage.length-1;i>=0;i--){var key=localStorage.key(i);'
         ' if(key&&key.indexOf("viewed_")===0&&now-(+localStorage.getItem(key))>14*86400000)localStorage.removeItem(key);}'
-        '})();</script>'
+        '});</script>'
     )
     pwa_tags = (
         '<link rel="manifest" href="manifest.json">'
@@ -349,7 +350,7 @@ if True:  # page build block
         + '<div class="tabs"><a class="on" href="index.html">Fresh</a><a href="random.html">Random</a></div>'
         + '<div class="fbar">''<span class="fc" data-f="hv">Hide viewed</span>''<span class="fc" data-f="c10">10+</span>''<span class="fc" data-f="c25">25+</span>''<span class="fc" data-f="c50">50+</span>''<span class="fc" data-f="on">Online now</span>''<span class="fc" data-f="sort">Newest first</span>''</div>'
         + '</div>'
-        + ''.join(rows) + '</div></body>'
+        + ''.join(rows) + '</div>' + app_js + '</body>'
     )
     if os.path.isdir(icloud):
         open(f"{icloud}/collx_targets.html", 'w').write(page)
@@ -377,6 +378,6 @@ rpage = (
     + '<span class="fc" data-f="c25">25+</span><span class="fc" data-f="c50">50+</span>'
     + '<span class="fc" data-f="on">Online now</span><span class="fc" data-f="sort">Newest first</span></div>'
     + '</div>'
-    + ''.join(rrows) + '</div></body>')
+    + ''.join(rrows) + '</div>' + app_js + '</body>')
 open(f"{HOME}/random.html", "w").write(rpage)
 print("pages written")
