@@ -3,7 +3,7 @@
 and the manual-export schema. Diffs newest vs previous, excludes served,
 scores, writes ~/collx_targets.txt"""
 # CLOUD FETCH: pull the current export straight from Metabase
-import urllib.request as _ur, urllib.parse as _up, datetime as _dt, os as _os
+import urllib.request as _ur, urllib.parse as _up, datetime as _dt, os as _os, glob as _glob
 _CSV_URL = ("https://metabase.collx.app/api/public/dashboard/"
             "d047d975-cd8b-4fdd-9bc2-9cb1ad3d6c1c/dashcard/235/card/229/csv")
 _body = _up.urlencode({"parameters": "[]"}).encode()
@@ -15,14 +15,11 @@ _rows = _raw.count(b"\n")
 if _rows < 100:
     raise SystemExit(f"fetch FAILED: only {_rows} rows")
 _wd = _os.environ.get("WORKDIR", ".")
-_ts = _dt.datetime.utcnow().strftime("%Y-%m-%dT%H_%M_%S")
+_ts = _dt.datetime.now(_dt.timezone.utc).strftime("%Y-%m-%dT%H_%M_%S")
 open(f"{_wd}/export_{_ts}.csv", "wb").write(_raw)
 print(f"fetched {_rows} rows")
-# keep only the 2 newest exports in the repo
-import glob as _glob
-_eps = sorted(_glob.glob(f"{_wd}/export_*.csv"))
-for _old in _eps[:-2]:
-    _os.remove(_old)
+for _old_f in sorted(_glob.glob(f"{_wd}/export_*.csv"))[:-2]:
+    _os.remove(_old_f)
 
 import pandas as pd, numpy as np, re, glob, os, sys
 
@@ -30,7 +27,7 @@ HOME = os.environ.get("WORKDIR", ".")
 DATA = HOME
 EXCL = f"{DATA}/served_ids.txt"
 TARGETS = f"{HOME}/targets.txt"
-POS = f"{HOME}/.collx_pos_unused"
+POS = f"{HOME}/pos.txt"
 TCG = re.compile(r'pokemon|poké|poke\b|tcg|magic|mtg|yugioh|yu-gi|onepiece|one piece|lorcana|gundam|dragonball|dbz', re.I)
 
 def load(p):
@@ -173,12 +170,193 @@ with open(EXCL, 'a') as _f:
 open(POS, 'w').write('1\n')
 
 # PHONE VERSION: tappable HTML into iCloud Drive
-icloud = "/nonexistent"
+icloud = f"{HOME}/Library/Mobile Documents/com~apple~CloudDocs"
+if True:
+    import datetime, html as _html
 
-# CLOUD PUBLISH: write pages as files; the workflow git-commits everything
+STYLE = (
+ '<style>'
+ ':root{--bg:#121A24;--line:#223042;--tx:#E8EEF4;--dim:#8A98A8;--act:#4FA3FF;'
+ '--new:#3DD68C;--back:#F5B83D;--grad:#B48CFF}'
+ '*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}'
+ 'body{font-family:-apple-system,system-ui,sans-serif;margin:0;background:var(--bg);color:var(--tx)}'
+ '.wrap{max-width:560px;margin:0 auto}'
+ '.hdr{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding:10px 14px 0}'
+ '.hrow{display:flex;align-items:baseline;justify-content:space-between;font-size:13px;color:var(--dim)}'
+ '.hrow b{color:var(--tx);font-size:15px;font-weight:600}'
+ '.hrow a{color:var(--act);text-decoration:none;font-size:13px}'
+ '.tabs{display:flex;gap:2px;margin:10px 0 0;background:#1A2430;border-radius:9px;padding:2px}'
+ '.tabs a{flex:1;text-align:center;padding:7px 0;border-radius:7px;font-size:14px;font-weight:600;'
+ 'color:var(--dim);text-decoration:none}'
+ '.tabs a.on{background:#2A3B4E;color:var(--tx)}'
+ '.row{display:flex;gap:12px;align-items:center;padding:11px 14px;border-bottom:1px solid var(--line);'
+ 'text-decoration:none;color:inherit}'
+ '.row:active{background:#1A2430}'
+ '@media(hover:hover){.row:hover{background:#17202B;cursor:pointer}}'
+ '.ct{flex:0 0 52px;text-align:center}'
+ '.ct b{display:block;font-size:19px;font-weight:700;line-height:1.1}'
+ '.ct i{display:block;font-style:normal;font-size:10.5px;color:var(--dim)}'
+ '.main{flex:1;min-width:0}'
+ '.nm{font-size:16.5px;font-weight:600;line-height:1.25;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}'
+ '.meta{margin-top:3px;font-size:12.5px;color:var(--dim);display:flex;gap:6px;align-items:center;flex-wrap:wrap}'
+ '.ch{padding:1px 7px;border-radius:5px;font-weight:700;font-size:11px}'
+ '.ch.new{background:rgba(61,214,140,.16);color:var(--new)}'
+ '.ch.back{background:rgba(245,184,61,.16);color:var(--back)}'
+ '.ch.g{background:rgba(180,140,255,.16);color:var(--grad)}'
+ '.bdg{margin-left:auto;font-size:11px;font-weight:700;color:var(--new)}'
+ '.bdg.c{color:var(--dim)}'
+ '.row.viewed{opacity:.42}'
+ '.row.viewed .bdg{color:var(--tx);opacity:.9}'
+ '.fbar{display:flex;gap:6px;padding:10px 0;overflow-x:auto}'
+ '.fc{flex:0 0 auto;padding:6px 11px;border-radius:15px;background:#1A2430;color:var(--dim);'
+ 'font-size:12.5px;font-weight:600;border:1px solid var(--line)}'
+ '.fc.on{background:#2A3B4E;color:var(--tx);border-color:#3A5068}'
+ '.dvd{padding:9px 14px;background:#1A2430;color:var(--dim);font-size:12.5px;font-weight:600;'
+ 'border-bottom:1px solid var(--line)}'
+ '</style>')
+
+def _hrs_from_tags(tags):
+    import re as _re
+    for w in tags.split():
+        if w == 'now': return 0.0
+        m = _re.match(r'^(\d+)h$', w)
+        if m: return float(m.group(1))
+        m = _re.match(r'^(\d+)d$', w)
+        if m: return float(m.group(1))*24
+    return 9999.0
+
+_ROWI = [0]
+def row_html(pid, nm, cards, tags, state):
+    chips = []
+    t = tags
+    if 'BACK' in t: chips.append('<span class="ch back">BACK</span>'); t = t.replace('BACK','')
+    if 'NEW' in t: chips.append('<span class="ch new">NEW</span>'); t = t.replace('NEW','')
+    if 'NOADDR' in t: t = t.replace('NOADDR',''); chips.append('<span class="ch" style="background:#2A3B4E;color:var(--dim)">no addr</span>')
+    tt = t.replace('G','').strip() if 'G' in t.split() or t.startswith('G ') or ' G ' in f' {t} ' else t.strip()
+    if ('G' in t.split()) or t.startswith('G ') or (' G ' in f' {t} '):
+        chips.append('<span class="ch g">graded</span>')
+    delta = ' '.join(w for w in tt.split() if w.startswith('+'))
+    rest = ' '.join(w for w in tt.split() if not w.startswith('+'))
+    if delta: chips.append(f'<span class="ch new">{delta}</span>')
+    if rest: chips.append(f'<span>{rest}</span>')
+    _h = _hrs_from_tags(tags)
+    _ROWI[0] += 1
+    return (f'<a class="row" data-pid="{pid}" data-cards="{cards}" data-hrs="{_h}"'
+            f' data-now="{1 if _h == 0 else 0}" data-i="{_ROWI[0]}" href="collx://profiles/{pid}">'
+            f'<span class="ct"><b>{cards}</b><i>cards</i></span>'
+            f'<span class="main"><span class="nm">{nm}</span>'
+            f'<span class="meta">{"".join(chips)}<span class="bdg{" c" if state=="carry" else ""}">{state}</span></span></span></a>')
+
+if True:  # page build block
+    rows = []
+    for i, l in enumerate(all_lines, 1):
+        m = re.search(r'^(\d+) cards \[(.*?)\] (.*?) \|collx://profiles/(\d+)$', l)
+        if not m:
+            continue
+        cards, tags, nm, pid = m.groups()
+        if pid == '0':
+            rows.append('<div class="dvd">Seen before — carry-overs below</div>')
+            continue
+        fresh = i <= len(lines)
+        rows.append(row_html(pid, _html.escape(nm), cards, _html.escape(tags),
+                             'FRESH' if fresh else 'carry'))
+    ts = datetime.datetime.now().strftime('%-I:%M %p')
+    import time as _time
+    build_ms = int(_time.time() * 1000)
+    refresh_js = (
+        '<script>(function(){'
+        f'var BUILD={build_ms};'
+        'var AGE=Date.now()-BUILD;'
+        'function bust(){'
+        '  var last=+(sessionStorage.getItem("lastbust")||0);'
+        '  if(Date.now()-last<60000)return;'  # max one auto-reload per minute, no loops
+        '  sessionStorage.setItem("lastbust",Date.now());'
+        '  location.replace(location.pathname+"?t="+Date.now());'
+        '}'
+        'if(AGE>10*60*1000)bust();'  # stale on open -> refetch
+        'document.addEventListener("visibilitychange",function(){'
+        '  if(!document.hidden && Date.now()-BUILD>10*60*1000)bust();'
+        '});'
+        '})();</script>'
+        '<script>(function(){'
+        'function k(p){return "viewed_"+p}'
+        'var as=document.querySelectorAll("a.row");'
+        'as.forEach(function(a){'
+        ' var pid=a.dataset.pid;'
+        ' function mark(){'
+        '  a.classList.add("viewed");'
+        '  var b=a.querySelector(".bdg");'
+        '  if(b)b.textContent="VIEWED";'
+        ' }'
+        ' if(localStorage.getItem(k(pid)))mark();'
+        ' a.addEventListener("click",function(){localStorage.setItem(k(pid),Date.now());mark();});'
+        '});'
+        'var FS=JSON.parse(localStorage.getItem("filters_v1")||"{}");'
+        'var chips=document.querySelectorAll(".fc");'
+        'function savef(){localStorage.setItem("filters_v1",JSON.stringify(FS));}'
+        'function apply(){'
+        ' var rows=[].slice.call(document.querySelectorAll("a.row"));'
+        ' var min=FS.c50?50:FS.c25?25:FS.c10?10:0;'
+        ' rows.forEach(function(r){'
+        '  var vis=true;'
+        '  if(FS.hv&&r.classList.contains("viewed"))vis=false;'
+        '  if(+r.dataset.cards<min)vis=false;'
+        '  if(FS.on&&r.dataset.now!=="1")vis=false;'
+        '  r.style.display=vis?"":"none";});'
+        ' var dvd=document.querySelector(".dvd");'
+        ' if(FS.sort){'
+        '  if(dvd)dvd.style.display="none";'
+        '  var par=rows[0]&&rows[0].parentNode;'
+        '  if(par){rows.sort(function(a,b){return (+a.dataset.hrs)-(+b.dataset.hrs)||(+a.dataset.i)-(+b.dataset.i);});'
+        '   rows.forEach(function(r){par.appendChild(r);});}'
+        ' }else{'
+        '  if(dvd)dvd.style.display="";'
+        '  var par2=rows[0]&&rows[0].parentNode;'
+        '  if(par2){rows.sort(function(a,b){return (+a.dataset.i)-(+b.dataset.i);});'
+        '   rows.forEach(function(r){par2.appendChild(r);});'
+        '   if(dvd&&rows.length){var after=rows.filter(function(r){return r.querySelector(".bdg").textContent==="carry";})[0];'
+        '    if(after)par2.insertBefore(dvd,after);}}'
+        ' }'
+        '}'
+        'chips.forEach(function(ch){'
+        ' var f=ch.dataset.f;'
+        ' if(FS[f])ch.classList.add("on");'
+        ' ch.addEventListener("click",function(){'
+        '  if(f==="c10"||f==="c25"||f==="c50"){var was=FS[f];FS.c10=FS.c25=FS.c50=0;FS[f]=was?0:1;'
+        '   chips.forEach(function(c2){if(/^c\\d/.test(c2.dataset.f))c2.classList.toggle("on",!!FS[c2.dataset.f]);});}'
+        '  else{FS[f]=FS[f]?0:1;ch.classList.toggle("on",!!FS[f]);}'
+        '  savef();apply();});'
+        '});'
+        'apply();'
+        'var now=Date.now();'
+        'for(var i=localStorage.length-1;i>=0;i--){var key=localStorage.key(i);'
+        ' if(key&&key.indexOf("viewed_")===0&&now-(+localStorage.getItem(key))>14*86400000)localStorage.removeItem(key);}'
+        '})();</script>'
+    )
+    pwa_tags = (
+        '<link rel="manifest" href="manifest.json">'
+        '<link rel="apple-touch-icon" href="icon-180.png">'
+        '<meta name="apple-mobile-web-app-capable" content="yes">'
+        '<meta name="apple-mobile-web-app-status-bar-style" content="black">'
+        '<meta name="theme-color" content="#111111">'
+    )
+    page = (
+        '<!doctype html><meta name="viewport" content="width=device-width,initial-scale=1">'
+        + pwa_tags + STYLE + refresh_js
+        + '<body><div class="wrap">'
+        + f'<div class="hdr"><div class="hrow"><span><b>CollX targets</b> · {ts} · {len(lines)} fresh</span>'
+        + '<a href="javascript:location.replace(location.pathname+\'?t=\'+Date.now())">refresh</a></div>'
+        + '<div class="tabs"><a class="on" href="index.html">Fresh</a><a href="random.html">Random</a></div>'
+        + '<div class="fbar">''<span class="fc" data-f="hv">Hide viewed</span>''<span class="fc" data-f="c10">10+</span>''<span class="fc" data-f="c25">25+</span>''<span class="fc" data-f="c50">50+</span>''<span class="fc" data-f="on">Online now</span>''<span class="fc" data-f="sort">Newest first</span>''</div>'
+        + '</div>'
+        + ''.join(rows) + '</div></body>'
+    )
+    if os.path.isdir(icloud):
+        open(f"{icloud}/collx_targets.html", 'w').write(page)
+
+# CLOUD PUBLISH: write pages; the workflow commits everything
 open(f"{HOME}/index.html", "w").write(page)
 
-# RANDOM TAB
 rnd_pool = full_df[(full_df['cards'] >= 1) & ~full_df.index.isin(excl)]
 rnd = rnd_pool.sample(min(100, len(rnd_pool))) if len(rnd_pool) else rnd_pool
 rrows = []
@@ -194,7 +372,10 @@ rpage = (
     + f'<div class="hdr"><div class="hrow"><span><b>CollX random</b> · {ts} · {len(rrows)} never contacted</span>'
     + '<a href="javascript:location.replace(location.pathname+\'?t=\'+Date.now())">refresh</a></div>'
     + '<div class="tabs"><a href="index.html">Fresh</a><a class="on" href="random.html">Random</a></div>'
-    + '<div class="fbar">''<span class="fc" data-f="hv">Hide viewed</span>''<span class="fc" data-f="c10">10+</span>''<span class="fc" data-f="c25">25+</span>''<span class="fc" data-f="c50">50+</span>''<span class="fc" data-f="on">Online now</span>''<span class="fc" data-f="sort">Newest first</span>''</div>'
+    + '<div class="fbar">'
+    + '<span class="fc" data-f="hv">Hide viewed</span><span class="fc" data-f="c10">10+</span>'
+    + '<span class="fc" data-f="c25">25+</span><span class="fc" data-f="c50">50+</span>'
+    + '<span class="fc" data-f="on">Online now</span><span class="fc" data-f="sort">Newest first</span></div>'
     + '</div>'
     + ''.join(rrows) + '</div></body>')
 open(f"{HOME}/random.html", "w").write(rpage)
