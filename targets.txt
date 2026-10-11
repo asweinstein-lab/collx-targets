@@ -1,11 +1,26 @@
-53 cards [BACK +39 now] Trent Crumback |collx://profiles/5071002
+579 cards [BACK +200 now] Laken Hood |collx://profiles/5067834
+54 cards [BACK +21 now] Adam James |collx://profiles/5037081
+29 cards [BACK +15 now] Justin Jackson |collx://profiles/4955003
+40 cards [NEW now] Gabe Johnson |collx://profiles/5065620
+28 cards [NEW now] Kayden Norris |collx://profiles/5066390
+16 cards [NEW now] Gilligan The Goddess |collx://profiles/5071572
+4 cards [G NEW now] David Duncan |collx://profiles/5070748
+6 cards [NEW now] Jim Salge |collx://profiles/5034846
+4 cards [NEW now] Pavel  Rodriguez |collx://profiles/5067638
+3 cards [NEW now] Burke Davidson Baxter |collx://profiles/5067763
+2 cards [NEW now] Joseph Garcia meza |collx://profiles/4854975
+2 cards [NEW now] Marcelino Garcia |collx://profiles/5069702
+1 cards [NEW now] Sam Spear |collx://profiles/5071211
+1 cards [NEW now] John Salazar |collx://profiles/5061171
+1 cards [NEW now] Craig Repasky |collx://profiles/5017390
+1 cards [NEW now] Joey Rowan |collx://profiles/5043365
+2 cards [NEW NOADDR now] jesus jimenez |collx://profiles/5061694
+1 cards [NEW NOADDR now] Danny Hernandez |collx://profiles/5067271
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 87 cards [BACK +16 now] Natalie Jayroe |collx://profiles/5066841
 31 cards [BACK +26 now] Devonte Barnes |collx://profiles/4882493
-14 cards [+11 now] Justin Jackson |collx://profiles/4955003
-379 cards [NEW now] Laken Hood |collx://profiles/5067834
 33 cards [NEW now] Daniel Acosta |collx://profiles/5043485
 8 cards [G NEW now] NKY Cards |collx://profiles/5071111
-12 cards [NEW now] Don Huenniger |collx://profiles/5061745
 9 cards [NEW now] Christopher Gilfix |collx://profiles/5070200
 8 cards [NEW now] Jayk McCampbell |collx://profiles/5063375
 7 cards [NEW now] Tristan Brown |collx://profiles/4303600
@@ -18,9 +33,7 @@
 1 cards [NEW now] Richard Hudak |collx://profiles/5070330
 1 cards [NEW now] David Resnick |collx://profiles/4958101
 1 cards [NEW now] Lucas  Miodonski |collx://profiles/4761005
-1 cards [NEW now] Marc |collx://profiles/4704995
 1 cards [NEW now] Rey Rubio |collx://profiles/4398671
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 31 cards [BACK +23 now] Jose Patino |collx://profiles/5044238
 37 cards [NEW now] Angel M. Resa |collx://profiles/4999408
 36 cards [NEW now] Cory |collx://profiles/5070719
@@ -81,7 +94,6 @@
 34 cards [NEW 11h] Tyler Berrens |collx://profiles/4991618
 28 cards [NEW now] Delaney Niklaus |collx://profiles/4946885
 9 cards [+7 7h] Daniel Dominguez |collx://profiles/5020038
-26 cards [NEW 4h] Kris Kelsey |collx://profiles/4933837
 26 cards [NEW 4h] Brian Hansen |collx://profiles/5069034
 164 cards [NEW 7h] Tuesdi Heath |collx://profiles/4415873
 151 cards [NEW 6h] Joshua Evander |collx://profiles/4581374
@@ -100,7 +112,6 @@
 35 cards [NEW 15h] Andrew Lane Clary |collx://profiles/5024297
 30 cards [NEW 17h] A S |collx://profiles/4162096
 14 cards [G NEW 9h] Weston Knight |collx://profiles/4920706
-13 cards [G NEW 5h] Lyon Cardz |collx://profiles/4868378
 8 cards [+6 13h] First Due Sports Cards |collx://profiles/4906135
 23 cards [NEW 17h] Zakhary Trumbull |collx://profiles/5054628
 20 cards [NEW 16h] Juan Tasejo |collx://profiles/5015780
@@ -108,7 +119,6 @@
 2 cards [+1 3h] Jevelyn Mahealani Lincoln |collx://profiles/5021460
 18 cards [NEW 12h] Brandon Berumen |collx://profiles/4785785
 22 cards [G NEW 36h] Auston Carter |collx://profiles/5056233
-6 cards [G NEW now] Austin Rush |collx://profiles/5069539
 6 cards [G NEW 12h] Mark Foley |collx://profiles/5054910
 4 cards [G NEW 9h] Edward |collx://profiles/5068352
 4 cards [G NEW 7h] Tony Rodriguez |collx://profiles/5067678
@@ -206,7 +216,6 @@
 1 cards [NEW 3h] Dallas Foley |collx://profiles/5069019
 1 cards [NEW 12h] Anthony Vultaggio |collx://profiles/5067699
 1 cards [NEW 9h] Grace Rupp |collx://profiles/5069869
-1 cards [G NEW 21h] Hunter |collx://profiles/3952049
 1 cards [NEW 10h] Zac Russell |collx://profiles/4684674
 1 cards [G NEW 15h] JByrd |collx://profiles/4802255
 1 cards [NEW 10h] Joseph |collx://profiles/4716278
