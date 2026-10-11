@@ -1,0 +1,9 @@
+/home/runner/work/collx-targets/collx-targets/collx_cloud.py:18: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  _ts = _dt.datetime.utcnow().strftime("%Y-%m-%dT%H_%M_%S")
+fetched 5001 rows
+Traceback (most recent call last):
+  File "/home/runner/work/collx-targets/collx-targets/collx_cloud.py", line 179, in <module>
+    open(f"{HOME}/index.html", "w").write(page)
+                                          ^^^^
+NameError: name 'page' is not defined. Did you mean: 'range'?
+exit: 1
