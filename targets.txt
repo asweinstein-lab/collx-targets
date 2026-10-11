@@ -1,9 +1,24 @@
-579 cards [BACK +200 now] Laken Hood |collx://profiles/5067834
-54 cards [BACK +21 now] Adam James |collx://profiles/5037081
-29 cards [BACK +15 now] Justin Jackson |collx://profiles/4955003
+830 cards [BACK +251 now] Laken Hood |collx://profiles/5067834
+66 cards [BACK +38 now] Kayden Norris |collx://profiles/5066390
+81 cards [BACK +27 now] Adam James |collx://profiles/5037081
+48 cards [BACK +19 now] Justin Jackson |collx://profiles/4955003
+35 cards [BACK +19 now] Gilligan The Goddess |collx://profiles/5071572
+8 cards [+7 now] E&E Sports Collect |collx://profiles/4230107
+20 cards [NEW now] Sports Cards Mississippi |collx://profiles/5007413
+7 cards [G NEW now] Caleb King |collx://profiles/5071739
+4 cards [G NEW now] Frank Belmares |collx://profiles/5059930
+3 cards [G NEW now] Joseph Miranda |collx://profiles/5060424
+1 cards [G NEW now] Lukco Brasii |collx://profiles/5071668
+5 cards [NEW now] Colton Wray |collx://profiles/4018702
+5 cards [NEW now] Bill Wetzelberger |collx://profiles/5057015
+4 cards [NEW now] Will Davenport |collx://profiles/5071810
+3 cards [NEW now] Tanner Castaneda |collx://profiles/5071775
+1 cards [NEW now] Kody Boyd |collx://profiles/5071789
+1 cards [NEW now] Keith Yates |collx://profiles/5071698
+1 cards [NEW now] Don Ahlen |collx://profiles/5018442
+1 cards [NEW now] Cleo Gilbert |collx://profiles/5044501
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 40 cards [NEW now] Gabe Johnson |collx://profiles/5065620
-28 cards [NEW now] Kayden Norris |collx://profiles/5066390
-16 cards [NEW now] Gilligan The Goddess |collx://profiles/5071572
 4 cards [G NEW now] David Duncan |collx://profiles/5070748
 6 cards [NEW now] Jim Salge |collx://profiles/5034846
 4 cards [NEW now] Pavel  Rodriguez |collx://profiles/5067638
@@ -16,7 +31,6 @@
 1 cards [NEW now] Joey Rowan |collx://profiles/5043365
 2 cards [NEW NOADDR now] jesus jimenez |collx://profiles/5061694
 1 cards [NEW NOADDR now] Danny Hernandez |collx://profiles/5067271
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 87 cards [BACK +16 now] Natalie Jayroe |collx://profiles/5066841
 31 cards [BACK +26 now] Devonte Barnes |collx://profiles/4882493
 33 cards [NEW now] Daniel Acosta |collx://profiles/5043485
@@ -207,7 +221,6 @@
 9 cards [NEW 12h] Tom Williams |collx://profiles/5011617
 16 cards [NEW 9d] Honda God |collx://profiles/5037005
 7 cards [NEW 15h] Alejandro Hernandez |collx://profiles/4901550
-6 cards [NEW 17h] Mac |collx://profiles/4973528
 1 cards [NEW 11h] Andrea |collx://profiles/4143544
 1 cards [NEW 10h] Georgie Franco |collx://profiles/5067275
 1 cards [NEW 10h] Christopher Sturm |collx://profiles/5069317
@@ -264,7 +277,6 @@
 2 cards [NEW 17h] Mason Hanson |collx://profiles/5066416
 2 cards [G NEW 35h] Anthony Colvin |collx://profiles/5028041
 9 cards [NEW 32h] Ann Wooldridge |collx://profiles/4742364
-8 cards [NEW 34h] Marcus Michaud |collx://profiles/3967239
 1 cards [NEW 17h] drclark22@live.com |collx://profiles/5024405
 1 cards [NEW 12h] Sven Dye |collx://profiles/4365006
 1 cards [NEW 14h] Ryan |collx://profiles/4244649
