@@ -1,14 +1,27 @@
-267 cards [NEW now] Jennifer |collx://profiles/5070918
+71 cards [BACK +56 now] Natalie Jayroe |collx://profiles/5066841
+312 cards [BACK +45 now] Jennifer |collx://profiles/5070918
+31 cards [BACK +23 now] Jose Patino |collx://profiles/5044238
+51 cards [BACK +15 now] Jason Zala |collx://profiles/5004677
+37 cards [NEW now] Angel M. Resa |collx://profiles/4999408
+36 cards [NEW now] Cory |collx://profiles/5070719
+35 cards [NEW now] JacobMiller |collx://profiles/5070725
+27 cards [NEW now] Jonathan |collx://profiles/5071005
+14 cards [NEW now] Trent Crumback |collx://profiles/5071002
+7 cards [NEW now] Jake Cillo |collx://profiles/5070358
+7 cards [NEW now] Andres Valencia |collx://profiles/5066464
+6 cards [NEW now] Karen Smaka |collx://profiles/5067588
+5 cards [NEW now] brett haack |collx://profiles/4877641
+5 cards [NEW now] Devonte Barnes |collx://profiles/4882493
+2 cards [NEW now] Thomas |collx://profiles/5057617
+1 cards [NEW now] Marc |collx://profiles/4914576
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 22 cards [NEW NOADDR now] casey theresa |collx://profiles/4472638
 4 cards [G NEW now] rex walters |collx://profiles/5070856
-4 cards [G NEW now] Josh Mackey |collx://profiles/4752171
 7 cards [NEW now] Zachary Nelson II |collx://profiles/5062315
 1 cards [G NEW now] Tony Long |collx://profiles/5070121
 2 cards [NEW now] Brad Hiestand |collx://profiles/5070847
 1 cards [NEW now] Tom |collx://profiles/5069980
 1 cards [NEW now] Benjamin Chambers |collx://profiles/4750240
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
-36 cards [BACK +33 now] Jason Zala |collx://profiles/5004677
 10 cards [NEW now] Kelly McCauley |collx://profiles/5017065
 5 cards [NEW now] Barkovmemes Cards |collx://profiles/4973145
 4 cards [NEW now] Tyler Jordan White |collx://profiles/5055073
@@ -16,7 +29,6 @@
 1 cards [NEW now] Kailea Graves |collx://profiles/5064785
 1 cards [NEW now] Zaytoven 2x |collx://profiles/5068937
 1 cards [NEW now] Chris |collx://profiles/4104243
-50 cards [BACK G +29 now] Krista Gage |collx://profiles/5070721
 39 cards [BACK +22 now] LIBERTACUBA |collx://profiles/4713203
 2 cards [G +1 now] Bryce Ridley |collx://profiles/4876456
 1 cards [NEW now] James Vallesteros |collx://profiles/4990730
@@ -66,7 +78,6 @@
 19 cards [NEW 8h] Kyler Freeman |collx://profiles/5055273
 17 cards [NEW 11h] Hailey Hess |collx://profiles/4950891
 6 cards [+5 7h] Miki |collx://profiles/5055152
-16 cards [NEW 8h] Aidan Sullivan |collx://profiles/5062777
 16 cards [NEW now] Chad Lambert |collx://profiles/4941544
 34 cards [NEW NOADDR 6h] Adam Gibney |collx://profiles/5054059
 15 cards [NEW 8h] Michael Langino |collx://profiles/4236061
@@ -97,7 +108,6 @@
 11 cards [NEW 11h] John Wittenberg |collx://profiles/5067609
 3 cards [G +1 38h] Jackson |collx://profiles/5007188
 2 cards [+1 15h] Gauge |collx://profiles/4996279
-2 cards [+1 20h] Kevin Lapin |collx://profiles/4845019
 10 cards [NEW now] William Brockson |collx://profiles/5039874
 10 cards [NEW 7h] Harrison Garcia |collx://profiles/5068059
 25 cards [NEW 3d] Jt Alford |collx://profiles/5038371
@@ -148,11 +158,9 @@
 3 cards [NEW 12h] Andrew Siar |collx://profiles/5069104
 3 cards [NEW 7h] Matthew Carpenter |collx://profiles/4689471
 3 cards [NEW now] Felicia Decker |collx://profiles/4857552
-3 cards [NEW 11h] Jose Patino |collx://profiles/5044238
 3 cards [NEW now] Zac |collx://profiles/5006054
 3 cards [NEW 6h] Salvador Chavarria |collx://profiles/5061288
 3 cards [NEW 10h] Jackson |collx://profiles/4027815
-3 cards [NEW 9h] Courtney |collx://profiles/3934266
 3 cards [G NEW 12h] Jeremy Levine |collx://profiles/4978977
 11 cards [NEW 12h] Marshall Mahan |collx://profiles/5038585
 11 cards [NEW 16h] Aidan |collx://profiles/4801253
@@ -178,10 +186,8 @@
 16 cards [NEW 9d] Honda God |collx://profiles/5037005
 7 cards [NEW 15h] Alejandro Hernandez |collx://profiles/4901550
 6 cards [NEW 17h] Mac |collx://profiles/4973528
-1 cards [NEW 5h] Nolan |collx://profiles/5067587
 1 cards [NEW 11h] Andrea |collx://profiles/4143544
 1 cards [NEW 10h] Georgie Franco |collx://profiles/5067275
-1 cards [NEW 6h] frank |collx://profiles/5069129
 1 cards [NEW 10h] Christopher Sturm |collx://profiles/5069317
 1 cards [NEW 6h] Rich |collx://profiles/5030456
 1 cards [G NEW 13h] John Markle |collx://profiles/4331685
