@@ -1,27 +1,41 @@
-71 cards [BACK +56 now] Natalie Jayroe |collx://profiles/5066841
-312 cards [BACK +45 now] Jennifer |collx://profiles/5070918
+53 cards [BACK +39 now] Trent Crumback |collx://profiles/5071002
+87 cards [BACK +16 now] Natalie Jayroe |collx://profiles/5066841
+31 cards [BACK +26 now] Devonte Barnes |collx://profiles/4882493
+14 cards [+11 now] Justin Jackson |collx://profiles/4955003
+379 cards [NEW now] Laken Hood |collx://profiles/5067834
+33 cards [NEW now] Daniel Acosta |collx://profiles/5043485
+8 cards [G NEW now] NKY Cards |collx://profiles/5071111
+12 cards [NEW now] Don Huenniger |collx://profiles/5061745
+9 cards [NEW now] Christopher Gilfix |collx://profiles/5070200
+8 cards [NEW now] Jayk McCampbell |collx://profiles/5063375
+7 cards [NEW now] Tristan Brown |collx://profiles/4303600
+5 cards [NEW now] Coltyn Wade Smith |collx://profiles/5068784
+3 cards [NEW now] Magon Holbrook |collx://profiles/5071189
+3 cards [NEW now] Chris Rollins |collx://profiles/4993960
+2 cards [NEW now] Aaron Casey |collx://profiles/5003456
+2 cards [NEW now] Kenneth Clyde Willard III |collx://profiles/5071178
+2 cards [NEW now] John Shafer |collx://profiles/5068689
+1 cards [NEW now] Richard Hudak |collx://profiles/5070330
+1 cards [NEW now] David Resnick |collx://profiles/4958101
+1 cards [NEW now] Lucas  Miodonski |collx://profiles/4761005
+1 cards [NEW now] Marc |collx://profiles/4704995
+1 cards [NEW now] Rey Rubio |collx://profiles/4398671
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 31 cards [BACK +23 now] Jose Patino |collx://profiles/5044238
-51 cards [BACK +15 now] Jason Zala |collx://profiles/5004677
 37 cards [NEW now] Angel M. Resa |collx://profiles/4999408
 36 cards [NEW now] Cory |collx://profiles/5070719
-35 cards [NEW now] JacobMiller |collx://profiles/5070725
 27 cards [NEW now] Jonathan |collx://profiles/5071005
-14 cards [NEW now] Trent Crumback |collx://profiles/5071002
 7 cards [NEW now] Jake Cillo |collx://profiles/5070358
 7 cards [NEW now] Andres Valencia |collx://profiles/5066464
 6 cards [NEW now] Karen Smaka |collx://profiles/5067588
 5 cards [NEW now] brett haack |collx://profiles/4877641
-5 cards [NEW now] Devonte Barnes |collx://profiles/4882493
 2 cards [NEW now] Thomas |collx://profiles/5057617
 1 cards [NEW now] Marc |collx://profiles/4914576
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 22 cards [NEW NOADDR now] casey theresa |collx://profiles/4472638
 4 cards [G NEW now] rex walters |collx://profiles/5070856
-7 cards [NEW now] Zachary Nelson II |collx://profiles/5062315
 1 cards [G NEW now] Tony Long |collx://profiles/5070121
 2 cards [NEW now] Brad Hiestand |collx://profiles/5070847
 1 cards [NEW now] Tom |collx://profiles/5069980
-1 cards [NEW now] Benjamin Chambers |collx://profiles/4750240
 10 cards [NEW now] Kelly McCauley |collx://profiles/5017065
 5 cards [NEW now] Barkovmemes Cards |collx://profiles/4973145
 4 cards [NEW now] Tyler Jordan White |collx://profiles/5055073
@@ -36,7 +50,6 @@
 3 cards [G NEW now] Chase Livingston |collx://profiles/5070727
 82 cards [BACK +80 3h] Angel Perez |collx://profiles/5044160
 80 cards [BACK +75 11h] Ivory Hilton |collx://profiles/5062976
-141 cards [BACK G +138 4h] J Chey |collx://profiles/4950980
 700 cards [BACK +699 9h] Jason Chidester |collx://profiles/4223987
 539 cards [BACK +478 now] I An Collectives |collx://profiles/5050873
 46 cards [BACK +44 11h] Crystle Jones |collx://profiles/4678873
@@ -141,7 +154,6 @@
 4 cards [NEW now] Devin Hauber |collx://profiles/4435747
 4 cards [NEW 5h] Rakan Al |collx://profiles/5020782
 4 cards [NEW 7h] Henry Williams |collx://profiles/4038160
-4 cards [NEW 5h] Brian Penaflor |collx://profiles/5043407
 4 cards [NEW 11h] Chris |collx://profiles/5065417
 4 cards [NEW 9h] Polzz |collx://profiles/5035318
 4 cards [NEW 5h] Chris Good |collx://profiles/5069339
@@ -235,7 +247,6 @@
 3 cards [NEW 17h] Bryce Bono |collx://profiles/4494117
 3 cards [NEW 15h] Jackie Cruz |collx://profiles/5019436
 1 cards [NEW NOADDR 7h] Bryan Birmingham |collx://profiles/5064604
-2 cards [NEW 16h] Charles |collx://profiles/4722619
 2 cards [NEW 23h] Michael Cassidy |collx://profiles/4924990
 2 cards [NEW 16h] Jaxen Woodle |collx://profiles/4983420
 2 cards [NEW 12h] Joseph  hamilton |collx://profiles/5015762
