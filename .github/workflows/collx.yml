@@ -1,0 +1,14 @@
+name: collx-hourly
+on:
+  schedule:
+    - cron: "10 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: bash run.sh
