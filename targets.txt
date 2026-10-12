@@ -1,5 +1,7 @@
-1 cards [NEW now] Whatever Nie Nie |collx://profiles/4602504
+1 cards [NEW now] Mikie Constantine |collx://profiles/5066501
+1 cards [G NEW 20d] David Showers |collx://profiles/4761732
 0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
+1 cards [NEW now] Whatever Nie Nie |collx://profiles/4602504
 17 cards [G NEW now] Slary3rOfThAnaToS |collx://profiles/5071993
 2 cards [+1 now] Austin Bennett |collx://profiles/5054113
 1 cards [NEW 34h] Tyler Perritt |collx://profiles/4978501
@@ -18,17 +20,14 @@
 1 cards [NEW now] Alex Salazar |collx://profiles/5069665
 1 cards [NEW now] Ronalou Baylon |collx://profiles/5061793
 1 cards [NEW now] BO's CARD CORNER |collx://profiles/4601220
-97 cards [BACK +74 now] Jeremy Hoff |collx://profiles/4929136
 232 cards [BACK +59 now] Clifford Epperson |collx://profiles/5023345
 31 cards [BACK +21 now] David Andrew |collx://profiles/5059042
 180 cards [BACK +20 now] Jordan VS |collx://profiles/5040674
 52 cards [+50 now] Taylor Hovde |collx://profiles/5031087
-12 cards [NEW now] Zay King |collx://profiles/5049221
 1 cards [G NEW now] Ted Jones |collx://profiles/5074586
 4 cards [NEW now] AP |collx://profiles/4657565
 2 cards [NEW now] Caden Robinson |collx://profiles/5074547
 1 cards [NEW now] King Revolution |collx://profiles/5074533
-1 cards [NEW now] jase southerling |collx://profiles/4799505
 1 cards [NEW now] Michael Belliotti |collx://profiles/4583514
 35 cards [BACK +20 now] Pink Molly Packs |collx://profiles/4759118
 50 cards [NEW now] Chase Headley |collx://profiles/5033415
@@ -145,7 +144,6 @@
 5 cards [NEW now] Mommy ho Arzaga |collx://profiles/5039298
 3 cards [NEW now] Troy |collx://profiles/4712188
 1 cards [NEW now] Brandon |collx://profiles/5072149
-1 cards [NEW now] Cooper Fulmer |collx://profiles/5061032
 1 cards [NEW now] White Crayon |collx://profiles/4343192
 18 cards [NEW now] Alysha |collx://profiles/5071808
 3 cards [NEW now] Sirr Chiefs |collx://profiles/5065410
@@ -276,7 +274,6 @@
 1 cards [G NEW now] Drew Siracusa |collx://profiles/5029127
 41 cards [NEW 7d] Charlie Richmond |collx://profiles/4954456
 5 cards [NEW 10h] Alex Eaton |collx://profiles/5060289
-5 cards [NEW 4h] Mike |collx://profiles/4879229
 5 cards [G NEW 15h] Otto Puello |collx://profiles/5065926
 5 cards [NEW now] Sophie Rodriguez |collx://profiles/5070626
 5 cards [NEW 10h] Anthony Jimenez |collx://profiles/4739727
