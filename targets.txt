@@ -1,28 +1,48 @@
+103 cards [BACK +79 NOADDR now] Khrissa Feldman |collx://profiles/5050841
+130 cards [BACK +45 now] Bandz |collx://profiles/5071834
+38 cards [BACK +17 now] Joesef |collx://profiles/4173281
+16 cards [BACK +15 now] Kayla |collx://profiles/5066336
+18 cards [G NEW now] Chance Matteson |collx://profiles/4667157
+53 cards [NEW now] Ryan |collx://profiles/4430290
+37 cards [NEW now] Brynlee Grayson |collx://profiles/5073636
+29 cards [NEW now] Stephen Astacio |collx://profiles/5062051
+2 cards [+1 now] Christopher Lemon |collx://profiles/4668622
+14 cards [NEW now] Jensen Reisbeck |collx://profiles/4802388
+11 cards [NEW now] Sergio Torres Jr |collx://profiles/5071859
+2 cards [G NEW now] Peter Mitchell |collx://profiles/4899223
+8 cards [NEW now] Gaetano |collx://profiles/4292707
+8 cards [NEW now] Shop Floofy Cards |collx://profiles/5072550
+1 cards [G NEW now] Eric Moreno |collx://profiles/5053850
+4 cards [NEW now] Tyler Bryan |collx://profiles/5073519
+4 cards [NEW now] Shaun Gouner |collx://profiles/4788864
+3 cards [NEW now] Lebron James |collx://profiles/5073435
+7 cards [NEW NOADDR now] Chris Bailey |collx://profiles/4117360
+7 cards [NEW NOADDR now] julie jenkins |collx://profiles/5073594
+2 cards [NEW now] Kristina Bechtel |collx://profiles/5063349
+2 cards [NEW now] Matthew Sommerhalter |collx://profiles/5071084
+2 cards [NEW now] Gaven Mize |collx://profiles/4954522
+1 cards [NEW now] Henry Turner |collx://profiles/5063881
+1 cards [NEW now] Cesar Bulux |collx://profiles/5067647
+1 cards [NEW now] Chris Thornsberry |collx://profiles/5073547
+1 cards [NEW now] Franklin |collx://profiles/5073298
+1 cards [NEW now] Joshua Velasco |collx://profiles/4348725
+1 cards [NEW now] Michael Hesler |collx://profiles/4933790
+1 cards [NEW NOADDR now] Operator Cards |collx://profiles/4940302
+1 cards [NEW 2d] Asher |collx://profiles/4408787
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 712 cards [BACK +212 now] Sports Cards Mississippi |collx://profiles/5007413
-80 cards [BACK +31 now] Casey Kesinger |collx://profiles/4853619
-21 cards [BACK +16 22h] Joesef |collx://profiles/4173281
-85 cards [NEW now] Bandz |collx://profiles/5071834
-39 cards [NEW now] Luke Gottschalk |collx://profiles/5066472
-31 cards [NEW now] Hunter Ward |collx://profiles/4761369
-141 cards [NEW now] Savannah Kapumau |collx://profiles/5073180
 16 cards [NEW now] Jake |collx://profiles/5068778
 16 cards [NEW now] R J |collx://profiles/5039601
-24 cards [NEW NOADDR now] Khrissa Feldman |collx://profiles/5050841
-13 cards [G NEW now] Jordan Kauf |collx://profiles/5000452
 3 cards [G NEW NOADDR now] Oj Heffna |collx://profiles/5062396
 5 cards [NEW now] Robert Flores |collx://profiles/4760830
 8 cards [NEW NOADDR now] Mike Cahill |collx://profiles/5052987
 2 cards [NEW now] Amanda J |collx://profiles/5073209
-1 cards [NEW now] William Lucas |collx://profiles/5070638
-1 cards [NEW now] Kayla |collx://profiles/5066336
 1 cards [NEW now] Jay Maldonado |collx://profiles/5069926
 1 cards [NEW now] Colleen MacKay |collx://profiles/5073043
-1 cards [NEW now] Christian Blevins |collx://profiles/5067947
 1 cards [NEW now] Cooper Altreuter |collx://profiles/4878268
 2 cards [NEW NOADDR now] graham osburn |collx://profiles/5073357
 1 cards [NEW NOADDR now] Louria Malveaux |collx://profiles/5060403
 1 cards [NEW 2d] Corbin Craig |collx://profiles/5064848
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 31 cards [BACK +20 now] julia mills |collx://profiles/4845409
 15 cards [NEW now] Julien Mazoue |collx://profiles/5072997
 14 cards [NEW now] jaime alviar |collx://profiles/5072888
@@ -52,7 +72,6 @@
 2 cards [NEW now] Austin Shepherd |collx://profiles/4871206
 2 cards [NEW now] Brian thompson |collx://profiles/5071522
 1 cards [NEW now] Brett Falconer |collx://profiles/5072687
-1 cards [NEW now] Jaden Mankey |collx://profiles/5072629
 1 cards [NEW now] Shane Meikle |collx://profiles/5072611
 1 cards [NEW now] Zac Parks |collx://profiles/5072597
 1 cards [NEW now] Zach Mccormack |collx://profiles/5072352
@@ -111,7 +130,6 @@
 2 cards [NEW NOADDR now] jesus jimenez |collx://profiles/5061694
 1 cards [NEW NOADDR now] Danny Hernandez |collx://profiles/5067271
 87 cards [BACK +16 now] Natalie Jayroe |collx://profiles/5066841
-33 cards [NEW now] Daniel Acosta |collx://profiles/5043485
 8 cards [NEW now] Jayk McCampbell |collx://profiles/5063375
 7 cards [NEW now] Tristan Brown |collx://profiles/4303600
 5 cards [NEW now] Coltyn Wade Smith |collx://profiles/5068784
