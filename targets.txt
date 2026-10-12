@@ -1,9 +1,10 @@
+3 cards [NEW now] Dio Ortiz |collx://profiles/5074712
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 845 cards [BACK +77 now] Jason Chidester |collx://profiles/4223987
 16 cards [NEW now] Eric Carrillo |collx://profiles/5069635
 2 cards [NEW now] Drew Adkins |collx://profiles/4202768
 1 cards [NEW now] Dillon Garnett |collx://profiles/5071628
 1 cards [NEW NOADDR now] Sadboy |collx://profiles/4341681
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 51 cards [BACK +22 now] Jon Sauer |collx://profiles/5048990
 8 cards [NEW now] Kimberly Perry |collx://profiles/5061249
 4 cards [NEW now] Brayan Flores |collx://profiles/5066882
@@ -69,7 +70,6 @@
 1 cards [NEW now] Ryan |collx://profiles/4851635
 1 cards [NEW now] Chelo Collado |collx://profiles/4597265
 1 cards [NEW NOADDR now] Kasen Prine |collx://profiles/3996156
-199 cards [BACK +69 now] Bandz |collx://profiles/5071834
 39 cards [BACK +23 now] Kayla |collx://profiles/5066336
 120 cards [BACK +17 NOADDR now] Khrissa Feldman |collx://profiles/5050841
 3 cards [G NEW now] Michelle J |collx://profiles/5012847
@@ -143,7 +143,6 @@
 1 cards [NEW now] Brandon |collx://profiles/5072149
 1 cards [NEW now] Cooper Fulmer |collx://profiles/5061032
 1 cards [NEW now] White Crayon |collx://profiles/4343192
-404 cards [G NEW now] Kyle LaBar |collx://profiles/4950703
 18 cards [NEW now] Alysha |collx://profiles/5071808
 3 cards [NEW now] Sirr Chiefs |collx://profiles/5065410
 1 cards [NEW now] Steve Murphy |collx://profiles/5071863
