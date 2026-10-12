@@ -66,7 +66,6 @@ if os.path.exists(EXCL):
     excl = {x.strip() for x in open(EXCL) if x.strip()}
 
 df = new[~new['Name'].str.contains(TCG)].copy()
-full_df = df.copy()  # for the random tab: all eligible, pre-exclusion
 
 # delta vs previous export, computed BEFORE exclusion so re-surfaces can see it
 df['delta'] = np.nan
@@ -75,6 +74,7 @@ if old is not None:
     common = df.index.intersection(old.index)
     df.loc[common, 'delta'] = df.loc[common, 'cards'] - old.loc[common, 'cards']
     df['new_arrival'] = ~df.index.isin(old.index)
+full_df = df.copy()  # all eligible rows incl. delta, pre-exclusion
 
 # RESURFACE: previously served sellers who just added 15+ cards in one hour
 # come back tagged BACK. They're still zero-sales, and a big listing session
@@ -348,7 +348,7 @@ if True:  # page build block
         + '<body><div class="wrap">'
         + f'<div class="hdr"><div class="hrow"><span><b>CollX targets</b> · {ts} · {len(lines)} fresh</span>'
         + '<a href="javascript:location.replace(location.pathname+\'?t=\'+Date.now())">refresh</a></div>'
-        + '<div class="tabs"><a class="on" href="index.html">Fresh</a><a href="random.html">Random</a></div>'
+        + '<div class="tabs"><a class="on" href="index.html">Fresh</a><a href="movers.html">Movers</a><a href="random.html">Random</a></div>'
         + '<div class="fbar">''<span class="fc" data-f="hv">Hide viewed</span>''<span class="fc" data-f="c10">10+</span>''<span class="fc" data-f="c25">25+</span>''<span class="fc" data-f="c50">50+</span>''<span class="fc" data-f="on">Online now</span>''<span class="fc" data-f="sort">Newest first</span>''</div>'
         + '</div>'
         + ''.join(rows) + '</div>' + app_js + '</body>'
@@ -373,12 +373,38 @@ rpage = (
     + '<body><div class="wrap">'
     + f'<div class="hdr"><div class="hrow"><span><b>CollX random</b> · {ts} · {len(rrows)} never contacted</span>'
     + '<a href="javascript:location.replace(location.pathname+\'?t=\'+Date.now())">refresh</a></div>'
-    + '<div class="tabs"><a href="index.html">Fresh</a><a class="on" href="random.html">Random</a></div>'
+    + '<div class="tabs"><a href="index.html">Fresh</a><a href="movers.html">Movers</a><a class="on" href="random.html">Random</a></div>'
     + '<div class="fbar">'
     + '<span class="fc" data-f="hv">Hide viewed</span><span class="fc" data-f="c10">10+</span>'
     + '<span class="fc" data-f="c25">25+</span><span class="fc" data-f="c50">50+</span>'
     + '<span class="fc" data-f="on">Online now</span><span class="fc" data-f="sort">Newest first</span></div>'
     + '</div>'
     + ''.join(rrows) + '</div>' + app_js + '</body>')
+# MOVERS TAB: already-served sellers who added cards since the last pull
+mv = full_df[full_df.index.isin(excl) & (full_df['delta'] > 0)].copy()
+mv = mv.sort_values('delta', ascending=False).head(100)
+mrows = []
+for _pid, _r in mv.iterrows():
+    _nm = _html.escape(' '.join(str(_r['Name']).split()))
+    if not _nm:
+        continue
+    _h = (now - _r['last_active']).total_seconds()/3600 if 'last_active' in _r.index else 9999
+    _t = 'now' if _h < 3 else (f"{_h:.0f}h" if _h < 48 else f"{_h/24:.0f}d")
+    mrows.append(row_html(_pid, _nm, int(_r['cards']), f"+{int(_r['delta'])} {_t}", 'MOVER'))
+mpage = (
+    '<!doctype html><meta name="viewport" content="width=device-width,initial-scale=1">'
+    + pwa_tags + STYLE + refresh_js
+    + '<body><div class="wrap">'
+    + f'<div class="hdr"><div class="hrow"><span><b>CollX movers</b> · {ts} · {len(mrows)} added cards since last pull</span>'
+    + '<a href="javascript:location.replace(location.pathname+\'?t=\'+Date.now())">refresh</a></div>'
+    + '<div class="tabs"><a href="index.html">Fresh</a><a class="on" href="movers.html">Movers</a><a href="random.html">Random</a></div>'
+    + '<div class="fbar">'
+    + '<span class="fc" data-f="hv">Hide viewed</span><span class="fc" data-f="c10">10+</span>'
+    + '<span class="fc" data-f="c25">25+</span><span class="fc" data-f="c50">50+</span>'
+    + '<span class="fc" data-f="on">Online now</span><span class="fc" data-f="sort">Newest first</span></div>'
+    + '</div>'
+    + ''.join(mrows) + '</div>' + app_js + '</body>')
+open(f"{HOME}/movers.html", "w").write(mpage)
+
 open(f"{HOME}/random.html", "w").write(rpage)
 print("pages written")
