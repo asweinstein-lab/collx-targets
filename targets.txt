@@ -1,6 +1,19 @@
+100 cards [BACK +89 now] Robert Brooks |collx://profiles/5074951
+46 cards [BACK +44 now] Colleen MacKay |collx://profiles/5073043
+11 cards [G +8 now] Rich Wells |collx://profiles/4974263
+40 cards [NEW now] Larry Brasiel |collx://profiles/5036867
+4 cards [+2 now] Jonathan Goetz |collx://profiles/4675390
+6 cards [G NEW now] JJ Chapman |collx://profiles/4216642
+8 cards [NEW now] William Gibson |collx://profiles/5070201
+7 cards [NEW now] Jarad Alley |collx://profiles/5075643
+1 cards [G NEW now] Brandon Lunenfeld |collx://profiles/4532130
+4 cards [NEW now] Darin Lokken |collx://profiles/5056410
+3 cards [NEW now] Connor Flynn |collx://profiles/5039068
+2 cards [NEW now] Brennon Johnson |collx://profiles/5075581
+1 cards [NEW now] Koran Lawson |collx://profiles/5074931
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 7 cards [G NEW now] David Forbes |collx://profiles/5071203
 5 cards [G NEW now] Robby Hodge |collx://profiles/5074487
-11 cards [NEW now] Robert Brooks |collx://profiles/5074951
 10 cards [NEW now] Issue Dabandt |collx://profiles/4966106
 19 cards [NEW 25h] Bret |collx://profiles/5067547
 7 cards [NEW 7h] John Gaines |collx://profiles/5067538
@@ -19,8 +32,6 @@
 1 cards [NEW now] Justin |collx://profiles/4773801
 1 cards [NEW now] Athena Rorn |collx://profiles/4946861
 5 cards [NEW 16h] Austin Jenkins |collx://profiles/5066123
-1 cards [NEW NOADDR now] Yaya |collx://profiles/5075421
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 74 cards [NEW now] Andrew Carrick |collx://profiles/5074692
 23 cards [NEW now] Lisa Broomall |collx://profiles/5075080
 2 cards [NEW now] Jason Katz |collx://profiles/5071078
@@ -140,7 +151,6 @@
 8 cards [NEW NOADDR now] Mike Cahill |collx://profiles/5052987
 2 cards [NEW now] Amanda J |collx://profiles/5073209
 1 cards [NEW now] Jay Maldonado |collx://profiles/5069926
-1 cards [NEW now] Colleen MacKay |collx://profiles/5073043
 1 cards [NEW now] Cooper Altreuter |collx://profiles/4878268
 2 cards [NEW NOADDR now] graham osburn |collx://profiles/5073357
 1 cards [NEW NOADDR now] Louria Malveaux |collx://profiles/5060403
@@ -187,7 +197,6 @@
 5 cards [NEW now] Bill Wetzelberger |collx://profiles/5057015
 4 cards [NEW now] Will Davenport |collx://profiles/5071810
 1 cards [NEW now] Kody Boyd |collx://profiles/5071789
-1 cards [NEW now] Keith Yates |collx://profiles/5071698
 1 cards [NEW now] Don Ahlen |collx://profiles/5018442
 1 cards [NEW now] Cleo Gilbert |collx://profiles/5044501
 40 cards [NEW now] Gabe Johnson |collx://profiles/5065620
