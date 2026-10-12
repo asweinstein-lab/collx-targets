@@ -1,3 +1,19 @@
+737 cards [BACK +37 now] Jason Chidester |collx://profiles/4223987
+35 cards [BACK +20 now] Pink Molly Packs |collx://profiles/4759118
+23 cards [BACK +15 now] Jeremy Hoff |collx://profiles/4929136
+50 cards [NEW now] Chase Headley |collx://profiles/5033415
+4 cards [NEW now] Christina Hawk |collx://profiles/5074405
+2 cards [NEW now] Lorenzo Valenzuela |collx://profiles/4448834
+2 cards [NEW now] Nate Huitt |collx://profiles/5074406
+1 cards [NEW now] Shepherd Martin |collx://profiles/4475084
+1 cards [NEW now] Joseph G. |collx://profiles/5065216
+1 cards [NEW now] Yousef Elgabry |collx://profiles/5074507
+1 cards [NEW now] Marterius Kelsey |collx://profiles/5074430
+1 cards [NEW now] Andy Youtub |collx://profiles/4634789
+1 cards [NEW now] Joey Sake |collx://profiles/4838062
+1 cards [NEW NOADDR now] Kelsey Mills |collx://profiles/5015532
+3 cards [NEW 46h] Adam Hendrix |collx://profiles/5064940
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 93 cards [BACK +56 now] Michael Cremeans |collx://profiles/5073966
 202 cards [BACK G +53 13h] Eduardo Balassiano |collx://profiles/5039200
 48 cards [BACK +34 now] Jaime Buford |collx://profiles/4924677
@@ -14,10 +30,8 @@
 1 cards [NEW now] Jake |collx://profiles/4992470
 1 cards [NEW now] Charles Navarro |collx://profiles/5074093
 1 cards [NEW 7h] Angelo |collx://profiles/5064625
-3 cards [NEW NOADDR now] Jeffrey |collx://profiles/5074359
 1 cards [NEW NOADDR now] Jenny |collx://profiles/5052556
 1 cards [NEW NOADDR now] Matthew |collx://profiles/4036774
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 60 cards [BACK +38 now] Lee Warren |collx://profiles/4908012
 85 cards [BACK +31 now] Joesef |collx://profiles/4173281
 169 cards [BACK +89 now] Casey Kesinger |collx://profiles/4853619
@@ -40,7 +54,6 @@
 39 cards [BACK +23 now] Kayla |collx://profiles/5066336
 120 cards [BACK +17 NOADDR now] Khrissa Feldman |collx://profiles/5050841
 3 cards [G NEW now] Michelle J |collx://profiles/5012847
-11 cards [NEW now] Pink Molly Packs |collx://profiles/4759118
 2 cards [NEW now] Rated Rookie Card Shop |collx://profiles/5015662
 2 cards [NEW now] Hudson Whatcott |collx://profiles/5073625
 1 cards [NEW now] Christian Allen |collx://profiles/5073891
@@ -50,7 +63,6 @@
 1 cards [NEW now] Rick Camacho |collx://profiles/5004888
 1 cards [NEW now] Millers Sam |collx://profiles/4553611
 1 cards [NEW now] Derek Combs |collx://profiles/4822345
-1 cards [NEW 4h] Joshua Schmeits |collx://profiles/3970467
 2 cards [NEW NOADDR now] Nate Lee |collx://profiles/4928503
 53 cards [NEW now] Ryan |collx://profiles/4430290
 37 cards [NEW now] Brynlee Grayson |collx://profiles/5073636
@@ -80,7 +92,6 @@
 1 cards [NEW now] Cooper Altreuter |collx://profiles/4878268
 2 cards [NEW NOADDR now] graham osburn |collx://profiles/5073357
 1 cards [NEW NOADDR now] Louria Malveaux |collx://profiles/5060403
-1 cards [NEW 2d] Corbin Craig |collx://profiles/5064848
 14 cards [NEW now] jaime alviar |collx://profiles/5072888
 4 cards [NEW now] gustavo vintimilla |collx://profiles/5072649
 2 cards [NEW now] Caleb Bingham |collx://profiles/5034371
@@ -178,7 +189,6 @@
 1 cards [NEW now] Charlie Randecker |collx://profiles/4112178
 82 cards [BACK +80 3h] Angel Perez |collx://profiles/5044160
 80 cards [BACK +75 11h] Ivory Hilton |collx://profiles/5062976
-700 cards [BACK +699 9h] Jason Chidester |collx://profiles/4223987
 539 cards [BACK +478 now] I An Collectives |collx://profiles/5050873
 46 cards [BACK +44 11h] Crystle Jones |collx://profiles/4678873
 173 cards [BACK +51 7h] Clifford Epperson |collx://profiles/5023345
