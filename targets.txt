@@ -1,3 +1,20 @@
+113 cards [BACK +109 now] Jonathan Goetz |collx://profiles/4675390
+342 cards [BACK +98 now] Clifford Epperson |collx://profiles/5023345
+100 cards [BACK +20 now] Ivory Hilton |collx://profiles/5062976
+48 cards [BACK +29 now] Justin Starr |collx://profiles/5011149
+75 cards [BACK +16 now] Brynlee Grayson |collx://profiles/5073636
+40 cards [G NEW now] Caleb Davis |collx://profiles/5074815
+91 cards [NEW now] OnDeckCollectibles |collx://profiles/4859608
+820 cards [NEW now] Nick Lawson |collx://profiles/5075614
+3 cards [+2 now] Emiliano Garcia |collx://profiles/4835860
+5 cards [G NEW now] Jason Edwards |collx://profiles/5075965
+3 cards [G NEW now] William Tyker |collx://profiles/5076073
+9 cards [NEW now] Frank Jones |collx://profiles/5075083
+8 cards [NEW now] Tommy GeeTV |collx://profiles/5012597
+6 cards [NEW now] Tim “Craig” Perry |collx://profiles/5055640
+5 cards [NEW now] Quentin Drummond |collx://profiles/5074944
+3 cards [NEW now] Kyzn Ripz |collx://profiles/5064314
+1 cards [NEW now] Caleb Crawford |collx://profiles/5067090
 0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 2 cards [G NEW now] Brian Green |collx://profiles/5070799
 5 cards [NEW now] Jessica Townsend |collx://profiles/5075877
@@ -25,14 +42,11 @@
 1 cards [NEW now] Brandt |collx://profiles/4727426
 1 cards [NEW now] Reilly Kop |collx://profiles/4786830
 1 cards [NEW now] Da_matrix_kid21 |collx://profiles/5008398
-1 cards [NEW now] Lindsay Horne |collx://profiles/4876746
 2 cards [G NEW 20d] Donovan Freels |collx://profiles/4898875
 3 cards [NEW 6d] Hunter Johnson |collx://profiles/5053253
 2 cards [NEW 9d] Quint Solano |collx://profiles/4978763
 1 cards [NEW 10d] Sarah Wells |collx://profiles/5040782
-46 cards [BACK +44 now] Colleen MacKay |collx://profiles/5073043
 11 cards [G +8 now] Rich Wells |collx://profiles/4974263
-4 cards [+2 now] Jonathan Goetz |collx://profiles/4675390
 6 cards [G NEW now] JJ Chapman |collx://profiles/4216642
 8 cards [NEW now] William Gibson |collx://profiles/5070201
 4 cards [NEW now] Darin Lokken |collx://profiles/5056410
@@ -85,7 +99,6 @@
 1 cards [NEW now] Dionte Bell-Moore |collx://profiles/5074656
 1 cards [NEW now] Ronalou Baylon |collx://profiles/5061793
 1 cards [NEW now] BO's CARD CORNER |collx://profiles/4601220
-232 cards [BACK +59 now] Clifford Epperson |collx://profiles/5023345
 52 cards [+50 now] Taylor Hovde |collx://profiles/5031087
 4 cards [NEW now] AP |collx://profiles/4657565
 2 cards [NEW now] Caden Robinson |collx://profiles/5074547
@@ -141,7 +154,6 @@
 1 cards [NEW now] Derek Combs |collx://profiles/4822345
 2 cards [NEW NOADDR now] Nate Lee |collx://profiles/4928503
 53 cards [NEW now] Ryan |collx://profiles/4430290
-37 cards [NEW now] Brynlee Grayson |collx://profiles/5073636
 14 cards [NEW now] Jensen Reisbeck |collx://profiles/4802388
 2 cards [G NEW now] Peter Mitchell |collx://profiles/4899223
 1 cards [G NEW now] Eric Moreno |collx://profiles/5053850
@@ -239,7 +251,6 @@
 1 cards [NEW now] James Vallesteros |collx://profiles/4990730
 1 cards [NEW now] Charlie Randecker |collx://profiles/4112178
 82 cards [BACK +80 3h] Angel Perez |collx://profiles/5044160
-80 cards [BACK +75 11h] Ivory Hilton |collx://profiles/5062976
 539 cards [BACK +478 now] I An Collectives |collx://profiles/5050873
 46 cards [BACK +44 11h] Crystle Jones |collx://profiles/4678873
 129 cards [BACK +93 9h] Michael Whitaker |collx://profiles/4911169
