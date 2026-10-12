@@ -1,3 +1,26 @@
+7 cards [G NEW now] David Forbes |collx://profiles/5071203
+5 cards [G NEW now] Robby Hodge |collx://profiles/5074487
+11 cards [NEW now] Robert Brooks |collx://profiles/5074951
+10 cards [NEW now] Issue Dabandt |collx://profiles/4966106
+19 cards [NEW 25h] Bret |collx://profiles/5067547
+7 cards [NEW 7h] John Gaines |collx://profiles/5067538
+7 cards [NEW now] Winnin' Rome |collx://profiles/4919369
+5 cards [NEW now] Brandt Slaick |collx://profiles/5075469
+10 cards [NEW NOADDR now] Anthony thompson |collx://profiles/5075404
+4 cards [NEW now] Kathleen Savoy |collx://profiles/5032037
+4 cards [NEW 6h] Destry Harmon |collx://profiles/5051223
+3 cards [NEW now] Tommy F |collx://profiles/5075450
+2 cards [NEW now] Tristen Burnett |collx://profiles/4995367
+1 cards [NEW now] Travis King |collx://profiles/5075336
+1 cards [NEW now] Zachary Davison |collx://profiles/4878739
+1 cards [NEW now] jason klager |collx://profiles/5075154
+1 cards [NEW now] Michael Scott |collx://profiles/5075035
+1 cards [NEW now] Jason Koenig |collx://profiles/5069041
+1 cards [NEW now] Justin |collx://profiles/4773801
+1 cards [NEW now] Athena Rorn |collx://profiles/4946861
+5 cards [NEW 16h] Austin Jenkins |collx://profiles/5066123
+1 cards [NEW NOADDR now] Yaya |collx://profiles/5075421
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 74 cards [NEW now] Andrew Carrick |collx://profiles/5074692
 23 cards [NEW now] Lisa Broomall |collx://profiles/5075080
 2 cards [NEW now] Jason Katz |collx://profiles/5071078
@@ -5,8 +28,6 @@
 1 cards [NEW now] Skia Cards |collx://profiles/5054027
 1 cards [NEW now] Jason |collx://profiles/5027444
 1 cards [NEW now] Ricky |collx://profiles/4701218
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
-274 cards [BACK +267 now] Josh Grizzle |collx://profiles/4939278
 62 cards [BACK +17 now] Kourtney Leigh |collx://profiles/4978965
 23 cards [BACK +21 now] Jason Schwartz |collx://profiles/4998764
 2 cards [G +1 now] Leland L. |collx://profiles/4973214
@@ -38,11 +59,9 @@
 3 cards [NEW now] Dio Ortiz |collx://profiles/5074712
 2 cards [NEW now] Drew Adkins |collx://profiles/4202768
 1 cards [NEW now] Dillon Garnett |collx://profiles/5071628
-51 cards [BACK +22 now] Jon Sauer |collx://profiles/5048990
 8 cards [NEW now] Kimberly Perry |collx://profiles/5061249
 3 cards [NEW now] Ben Young |collx://profiles/5069005
 1 cards [NEW now] Dionte Bell-Moore |collx://profiles/5074656
-1 cards [NEW now] Alex Salazar |collx://profiles/5069665
 1 cards [NEW now] Ronalou Baylon |collx://profiles/5061793
 1 cards [NEW now] BO's CARD CORNER |collx://profiles/4601220
 232 cards [BACK +59 now] Clifford Epperson |collx://profiles/5023345
@@ -73,7 +92,6 @@
 1 cards [NEW 7h] Angelo |collx://profiles/5064625
 1 cards [NEW NOADDR now] Jenny |collx://profiles/5052556
 1 cards [NEW NOADDR now] Matthew |collx://profiles/4036774
-60 cards [BACK +38 now] Lee Warren |collx://profiles/4908012
 85 cards [BACK +31 now] Joesef |collx://profiles/4173281
 169 cards [BACK +89 now] Casey Kesinger |collx://profiles/4853619
 27 cards [BACK +16 now] Ryan |collx://profiles/5072283
@@ -159,7 +177,6 @@
 18 cards [NEW now] Alysha |collx://profiles/5071808
 3 cards [NEW now] Sirr Chiefs |collx://profiles/5065410
 1 cards [NEW now] Steve Murphy |collx://profiles/5071863
-1 cards [NEW now] Alan Tapia |collx://profiles/5068695
 1 cards [NEW now] Delmar Benson |collx://profiles/5061946
 1 cards [NEW now] Carter McDonald |collx://profiles/4530971
 1 cards [NEW now] TanksFlipzNRipz |collx://profiles/4413127
