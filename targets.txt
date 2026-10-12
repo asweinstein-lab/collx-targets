@@ -1,7 +1,17 @@
+67 cards [BACK +23 now] Randy Roberts |collx://profiles/5068851
+40 cards [NEW now] Jeremy James |collx://profiles/4981550
+10 cards [NEW now] cameron jarrell |collx://profiles/5071282
+8 cards [NEW now] Jay Hough |collx://profiles/5075010
+20 cards [NEW 2d] Rashaad Bradley |collx://profiles/5067094
+1 cards [G NEW now] Jamar Robinson |collx://profiles/5074894
+3 cards [NEW now] Brady Clark |collx://profiles/5074471
+1 cards [NEW now] David Barger |collx://profiles/5017131
+1 cards [NEW now] Jesus Poblano |collx://profiles/4736862
+1 cards [NEW now] Pavel Sharanda |collx://profiles/4504517
+2 cards [NEW NOADDR now] Jason Schwartz |collx://profiles/4998764
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 2 cards [G NEW now] Mitchell Johnston |collx://profiles/5068312
 1 cards [NEW now] David Ferreira |collx://profiles/4710263
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
-44 cards [NEW now] Randy Roberts |collx://profiles/5068851
 7 cards [NEW now] Jeffrey Hoppenstedt |collx://profiles/4652541
 3 cards [NEW now] Kix Carr |collx://profiles/5062065
 1 cards [NEW now] DJ Racette |collx://profiles/4702582
@@ -93,10 +103,8 @@
 1 cards [NEW now] Cesar Bulux |collx://profiles/5067647
 1 cards [NEW now] Franklin |collx://profiles/5073298
 1 cards [NEW now] Joshua Velasco |collx://profiles/4348725
-1 cards [NEW now] Michael Hesler |collx://profiles/4933790
 1 cards [NEW 2d] Asher |collx://profiles/4408787
 3 cards [G NEW NOADDR now] Oj Heffna |collx://profiles/5062396
-5 cards [NEW now] Robert Flores |collx://profiles/4760830
 8 cards [NEW NOADDR now] Mike Cahill |collx://profiles/5052987
 2 cards [NEW now] Amanda J |collx://profiles/5073209
 1 cards [NEW now] Jay Maldonado |collx://profiles/5069926
@@ -239,7 +247,6 @@
 3 cards [G NEW 12h] Jadyn |collx://profiles/5048532
 3 cards [G NEW 4h] Sal Korosiotis |collx://profiles/5062303
 12 cards [NEW 7h] Daco |collx://profiles/4689207
-11 cards [NEW 7h] Alexander Padilla |collx://profiles/5052942
 11 cards [NEW 11h] John Wittenberg |collx://profiles/5067609
 3 cards [G +1 38h] Jackson |collx://profiles/5007188
 2 cards [+1 15h] Gauge |collx://profiles/4996279
@@ -276,7 +283,6 @@
 4 cards [NEW 5h] Chris Good |collx://profiles/5069339
 13 cards [NEW 17h] Robert Leonard |collx://profiles/5065816
 3 cards [NEW now] Anthoni Castro |collx://profiles/4866715
-3 cards [NEW 4h] Carlos  Guerrero |collx://profiles/4893148
 3 cards [NEW 7h] Isaac Hickman |collx://profiles/5067626
 3 cards [NEW 5h] Dave Becc |collx://profiles/5021347
 3 cards [NEW 7h] Ricky Francisco |collx://profiles/4373388
