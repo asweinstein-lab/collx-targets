@@ -1,3 +1,4 @@
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 2 cards [G NEW now] Brian Green |collx://profiles/5070799
 5 cards [NEW now] Jessica Townsend |collx://profiles/5075877
 4 cards [NEW now] Mike Scott |collx://profiles/5075296
@@ -5,7 +6,6 @@
 1 cards [NEW NOADDR now] Travis Buck |collx://profiles/5068463
 2 cards [NEW 21h] Michael Brophy |collx://profiles/5050343
 4 cards [NEW 2d] Terry Alexander |collx://profiles/5068065
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 52 cards [BACK G +38 now] Carlos Minaya |collx://profiles/5068708
 69 cards [NEW now] Alan Wilson |collx://profiles/5065557
 22 cards [NEW now] parker duffey |collx://profiles/5075685
