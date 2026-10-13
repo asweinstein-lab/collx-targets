@@ -1,5 +1,21 @@
+114 cards [BACK +25 now] Brayan Zuniga |collx://profiles/5057262
+155 cards [BACK +42 now] Liz Torres |collx://profiles/5002861
+143 cards [BACK G +21 now] Bill Wetzelberger |collx://profiles/5057015
+21 cards [BACK +20 now] Jordan Weaver |collx://profiles/5061976
+48 cards [NEW now] David Gerstel |collx://profiles/4476130
+39 cards [NEW 4h] Jonathan Rudnick |collx://profiles/5039643
+28 cards [NEW now] Brody Carson |collx://profiles/5073144
+23 cards [NEW now] Angel Townsend |collx://profiles/5078575
+7 cards [NEW now] Coach Cunningham |collx://profiles/4767464
+1 cards [G NEW now] Kristen Roberts |collx://profiles/5071241
+1 cards [G NEW NOADDR now] Erik St.Germain |collx://profiles/4437219
+2 cards [NEW now] Kenji Kina |collx://profiles/4613520
+1 cards [NEW now] Chris  Humphries |collx://profiles/5078615
+1 cards [NEW now] Enrique Martinez |collx://profiles/5078019
+1 cards [NEW now] William Cordero |collx://profiles/5032336
+1 cards [NEW now] Mitchell |collx://profiles/4733905
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 52 cards [BACK G +50 now] Smith family Collectibles+ |collx://profiles/4747799
-113 cards [BACK +46 now] Liz Torres |collx://profiles/5002861
 92 cards [BACK +39 now] Brad Swartz |collx://profiles/4560495
 28 cards [NEW now] Le Hoopingarner |collx://profiles/5058642
 13 cards [NEW now] Cody Nichols |collx://profiles/5068751
@@ -12,10 +28,7 @@
 1 cards [NEW now] Ranch Ripz |collx://profiles/5078468
 1 cards [NEW now] Josh Henline |collx://profiles/5077785
 1 cards [NEW now] Steven De La Rosa |collx://profiles/5070507
-1 cards [NEW now] Michael Alaio |collx://profiles/5002696
-1 cards [NEW now] Austin Sereno |collx://profiles/4856363
 1 cards [NEW now] Reid Bolden |collx://profiles/4186729
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 21 cards [BACK +18 now] Barry Stahlman |collx://profiles/4957284
 51 cards [NEW now] Brenden Shea |collx://profiles/4789693
 1 cards [G NEW now] Craig M |collx://profiles/5009447
@@ -24,7 +37,6 @@
 1 cards [NEW now] Jordan Perry |collx://profiles/4614162
 1 cards [NEW now] Sugsrfree Collectibles |collx://profiles/4069936
 1 cards [NEW now] Eric Jones |collx://profiles/4033350
-113 cards [BACK G +26 now] Bill Wetzelberger |collx://profiles/5057015
 35 cards [BACK +26 now] Courtney Borror |collx://profiles/4932191
 19 cards [NEW now] Kaila Ward-Merritt |collx://profiles/4156143
 3 cards [+1 now] Colt Spivey |collx://profiles/4449631
@@ -33,13 +45,11 @@
 1 cards [G NEW now] Kim Staxx |collx://profiles/4534376
 4 cards [NEW now] PJ LaBonte |collx://profiles/5075222
 3 cards [NEW now] Gaige |collx://profiles/5032080
-2 cards [NEW now] Jarrette James |collx://profiles/5077597
 1 cards [NEW now] Michael Baker |collx://profiles/5078280
 1 cards [NEW now] Shawn Jeffcott |collx://profiles/5077222
 1 cards [NEW now] Danny Stutts |collx://profiles/5078211
 27 cards [BACK G +22 now] Tom |collx://profiles/4842270
 71 cards [BACK +21 now] giovanni Moretto |collx://profiles/5018283
-22 cards [NEW now] Aaron Holt |collx://profiles/5008697
 13 cards [NEW now] Tomas Iracheta |collx://profiles/4549191
 9 cards [NEW now] Tommy Landis |collx://profiles/5065428
 8 cards [NEW now] Cormac Johnson |collx://profiles/5062782
@@ -113,7 +123,6 @@
 20 cards [BACK +18 now] Peter Cajacuri |collx://profiles/5065704
 1 cards [G NEW now] Alex Music |collx://profiles/4931469
 4 cards [NEW now] Heayson A |collx://profiles/5064708
-4 cards [NEW now] Eric Hessler |collx://profiles/5003145
 3 cards [NEW now] Carlos Ortega |collx://profiles/4610079
 3 cards [NEW now] Ryan Howard |collx://profiles/4660290
 1 cards [NEW now] GianLuca Cataldo |collx://profiles/5076953
@@ -157,7 +166,6 @@
 1 cards [NEW now] MOTIVATION NATION |collx://profiles/5076184
 1 cards [NEW now] Glenn George |collx://profiles/5076196
 1 cards [NEW now] Jeremy Brooks |collx://profiles/5075209
-1 cards [NEW now] Jordan Weaver |collx://profiles/5061976
 1 cards [NEW now] Matthew Owens |collx://profiles/4698815
 1 cards [NEW now] DecayingZombie |collx://profiles/4582903
 100 cards [BACK +20 now] Ivory Hilton |collx://profiles/5062976
@@ -398,7 +406,6 @@
 11 cards [NEW 12h] Marshall Mahan |collx://profiles/5038585
 2 cards [NEW now] David Groover |collx://profiles/5003515
 2 cards [NEW 11h] Adam Bates |collx://profiles/5067878
-2 cards [NEW 9h] Juan Vega |collx://profiles/5029567
 2 cards [NEW 5h] Elijah doll |collx://profiles/4515553
 2 cards [NEW 4h] David Minervini |collx://profiles/5053713
 2 cards [NEW 4h] Ryan |collx://profiles/5064384
