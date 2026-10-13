@@ -1,4 +1,3 @@
 fetched 5001 rows
-no fresh profiles this pull - rebuilding pages from carry
 pages written
 exit: 0

@@ -1,5 +1,16 @@
+27 cards [BACK G +22 now] Tom |collx://profiles/4842270
+34 cards [BACK +33 now] Brad Swartz |collx://profiles/4560495
+71 cards [BACK +21 now] giovanni Moretto |collx://profiles/5018283
+22 cards [NEW now] Aaron Holt |collx://profiles/5008697
+13 cards [NEW now] Tomas Iracheta |collx://profiles/4549191
+9 cards [NEW now] Courtney Borror |collx://profiles/4932191
+9 cards [NEW now] Tommy Landis |collx://profiles/5065428
+8 cards [NEW now] Cormac Johnson |collx://profiles/5062782
+3 cards [NEW now] Evan Riley |collx://profiles/5051331
+3 cards [NEW now] Campbell nichols |collx://profiles/5077999
+2 cards [NEW now] …. ….. |collx://profiles/5078215
+1 cards [NEW now] Finn |collx://profiles/4873004
 0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
-5 cards [G NEW now] Tom |collx://profiles/4842270
 2 cards [NEW now] Zach Sanders |collx://profiles/4111313
 96 cards [BACK +48 now] Mary Thompson |collx://profiles/5043411
 413 cards [BACK +154 now] Natalie Jayroe |collx://profiles/5066841
@@ -9,13 +20,11 @@
 1 cards [NEW now] s monaco |collx://profiles/5078045
 1 cards [NEW now] Jace Burdett |collx://profiles/5076235
 1 cards [NEW now] Rock |collx://profiles/4881051
-1 cards [NEW now] Brad Swartz |collx://profiles/4560495
 1 cards [NEW now] TPosRips |collx://profiles/4332069
 11 cards [NEW now] KYCardCollective |collx://profiles/5074357
 1 cards [NEW now] Alex Forero |collx://profiles/5070258
 2 cards [G NEW 23d] Bently Hunter |collx://profiles/4864052
 313 cards [NEW now] Breon Hayes |collx://profiles/5052554
-3 cards [G NEW now] Jake Mcdonald |collx://profiles/5077974
 6 cards [NEW now] Jose Beltran |collx://profiles/4528117
 1 cards [NEW now] Matthew Dew |collx://profiles/5077959
 3 cards [NEW NOADDR now] Jasper Bolibol |collx://profiles/5077981
@@ -52,7 +61,6 @@
 1 cards [NEW now] Wes Ruebman |collx://profiles/4142028
 1 cards [NEW 2d] Toby |collx://profiles/4586555
 97 cards [BACK +49 now] Zakhary Trumbull |collx://profiles/5054628
-50 cards [BACK +30 now] giovanni Moretto |collx://profiles/5018283
 48 cards [NEW now] William Moore |collx://profiles/5052054
 29 cards [NEW now] Andrew Amarosa |collx://profiles/4998496
 4 cards [G NEW now] Cohen Study |collx://profiles/4820635
@@ -120,7 +128,6 @@
 1 cards [NEW now] Max Whitworth |collx://profiles/4927652
 1 cards [NEW now] Lazarus Shea |collx://profiles/5044267
 2 cards [NEW 2d] K.j. Bickham |collx://profiles/4939122
-13 cards [NEW now] Michaela Viard |collx://profiles/5076167
 1 cards [NEW now] MOTIVATION NATION |collx://profiles/5076184
 1 cards [NEW now] Glenn George |collx://profiles/5076196
 1 cards [NEW now] Jeremy Brooks |collx://profiles/5075209
@@ -269,7 +276,6 @@
 1 cards [NEW now] Steve Murphy |collx://profiles/5071863
 1 cards [NEW now] Delmar Benson |collx://profiles/5061946
 1 cards [NEW now] Tom Fornera |collx://profiles/4177480
-1 cards [G NEW now] Lukco Brasii |collx://profiles/5071668
 1 cards [NEW now] Kody Boyd |collx://profiles/5071789
 1 cards [NEW now] Don Ahlen |collx://profiles/5018442
 1 cards [NEW now] Cleo Gilbert |collx://profiles/5044501
@@ -378,7 +384,6 @@
 2 cards [NEW 4h] David Minervini |collx://profiles/5053713
 2 cards [NEW 4h] Ryan |collx://profiles/5064384
 2 cards [NEW 11h] Matthew Secko |collx://profiles/5065586
-2 cards [NEW 11h] Kyle DeWitt |collx://profiles/4713158
 2 cards [NEW 4h] Corey Jones |collx://profiles/4964584
 9 cards [NEW 12h] Tom Williams |collx://profiles/5011617
 16 cards [NEW 9d] Honda God |collx://profiles/5037005
@@ -406,7 +411,6 @@
 1 cards [NEW now] Carter Davenport |collx://profiles/5068115
 1 cards [NEW 12h] Vincent Fiore |collx://profiles/4640954
 1 cards [NEW now] Christopher Peeples |collx://profiles/4602530
-1 cards [NEW 11h] Cory Godsey |collx://profiles/4630237
 1 cards [NEW 6h] Tory Kibodeaux |collx://profiles/5068744
 1 cards [NEW 7h] Zian Vazquez |collx://profiles/5068284
 1 cards [NEW 11h] Wabz Enterprises |collx://profiles/4884508
@@ -465,4 +469,3 @@
 1 cards [NEW 33h] Edward Heath |collx://profiles/5064852
 3 cards [NEW 16d] Diana Jimenez |collx://profiles/5014827
 3 cards [NEW 7d] robert gonzalez |collx://profiles/5045794
-2 cards [NEW 8d] David Marin |collx://profiles/5026379
