@@ -1,31 +1,33 @@
-116 cards [BACK +50 now] Douglas Jones |collx://profiles/5044882
+90 cards [BACK G +87 now] Nicholas Parmer |collx://profiles/4643868
+173 cards [BACK +57 now] Douglas Jones |collx://profiles/5044882
+124 cards [BACK +19 now] Brad Swartz |collx://profiles/4560495
+111 cards [NEW now] Raymond Farrell |collx://profiles/5078914
+8 cards [G NEW now] John Foley |collx://profiles/5077206
+5 cards [NEW now] Alexander Taylor |collx://profiles/5055402
+2 cards [G NEW NOADDR now] Kory Brandel |collx://profiles/5079086
+2 cards [NEW now] Dakota Gabbert |collx://profiles/5078823
+5 cards [NEW NOADDR now] Karl Verschuren |collx://profiles/5046549
+1 cards [NEW now] Thomas Stamatelos |collx://profiles/4915821
+1 cards [NEW NOADDR now] Thomas Fisher |collx://profiles/5079144
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 99 cards [BACK +22 now] Corbin Thompson |collx://profiles/4040739
 60 cards [BACK +21 9h] Brady Clark |collx://profiles/5074471
-28 cards [NEW now] Brendan Bricks |collx://profiles/5073668
 32 cards [NEW NOADDR now] Jon Watson |collx://profiles/4974771
 2 cards [+1 now] Parker Rutter |collx://profiles/4903891
-13 cards [NEW now] Andrew Cornwell |collx://profiles/4400815
-2 cards [G NEW now] Sam Bartlett |collx://profiles/5077927
 2 cards [G NEW now] Thomas Reynolds |collx://profiles/5066881
-7 cards [NEW now] Micah Distler |collx://profiles/4656486
 1 cards [G NEW now] Preston Ball |collx://profiles/5078831
 4 cards [NEW now] Greyson |collx://profiles/5060667
 2 cards [NEW now] Kaeli |collx://profiles/5068170
 2 cards [NEW now] Cardz |collx://profiles/4375173
 2 cards [NEW now] Nastycult |collx://profiles/5028069
 4 cards [NEW NOADDR now] Allison Hunter |collx://profiles/5059396
-1 cards [NEW now] Sam Belcaster |collx://profiles/4973355
 1 cards [NEW now] Phil Spoljaric |collx://profiles/4933099
 1 cards [NEW now] Finley Sullivan |collx://profiles/4372571
 2 cards [NEW NOADDR now] Jason Facchine |collx://profiles/5078830
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 81 cards [BACK +33 now] David Gerstel |collx://profiles/4476130
-23 cards [BACK G +17 now] Ryker Alan Harvey |collx://profiles/4965019
-25 cards [+24 now] Zachary |collx://profiles/4885116
 17 cards [NEW now] AndrewHeather Gilmore |collx://profiles/5078431
 3 cards [G NEW now] Hayden Black |collx://profiles/5078731
 9 cards [NEW now] Miguel R |collx://profiles/4906800
-4 cards [NEW now] Ezequiel Munoz |collx://profiles/5078683
 2 cards [NEW now] Anthony Grago |collx://profiles/5078773
 1 cards [NEW now] Kyle Hannan |collx://profiles/5078687
 1 cards [NEW now] David Combs |collx://profiles/5078656
@@ -44,7 +46,6 @@
 1 cards [NEW now] William Cordero |collx://profiles/5032336
 1 cards [NEW now] Mitchell |collx://profiles/4733905
 52 cards [BACK G +50 now] Smith family Collectibles+ |collx://profiles/4747799
-92 cards [BACK +39 now] Brad Swartz |collx://profiles/4560495
 28 cards [NEW now] Le Hoopingarner |collx://profiles/5058642
 3 cards [G NEW now] Austin Clark |collx://profiles/4053443
 1 cards [G NEW now] Nicholas Oliveira |collx://profiles/4990221
@@ -76,7 +77,6 @@
 1 cards [NEW now] Shawn Jeffcott |collx://profiles/5077222
 27 cards [BACK G +22 now] Tom |collx://profiles/4842270
 71 cards [BACK +21 now] giovanni Moretto |collx://profiles/5018283
-9 cards [NEW now] Tommy Landis |collx://profiles/5065428
 8 cards [NEW now] Cormac Johnson |collx://profiles/5062782
 3 cards [NEW now] Evan Riley |collx://profiles/5051331
 2 cards [NEW now] Zach Sanders |collx://profiles/4111313
@@ -85,7 +85,6 @@
 33 cards [G NEW now] Brandon Graham |collx://profiles/4857371
 1 cards [NEW now] Peter Gasper |collx://profiles/5078077
 1 cards [NEW now] s monaco |collx://profiles/5078045
-1 cards [NEW now] Jace Burdett |collx://profiles/5076235
 1 cards [NEW now] Rock |collx://profiles/4881051
 1 cards [NEW now] TPosRips |collx://profiles/4332069
 11 cards [NEW now] KYCardCollective |collx://profiles/5074357
