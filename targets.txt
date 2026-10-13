@@ -1,3 +1,9 @@
+1 cards [G NEW now] Kyle “TD” Harper |collx://profiles/5077885
+10 cards [NEW NOADDR now] Hunter Jordan |collx://profiles/5076719
+1 cards [NEW now] Chris Walcott |collx://profiles/5061246
+1 cards [NEW NOADDR now] Seaira |collx://profiles/5073228
+1 cards [NEW NOADDR now] Walker Parson |collx://profiles/4781673
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 80 cards [BACK G +22 now] Bill Wetzelberger |collx://profiles/5057015
 18 cards [G NEW now] Travis Moriki |collx://profiles/4366134
 7 cards [G NEW 5h] Andrew Cianni |collx://profiles/4564219
@@ -7,7 +13,6 @@
 1 cards [NEW now] Oscar Cruz |collx://profiles/5074293
 1 cards [NEW 37h] Lucas Harker |collx://profiles/4451583
 1 cards [NEW 14d] Skreel Slakker |collx://profiles/4999421
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 99 cards [BACK +47 now] Taylor Hovde |collx://profiles/5031087
 112 cards [BACK +25 now] Katies Card Corner |collx://profiles/5048869
 76 cards [BACK +29 now] Ayden Flores |collx://profiles/4956526
