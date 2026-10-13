@@ -1,10 +1,25 @@
+74 cards [BACK +41 now] Gray McCutchen |collx://profiles/4917717
+36 cards [BACK +21 now] Jason Mejia |collx://profiles/4716360
+25 cards [BACK +21 2d] Micah Hamiter |collx://profiles/5020537
+23 cards [NEW now] Brandon Keane |collx://profiles/5075139
+20 cards [NEW now] giovanni Moretto |collx://profiles/5018283
+2 cards [+1 22h] Caney Bay Collectibles |collx://profiles/4961493
+8 cards [NEW now] Tony Gaut |collx://profiles/5077153
+3 cards [NEW now] Katherine McCue |collx://profiles/5048869
+3 cards [NEW now] Joe Class |collx://profiles/5000606
+2 cards [NEW now] Rob Mercer |collx://profiles/5013966
+2 cards [NEW now] Lane Philipp |collx://profiles/5076297
+1 cards [NEW now] Brendan Galvin |collx://profiles/5065461
+1 cards [NEW now] Javier M Arce |collx://profiles/5073543
+1 cards [NEW now] Oscar Narez |collx://profiles/5076681
+1 cards [NEW now] James |collx://profiles/5040686
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 117 cards [BACK +101 now] Mike Cahill |collx://profiles/5052987
 102 cards [BACK +17 now] Joesef |collx://profiles/4173281
 56 cards [BACK +23 now] Jensen Reisbeck |collx://profiles/4802388
 20 cards [BACK +18 now] Peter Cajacuri |collx://profiles/5065704
 46 cards [NEW now] Erik Jensen |collx://profiles/5069765
 32 cards [NEW now] Cayden Nonneman |collx://profiles/4590327
-15 cards [NEW now] Jason Mejia |collx://profiles/4716360
 8 cards [NEW now] Bryan Mohr |collx://profiles/5075039
 6 cards [NEW now] Brian Ingram |collx://profiles/4592362
 1 cards [G NEW now] Alex Music |collx://profiles/4931469
@@ -24,7 +39,6 @@
 3 cards [NEW 2d] Tony Whiteford |collx://profiles/5068947
 2 cards [NEW 2d] Tim G |collx://profiles/4987159
 1 cards [NEW 34h] Mark |collx://profiles/4997163
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 432 cards [BACK +431 now] Quincy Garland |collx://profiles/5072648
 45 cards [BACK +16 now] J T |collx://profiles/5063351
 138 cards [BACK +18 now] Brynlee Grayson |collx://profiles/5073636
@@ -286,7 +300,6 @@
 208 cards [BACK +33 4h] ONiKyOdAi |collx://profiles/4662698
 57 cards [BACK +22 7h] Two Guy’s 1 Hobby |collx://profiles/4900946
 104 cards [+103 9h] Matt |collx://profiles/4305974
-33 cards [BACK +17 12h] Gray McCutchen |collx://profiles/4917717
 26 cards [BACK +17 8h] Chuck Sharkey |collx://profiles/4902924
 40 cards [BACK +38 NOADDR 19h] Kevin Saucy |collx://profiles/4990373
 58 cards [+56 now] Don Mickley |collx://profiles/4942403
@@ -325,7 +338,6 @@
 3 cards [G +1 38h] Jackson |collx://profiles/5007188
 2 cards [+1 15h] Gauge |collx://profiles/4996279
 10 cards [NEW now] William Brockson |collx://profiles/5039874
-10 cards [NEW 7h] Harrison Garcia |collx://profiles/5068059
 25 cards [NEW 3d] Jt Alford |collx://profiles/5038371
 2 cards [G NEW 4h] Ezra |collx://profiles/4293621
 2 cards [G NEW 10h] Ryker Mullins |collx://profiles/4623685
@@ -375,7 +387,6 @@
 2 cards [NEW 5h] Elijah doll |collx://profiles/4515553
 2 cards [NEW 3h] Chris Matthews |collx://profiles/5003649
 2 cards [NEW 4h] David Minervini |collx://profiles/5053713
-2 cards [NEW 6h] Robert Solis Jr |collx://profiles/5058930
 2 cards [NEW 7h] Ian Lloyd |collx://profiles/4792693
 2 cards [NEW 4h] Ryan |collx://profiles/5064384
 2 cards [NEW 11h] Matthew Secko |collx://profiles/5065586
@@ -425,7 +436,6 @@
 3 cards [NEW NOADDR 7h] Patrick |collx://profiles/5063573
 3 cards [NEW NOADDR 9h] BauerPowerRips |collx://profiles/4905153
 5 cards [NEW 13h] Austin Harrell |collx://profiles/5012779
-4 cards [NEW 14h] Micah Hamiter |collx://profiles/5020537
 3 cards [NEW 17h] Bryce Bono |collx://profiles/4494117
 3 cards [NEW 15h] Jackie Cruz |collx://profiles/5019436
 2 cards [NEW 23h] Michael Cassidy |collx://profiles/4924990
