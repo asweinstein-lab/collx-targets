@@ -1,3 +1,18 @@
+85 cards [BACK +76 now] Corey Boor |collx://profiles/5078195
+21 cards [BACK +18 now] Barry Stahlman |collx://profiles/4957284
+67 cards [NEW now] Liz Torres |collx://profiles/5002861
+51 cards [NEW now] Brenden Shea |collx://profiles/4789693
+24 cards [NEW now] Luke tucker |collx://profiles/5021787
+14 cards [G NEW NOADDR now] Daniel Garay |collx://profiles/5068988
+10 cards [NEW now] Felipe Emilio Mundo Tovar |collx://profiles/5078325
+2 cards [G NEW now] Smith family Collectibles+ |collx://profiles/4747799
+1 cards [G NEW now] Craig M |collx://profiles/5009447
+1 cards [NEW now] olivia olsen |collx://profiles/5078317
+1 cards [NEW now] Alex Naglak |collx://profiles/5044675
+1 cards [NEW now] Jordan Perry |collx://profiles/4614162
+1 cards [NEW now] Sugsrfree Collectibles |collx://profiles/4069936
+1 cards [NEW now] Eric Jones |collx://profiles/4033350
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 113 cards [BACK G +26 now] Bill Wetzelberger |collx://profiles/5057015
 35 cards [BACK +26 now] Courtney Borror |collx://profiles/4932191
 53 cards [BACK +19 now] Brad Swartz |collx://profiles/4560495
@@ -6,19 +21,14 @@
 19 cards [NEW now] Kaila Ward-Merritt |collx://profiles/4156143
 3 cards [+1 now] Colt Spivey |collx://profiles/4449631
 10 cards [NEW now] Rymel Jeter |collx://profiles/5073019
-9 cards [NEW now] Corey Boor |collx://profiles/5078195
-6 cards [NEW now] Katrina Macy |collx://profiles/5078293
 1 cards [G NEW now] Nolimit Fibonacci |collx://profiles/5078272
 1 cards [G NEW now] Kim Staxx |collx://profiles/4534376
 4 cards [NEW now] PJ LaBonte |collx://profiles/5075222
-3 cards [NEW now] Barry Stahlman |collx://profiles/4957284
 3 cards [NEW now] Gaige |collx://profiles/5032080
 2 cards [NEW now] Jarrette James |collx://profiles/5077597
-1 cards [NEW now] Christian Jennings |collx://profiles/5078256
 1 cards [NEW now] Michael Baker |collx://profiles/5078280
 1 cards [NEW now] Shawn Jeffcott |collx://profiles/5077222
 1 cards [NEW now] Danny Stutts |collx://profiles/5078211
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 27 cards [BACK G +22 now] Tom |collx://profiles/4842270
 71 cards [BACK +21 now] giovanni Moretto |collx://profiles/5018283
 22 cards [NEW now] Aaron Holt |collx://profiles/5008697
@@ -41,11 +51,9 @@
 1 cards [NEW now] Alex Forero |collx://profiles/5070258
 2 cards [G NEW 23d] Bently Hunter |collx://profiles/4864052
 313 cards [NEW now] Breon Hayes |collx://profiles/5052554
-6 cards [NEW now] Jose Beltran |collx://profiles/4528117
 1 cards [NEW now] Matthew Dew |collx://profiles/5077959
 3 cards [NEW NOADDR now] Jasper Bolibol |collx://profiles/5077981
 3 cards [NEW NOADDR now] Jacob Woods |collx://profiles/4983356
-1 cards [NEW now] Chris Walcott |collx://profiles/5061246
 1 cards [NEW NOADDR now] Seaira |collx://profiles/5073228
 1 cards [NEW NOADDR now] Walker Parson |collx://profiles/4781673
 7 cards [G NEW 5h] Andrew Cianni |collx://profiles/4564219
@@ -200,11 +208,8 @@
 1 cards [G NEW now] Jamar Robinson |collx://profiles/5074894
 3 cards [NEW now] Brady Clark |collx://profiles/5074471
 1 cards [NEW now] David Barger |collx://profiles/5017131
-1 cards [NEW now] Jesus Poblano |collx://profiles/4736862
-2 cards [G NEW now] Mitchell Johnston |collx://profiles/5068312
 1 cards [NEW now] David Ferreira |collx://profiles/4710263
 7 cards [NEW now] Jeffrey Hoppenstedt |collx://profiles/4652541
-3 cards [NEW now] Kix Carr |collx://profiles/5062065
 1 cards [NEW NOADDR now] summer whisenhunt |collx://profiles/5049410
 1 cards [NEW 29d] Waylon Cash |collx://profiles/4979053
 1 cards [NEW now] Whatever Nie Nie |collx://profiles/4602504
@@ -359,7 +364,6 @@
 2 cards [G NEW 4h] Ezra |collx://profiles/4293621
 2 cards [G NEW 10h] Ryker Mullins |collx://profiles/4623685
 2 cards [G NEW 6h] Jabony Mendez |collx://profiles/5070105
-2 cards [G NEW now] BRANDON SAENZ |collx://profiles/4765156
 2 cards [G NEW 8h] gregg ziskind |collx://profiles/4960696
 9 cards [NEW 8h] Grayson |collx://profiles/5068211
 8 cards [NEW 7h] Chris Acosta |collx://profiles/4770537
