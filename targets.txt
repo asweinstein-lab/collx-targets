@@ -1,11 +1,25 @@
-87 cards [BACK +45 now] Katies Card Corner |collx://profiles/5048869
+99 cards [BACK +47 now] Taylor Hovde |collx://profiles/5031087
+112 cards [BACK +25 now] Katies Card Corner |collx://profiles/5048869
+56 cards [BACK +35 now] Anny |collx://profiles/5077383
+76 cards [BACK +29 now] Ayden Flores |collx://profiles/4956526
+17 cards [BACK G +16 now] Julio Navarro |collx://profiles/4911813
+287 cards [NEW now] Louis Caridad |collx://profiles/5074556
+31 cards [NEW now] Jake Michael |collx://profiles/5074935
+1 cards [G NEW now] Ryker Alan Harvey |collx://profiles/4965019
+5 cards [NEW now] Carlos Hernandez |collx://profiles/5048984
+1 cards [NEW now] Granett Deromedi |collx://profiles/5077527
+1 cards [NEW now] Jeffrey Andersen |collx://profiles/5063193
+1 cards [NEW now] Richard Gonzales |collx://profiles/4883878
+1 cards [NEW now] Kenny Parris |collx://profiles/4980184
+1 cards [NEW now] Jay |collx://profiles/4756007
+1 cards [NEW NOADDR now] Raymond Chavez |collx://profiles/5077783
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 55 cards [BACK +44 now] A.J. Hecker |collx://profiles/5059047
 76 cards [BACK +26 now] Kiley Jordan |collx://profiles/5077276
 78 cards [BACK +17 now] Kayla |collx://profiles/5066336
 181 cards [BACK +17 now] Mike Cahill |collx://profiles/5052987
 48 cards [NEW now] Mary Thompson |collx://profiles/5043411
 47 cards [NEW now] Tristan Torres |collx://profiles/5074477
-47 cards [NEW now] Ayden Flores |collx://profiles/4956526
 15 cards [NEW now] Kristian Gonzalez |collx://profiles/4937609
 10 cards [NEW now] Brandon |collx://profiles/5077543
 10 cards [NEW now] Vince Chiang |collx://profiles/5077633
@@ -14,12 +28,9 @@
 1 cards [G NEW now] Zach White |collx://profiles/4506704
 5 cards [NEW 4h] Jason Hackett |collx://profiles/5076398
 3 cards [NEW now] Elisabeth Anne Gardner |collx://profiles/4769660
-1 cards [G NEW NOADDR now] Julio Navarro |collx://profiles/4911813
 1 cards [NEW now] Angel Ayala |collx://profiles/5077606
 1 cards [NEW now] Wes Ruebman |collx://profiles/4142028
-1 cards [NEW NOADDR now] Reggie |collx://profiles/5074868
 1 cards [NEW 2d] Toby |collx://profiles/4586555
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 97 cards [BACK +49 now] Zakhary Trumbull |collx://profiles/5054628
 69 cards [BACK +33 now] Jason Mejia |collx://profiles/4716360
 50 cards [BACK +30 now] giovanni Moretto |collx://profiles/5018283
@@ -31,7 +42,6 @@
 3 cards [G NEW now] Paul Wentworth Jr |collx://profiles/4787806
 10 cards [NEW now] Pixie Girl |collx://profiles/5077367
 2 cards [G NEW now] Kyle |collx://profiles/4787493
-8 cards [NEW now] Anny |collx://profiles/5077383
 1 cards [G NEW now] Ryan Weaver |collx://profiles/4748492
 5 cards [NEW now] Adam |collx://profiles/4098645
 8 cards [NEW NOADDR now] Dasani Wilkerson |collx://profiles/5054624
@@ -186,7 +196,6 @@
 1 cards [NEW now] Dionte Bell-Moore |collx://profiles/5074656
 1 cards [NEW now] Ronalou Baylon |collx://profiles/5061793
 1 cards [NEW now] BO's CARD CORNER |collx://profiles/4601220
-52 cards [+50 now] Taylor Hovde |collx://profiles/5031087
 2 cards [NEW now] Caden Robinson |collx://profiles/5074547
 1 cards [NEW now] King Revolution |collx://profiles/5074533
 1 cards [NEW now] Michael Belliotti |collx://profiles/4583514
