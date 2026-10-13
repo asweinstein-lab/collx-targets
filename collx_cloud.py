@@ -259,7 +259,7 @@ if True:  # page build block
         fresh = i <= len(lines)
         rows.append(row_html(pid, _html.escape(nm), cards, _html.escape(tags),
                              'FRESH' if fresh else 'carry'))
-    ts = datetime.datetime.now().strftime('%-I:%M %p')
+    ts = datetime.datetime.now(__import__('zoneinfo').ZoneInfo('America/New_York')).strftime('%-I:%M %p ET')
     import time as _time
     build_ms = int(_time.time() * 1000)
     refresh_js = (
