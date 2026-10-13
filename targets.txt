@@ -1,4 +1,9 @@
-138 cards [BACK +28 now] Natalie Jayroe |collx://profiles/5066841
+259 cards [BACK +121 now] Natalie Jayroe |collx://profiles/5066841
+3 cards [G NEW now] Jake Mcdonald |collx://profiles/5077974
+6 cards [NEW now] Jose Beltran |collx://profiles/4528117
+1 cards [NEW now] Matthew Dew |collx://profiles/5077959
+3 cards [NEW NOADDR now] Jasper Bolibol |collx://profiles/5077981
+3 cards [NEW NOADDR now] Jacob Woods |collx://profiles/4983356
 0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 1 cards [G NEW now] Kyle “TD” Harper |collx://profiles/5077885
 10 cards [NEW NOADDR now] Hunter Jordan |collx://profiles/5076719
