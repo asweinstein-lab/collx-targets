@@ -190,17 +190,18 @@ STYLE = (
  '.tabs a.on{background:#2A3B4E;color:var(--tx)}'
  '.row{display:flex;gap:12px;align-items:center;padding:11px 14px;border-bottom:1px solid var(--line);'
  'text-decoration:none;color:inherit}'
- '.row:active{background:#1A2430}'
+ '.row{transition:transform .06s}'
+ 'a.row:active{background:#1A2430;transform:scale(.985)}'
  '@media(hover:hover){.row:hover{background:#17202B;cursor:pointer}}'
  '.ct{flex:0 0 52px;text-align:center}'
- '.ct b{display:block;font-size:19px;font-weight:700;line-height:1.1}'
+ '.ct b{display:block;font-size:19px;font-weight:700;line-height:1.1;font-variant-numeric:tabular-nums}'
  '.ct i{display:block;font-style:normal;font-size:10.5px;color:var(--dim)}'
  '.main{flex:1;min-width:0}'
  '.nm{font-size:16.5px;font-weight:600;line-height:1.25;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}'
  '.meta{margin-top:3px;font-size:12.5px;color:var(--dim);display:flex;gap:6px;align-items:center;flex-wrap:wrap}'
  '.ch{padding:1px 7px;border-radius:5px;font-weight:700;font-size:11px}'
- '.ch.new{background:rgba(61,214,140,.16);color:var(--new)}'
- '.ch.back{background:rgba(245,184,61,.16);color:var(--back)}'
+ '.ch.new{background:rgba(61,214,140,.22);color:var(--new)}'
+ '.ch.back{background:rgba(245,184,61,.22);color:var(--back)}'
  '.ch.g{background:rgba(180,140,255,.16);color:var(--grad)}'
  '.bdg{margin-left:auto;font-size:11px;font-weight:700;color:var(--new)}'
  '.bdg.c{color:var(--dim)}'
@@ -330,6 +331,11 @@ if True:  # page build block
         '  savef();apply();});'
         '});'
         'apply();'
+        'var vt=document.getElementById("vt");'
+        'if(vt){var d0=new Date();d0.setHours(0,0,0,0);var n=0;'
+        'for(var j=0;j<localStorage.length;j++){var ky=localStorage.key(j);'
+        'if(ky&&ky.indexOf("viewed_")===0&&+localStorage.getItem(ky)>=d0.getTime())n++;}'
+        'vt.textContent=n+" viewed today";}'
         'var now=Date.now();'
         'for(var i=localStorage.length-1;i>=0;i--){var key=localStorage.key(i);'
         ' if(key&&key.indexOf("viewed_")===0&&now-(+localStorage.getItem(key))>14*86400000)localStorage.removeItem(key);}'
@@ -346,9 +352,9 @@ if True:  # page build block
         '<!doctype html><meta name="viewport" content="width=device-width,initial-scale=1">'
         + pwa_tags + STYLE + refresh_js
         + '<body><div class="wrap">'
-        + f'<div class="hdr"><div class="hrow"><span><b>CollX targets</b> · {ts} · {len(lines)} fresh</span>'
+        + f'<div class="hdr"><div class="hrow"><span><b>CollX targets</b> · {ts} · {len(lines)} fresh · <span id="vt"></span></span>'
         + '<a href="javascript:location.replace(location.pathname+\'?t=\'+Date.now())">refresh</a></div>'
-        + '<div class="tabs"><a class="on" href="index.html">Fresh</a><a href="movers.html">Movers</a><a href="random.html">Random</a></div>'
+        + '<div class="tabs"><a class="on" href="index.html">Fresh</a><a href="movers.html">Movers</a><a href="random.html">Random</a><a href="stats.html">Stats</a></div>'
         + '<div class="fbar">''<span class="fc" data-f="hv">Hide viewed</span>''<span class="fc" data-f="c10">10+</span>''<span class="fc" data-f="c25">25+</span>''<span class="fc" data-f="c50">50+</span>''<span class="fc" data-f="on">Online now</span>''<span class="fc" data-f="sort">Newest first</span>''</div>'
         + '</div>'
         + ''.join(rows) + '</div>' + app_js + '</body>'
@@ -373,7 +379,7 @@ rpage = (
     + '<body><div class="wrap">'
     + f'<div class="hdr"><div class="hrow"><span><b>CollX random</b> · {ts} · {len(rrows)} never contacted</span>'
     + '<a href="javascript:location.replace(location.pathname+\'?t=\'+Date.now())">refresh</a></div>'
-    + '<div class="tabs"><a href="index.html">Fresh</a><a href="movers.html">Movers</a><a class="on" href="random.html">Random</a></div>'
+    + '<div class="tabs"><a href="index.html">Fresh</a><a href="movers.html">Movers</a><a class="on" href="random.html">Random</a><a href="stats.html">Stats</a></div>'
     + '<div class="fbar">'
     + '<span class="fc" data-f="hv">Hide viewed</span><span class="fc" data-f="c10">10+</span>'
     + '<span class="fc" data-f="c25">25+</span><span class="fc" data-f="c50">50+</span>'
@@ -397,7 +403,7 @@ mpage = (
     + '<body><div class="wrap">'
     + f'<div class="hdr"><div class="hrow"><span><b>CollX movers</b> · {ts} · {len(mrows)} added cards since last pull</span>'
     + '<a href="javascript:location.replace(location.pathname+\'?t=\'+Date.now())">refresh</a></div>'
-    + '<div class="tabs"><a href="index.html">Fresh</a><a class="on" href="movers.html">Movers</a><a href="random.html">Random</a></div>'
+    + '<div class="tabs"><a href="index.html">Fresh</a><a class="on" href="movers.html">Movers</a><a href="random.html">Random</a><a href="stats.html">Stats</a></div>'
     + '<div class="fbar">'
     + '<span class="fc" data-f="hv">Hide viewed</span><span class="fc" data-f="c10">10+</span>'
     + '<span class="fc" data-f="c25">25+</span><span class="fc" data-f="c50">50+</span>'
@@ -405,6 +411,83 @@ mpage = (
     + '</div>'
     + ''.join(mrows) + '</div>' + app_js + '</body>')
 open(f"{HOME}/movers.html", "w").write(mpage)
+
+# STATS LOG: one line per run, kept to ~3 weeks
+import json as _json
+_stat = {
+    "t": datetime.datetime.now(__import__('zoneinfo').ZoneInfo('America/New_York')).strftime('%Y-%m-%d %H:%M'),
+    "fresh": len(lines), "carry": len(carry), "movers": len(mrows),
+    "pool": int(len(rnd_pool)), "served": len(excl),
+    "new_signups": int(df['new_arrival'].sum()) if 'new_arrival' in df else 0,
+}
+_hist = []
+try:
+    _hist = [_json.loads(x) for x in open(f"{HOME}/stats.jsonl") if x.strip()]
+except FileNotFoundError:
+    pass
+_hist.append(_stat)
+_hist = _hist[-500:]
+open(f"{HOME}/stats.jsonl", "w").write("\n".join(_json.dumps(x) for x in _hist) + "\n")
+
+# STATS PAGE
+def _bars(vals, w=330, h=70):
+    if not vals: return ''
+    mx = max(max(vals), 1)
+    bw = w / len(vals)
+    parts = []
+    for i, v in enumerate(vals):
+        bh = max(2, v / mx * (h - 14))
+        parts.append(f'<rect x="{i*bw+1:.1f}" y="{h-bh:.1f}" width="{bw-2:.1f}" height="{bh:.1f}" rx="2" fill="var(--act)" opacity="{0.45 + 0.55*v/mx:.2f}"/>')
+    return f'<svg viewBox="0 0 {w} {h}" style="width:100%;height:auto">' + ''.join(parts) + '</svg>'
+
+_last24 = _hist[-24:]
+_today = _stat["t"][:10]
+_fresh_today = sum(x["fresh"] for x in _hist if x["t"][:10] == _today)
+_signups_today = sum(x.get("new_signups", 0) for x in _hist if x["t"][:10] == _today)
+# daily fresh totals, last 7 days
+_days = {}
+for x in _hist:
+    _days.setdefault(x["t"][:10], 0)
+    _days[x["t"][:10]] += x["fresh"]
+_day_rows = ''.join(
+    f'<div class="srow"><span>{d[5:]}</span><b>{n}</b></div>'
+    for d, n in sorted(_days.items())[-7:])
+
+def _card(label, val, sub=''):
+    return (f'<div class="scard"><div class="sv">{val}</div><div class="sl">{label}</div>'
+            + (f'<div class="ss">{sub}</div>' if sub else '') + '</div>')
+
+_spage = (
+    '<!doctype html><meta name="viewport" content="width=device-width,initial-scale=1">'
+    + pwa_tags + STYLE
+    + '<style>.sgrid{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:14px}'
+    + '.scard{background:#1A2430;border:1px solid var(--line);border-radius:12px;padding:14px}'
+    + '.sv{font-size:26px;font-weight:700;font-variant-numeric:tabular-nums}'
+    + '.sl{font-size:12px;color:var(--dim);margin-top:2px}'
+    + '.ss{font-size:11px;color:var(--dim);margin-top:4px}'
+    + '.sect{padding:4px 14px 2px;font-size:13px;font-weight:600;color:var(--dim)}'
+    + '.chartbox{padding:6px 14px 14px}'
+    + '.srow{display:flex;justify-content:space-between;padding:8px 14px;border-bottom:1px solid var(--line);font-size:14px}'
+    + '.srow b{font-variant-numeric:tabular-nums}</style>'
+    + '<body><div class="wrap">'
+    + f'<div class="hdr"><div class="hrow"><span><b>CollX stats</b> · {ts}</span>'
+    + '<a href="javascript:location.replace(location.pathname+\'?t=\'+Date.now())">refresh</a></div>'
+    + '<div class="tabs"><a href="index.html">Fresh</a><a href="movers.html">Movers</a><a href="random.html">Random</a><a class="on" href="stats.html">Stats</a></div>'
+    + '</div>'
+    + '<div class="sgrid">'
+    + _card('fresh served today', _fresh_today)
+    + _card('new signups today', _signups_today)
+    + _card('movers right now', len(mrows))
+    + _card('never contacted', f'{len(rnd_pool):,}')
+    + _card('served all-time', f'{len(excl):,}')
+    + _card('carry-overs', len(carry))
+    + '</div>'
+    + '<div class="sect">Fresh per run — last 24 pulls</div>'
+    + f'<div class="chartbox">{_bars([x["fresh"] for x in _last24])}</div>'
+    + '<div class="sect">Fresh per day</div>'
+    + _day_rows
+    + '</div></body>')
+open(f"{HOME}/stats.html", "w").write(_spage)
 
 open(f"{HOME}/random.html", "w").write(rpage)
 print("pages written")
