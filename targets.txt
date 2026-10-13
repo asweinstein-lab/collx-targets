@@ -1,23 +1,31 @@
-85 cards [BACK +76 now] Corey Boor |collx://profiles/5078195
+52 cards [BACK G +50 now] Smith family Collectibles+ |collx://profiles/4747799
+113 cards [BACK +46 now] Liz Torres |collx://profiles/5002861
+92 cards [BACK +39 now] Brad Swartz |collx://profiles/4560495
+28 cards [NEW now] Le Hoopingarner |collx://profiles/5058642
+13 cards [NEW now] Cody Nichols |collx://profiles/5068751
+3 cards [G NEW now] Austin Clark |collx://profiles/4053443
+1 cards [G NEW now] Nicholas Oliveira |collx://profiles/4990221
+5 cards [NEW now] Bairon Toga |collx://profiles/5078376
+4 cards [NEW now] Shawn Tidd |collx://profiles/4872310
+2 cards [NEW now] Andrew Axelrod |collx://profiles/5078496
+2 cards [NEW now] corey roof |collx://profiles/5073252
+1 cards [NEW now] Ranch Ripz |collx://profiles/5078468
+1 cards [NEW now] Josh Henline |collx://profiles/5077785
+1 cards [NEW now] Steven De La Rosa |collx://profiles/5070507
+1 cards [NEW now] Michael Alaio |collx://profiles/5002696
+1 cards [NEW now] Austin Sereno |collx://profiles/4856363
+1 cards [NEW now] Reid Bolden |collx://profiles/4186729
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 21 cards [BACK +18 now] Barry Stahlman |collx://profiles/4957284
-67 cards [NEW now] Liz Torres |collx://profiles/5002861
 51 cards [NEW now] Brenden Shea |collx://profiles/4789693
-24 cards [NEW now] Luke tucker |collx://profiles/5021787
-14 cards [G NEW NOADDR now] Daniel Garay |collx://profiles/5068988
-10 cards [NEW now] Felipe Emilio Mundo Tovar |collx://profiles/5078325
-2 cards [G NEW now] Smith family Collectibles+ |collx://profiles/4747799
 1 cards [G NEW now] Craig M |collx://profiles/5009447
 1 cards [NEW now] olivia olsen |collx://profiles/5078317
 1 cards [NEW now] Alex Naglak |collx://profiles/5044675
 1 cards [NEW now] Jordan Perry |collx://profiles/4614162
 1 cards [NEW now] Sugsrfree Collectibles |collx://profiles/4069936
 1 cards [NEW now] Eric Jones |collx://profiles/4033350
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 113 cards [BACK G +26 now] Bill Wetzelberger |collx://profiles/5057015
 35 cards [BACK +26 now] Courtney Borror |collx://profiles/4932191
-53 cards [BACK +19 now] Brad Swartz |collx://profiles/4560495
-28 cards [G NEW now] makenna |collx://profiles/5077815
-32 cards [NEW now] Amber Brooks |collx://profiles/5078239
 19 cards [NEW now] Kaila Ward-Merritt |collx://profiles/4156143
 3 cards [+1 now] Colt Spivey |collx://profiles/4449631
 10 cards [NEW now] Rymel Jeter |collx://profiles/5073019
@@ -36,7 +44,6 @@
 9 cards [NEW now] Tommy Landis |collx://profiles/5065428
 8 cards [NEW now] Cormac Johnson |collx://profiles/5062782
 3 cards [NEW now] Evan Riley |collx://profiles/5051331
-3 cards [NEW now] Campbell nichols |collx://profiles/5077999
 1 cards [NEW now] Finn |collx://profiles/4873004
 2 cards [NEW now] Zach Sanders |collx://profiles/4111313
 96 cards [BACK +48 now] Mary Thompson |collx://profiles/5043411
@@ -285,7 +292,6 @@
 5 cards [NEW now] Tristin Singer |collx://profiles/4308176
 1 cards [NEW now] Brandon |collx://profiles/5072149
 1 cards [NEW now] White Crayon |collx://profiles/4343192
-18 cards [NEW now] Alysha |collx://profiles/5071808
 3 cards [NEW now] Sirr Chiefs |collx://profiles/5065410
 1 cards [NEW now] Steve Murphy |collx://profiles/5071863
 1 cards [NEW now] Delmar Benson |collx://profiles/5061946
