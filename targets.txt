@@ -1,12 +1,12 @@
+313 cards [NEW now] Breon Hayes |collx://profiles/5052554
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 259 cards [BACK +121 now] Natalie Jayroe |collx://profiles/5066841
 3 cards [G NEW now] Jake Mcdonald |collx://profiles/5077974
 6 cards [NEW now] Jose Beltran |collx://profiles/4528117
 1 cards [NEW now] Matthew Dew |collx://profiles/5077959
 3 cards [NEW NOADDR now] Jasper Bolibol |collx://profiles/5077981
 3 cards [NEW NOADDR now] Jacob Woods |collx://profiles/4983356
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 1 cards [G NEW now] Kyle “TD” Harper |collx://profiles/5077885
-10 cards [NEW NOADDR now] Hunter Jordan |collx://profiles/5076719
 1 cards [NEW now] Chris Walcott |collx://profiles/5061246
 1 cards [NEW NOADDR now] Seaira |collx://profiles/5073228
 1 cards [NEW NOADDR now] Walker Parson |collx://profiles/4781673
@@ -36,10 +36,8 @@
 78 cards [BACK +17 now] Kayla |collx://profiles/5066336
 181 cards [BACK +17 now] Mike Cahill |collx://profiles/5052987
 48 cards [NEW now] Mary Thompson |collx://profiles/5043411
-47 cards [NEW now] Tristan Torres |collx://profiles/5074477
 15 cards [NEW now] Kristian Gonzalez |collx://profiles/4937609
 10 cards [NEW now] Brandon |collx://profiles/5077543
-10 cards [NEW now] Vince Chiang |collx://profiles/5077633
 9 cards [NEW now] Bill Benton |collx://profiles/5044898
 8 cards [NEW now] Franky |collx://profiles/5071471
 1 cards [G NEW now] Zach White |collx://profiles/4506704
@@ -203,7 +201,6 @@
 1 cards [NEW now] Dillon Garnett |collx://profiles/5071628
 8 cards [NEW now] Kimberly Perry |collx://profiles/5061249
 3 cards [NEW now] Ben Young |collx://profiles/5069005
-1 cards [NEW now] Dionte Bell-Moore |collx://profiles/5074656
 1 cards [NEW now] Ronalou Baylon |collx://profiles/5061793
 1 cards [NEW now] BO's CARD CORNER |collx://profiles/4601220
 2 cards [NEW now] Caden Robinson |collx://profiles/5074547
