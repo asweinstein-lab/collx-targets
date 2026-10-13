@@ -1,7 +1,31 @@
+304 cards [BACK +131 now] Douglas Jones |collx://profiles/5044882
+226 cards [BACK +115 now] Raymond Farrell |collx://profiles/5078914
+62 cards [BACK +30 now] Barry Stahlman |collx://profiles/4957284
+147 cards [BACK +23 now] Brad Swartz |collx://profiles/4560495
+130 cards [BACK +15 now] Brayan Zuniga |collx://profiles/5057262
+36 cards [NEW now] Edwin |collx://profiles/5079239
+20 cards [NEW NOADDR now] Greyson Preece |collx://profiles/5079204
+3 cards [+1 now] Elvin Reyes III |collx://profiles/4999983
+13 cards [NEW now] KardWarrior |collx://profiles/5018125
+2 cards [G NEW 5h] Luke Varner |collx://profiles/5069219
+1 cards [G NEW now] Mike Kinney |collx://profiles/5063834
+1 cards [G NEW now] Naqeebullah Tukhi |collx://profiles/5076430
+5 cards [NEW now] Ashton Bennett |collx://profiles/5079206
+4 cards [NEW now] Charlie Reardon |collx://profiles/4096148
+4 cards [NEW now] Andrew Zobel |collx://profiles/5066925
+4 cards [NEW now] Peyton Jones |collx://profiles/4711498
+2 cards [NEW now] Lane Sogma |collx://profiles/5079296
+2 cards [NEW now] Gary Lawyer |collx://profiles/5078759
+1 cards [NEW now] Hunter Zang |collx://profiles/5073245
+1 cards [NEW now] PhloGaming |collx://profiles/5078634
+1 cards [NEW now] Matthew  B Sweetman |collx://profiles/5079178
+1 cards [NEW now] Daniel Costello |collx://profiles/5079107
+1 cards [NEW now] Robert A. Bruetsch |collx://profiles/4913963
+1 cards [NEW now] Eli Dunagan |collx://profiles/5073196
+2 cards [NEW NOADDR now] Dylan |collx://profiles/5079329
+2 cards [NEW 7d] Jay |collx://profiles/4688745
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 90 cards [BACK G +87 now] Nicholas Parmer |collx://profiles/4643868
-173 cards [BACK +57 now] Douglas Jones |collx://profiles/5044882
-124 cards [BACK +19 now] Brad Swartz |collx://profiles/4560495
-111 cards [NEW now] Raymond Farrell |collx://profiles/5078914
 8 cards [G NEW now] John Foley |collx://profiles/5077206
 5 cards [NEW now] Alexander Taylor |collx://profiles/5055402
 2 cards [G NEW NOADDR now] Kory Brandel |collx://profiles/5079086
@@ -9,7 +33,6 @@
 5 cards [NEW NOADDR now] Karl Verschuren |collx://profiles/5046549
 1 cards [NEW now] Thomas Stamatelos |collx://profiles/4915821
 1 cards [NEW NOADDR now] Thomas Fisher |collx://profiles/5079144
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 99 cards [BACK +22 now] Corbin Thompson |collx://profiles/4040739
 60 cards [BACK +21 9h] Brady Clark |collx://profiles/5074471
 32 cards [NEW NOADDR now] Jon Watson |collx://profiles/4974771
@@ -32,8 +55,6 @@
 1 cards [NEW now] Kyle Hannan |collx://profiles/5078687
 1 cards [NEW now] David Combs |collx://profiles/5078656
 1 cards [NEW now] Jacob Rogers |collx://profiles/5069355
-1 cards [NEW now] Brett Ehrlich |collx://profiles/4542777
-114 cards [BACK +25 now] Brayan Zuniga |collx://profiles/5057262
 155 cards [BACK +42 now] Liz Torres |collx://profiles/5002861
 143 cards [BACK G +21 now] Bill Wetzelberger |collx://profiles/5057015
 21 cards [BACK +20 now] Jordan Weaver |collx://profiles/5061976
@@ -57,7 +78,6 @@
 1 cards [NEW now] Josh Henline |collx://profiles/5077785
 1 cards [NEW now] Steven De La Rosa |collx://profiles/5070507
 1 cards [NEW now] Reid Bolden |collx://profiles/4186729
-21 cards [BACK +18 now] Barry Stahlman |collx://profiles/4957284
 51 cards [NEW now] Brenden Shea |collx://profiles/4789693
 1 cards [G NEW now] Craig M |collx://profiles/5009447
 1 cards [NEW now] olivia olsen |collx://profiles/5078317
@@ -82,7 +102,6 @@
 2 cards [NEW now] Zach Sanders |collx://profiles/4111313
 96 cards [BACK +48 now] Mary Thompson |collx://profiles/5043411
 413 cards [BACK +154 now] Natalie Jayroe |collx://profiles/5066841
-33 cards [G NEW now] Brandon Graham |collx://profiles/4857371
 1 cards [NEW now] Peter Gasper |collx://profiles/5078077
 1 cards [NEW now] s monaco |collx://profiles/5078045
 1 cards [NEW now] Rock |collx://profiles/4881051
@@ -172,12 +191,10 @@
 50 cards [BACK +17 now] Marcelo Luc |collx://profiles/4644041
 83 cards [NEW now] Cesar Silva |collx://profiles/4860024
 16 cards [NEW now] Kila Thomas |collx://profiles/5076364
-5 cards [+4 now] Gavin Flurie |collx://profiles/4168567
 3 cards [G NEW now] Joseph Bilshausen |collx://profiles/4916904
 2 cards [NEW now] Aaron Thompson |collx://profiles/5074912
 2 cards [NEW now] jose soliz |collx://profiles/5050068
 2 cards [NEW now] Eric Weitzel |collx://profiles/5068942
-1 cards [NEW now] David Lederman IV |collx://profiles/5055478
 1 cards [NEW now] Max Whitworth |collx://profiles/4927652
 1 cards [NEW now] Lazarus Shea |collx://profiles/5044267
 2 cards [NEW 2d] K.j. Bickham |collx://profiles/4939122
