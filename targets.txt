@@ -1,9 +1,20 @@
+96 cards [BACK +48 now] Mary Thompson |collx://profiles/5043411
+413 cards [BACK +154 now] Natalie Jayroe |collx://profiles/5066841
+33 cards [G NEW now] Brandon Graham |collx://profiles/4857371
+4 cards [G NEW now] Duke |collx://profiles/5078061
+3 cards [NEW now] Kayden Spencer |collx://profiles/5078040
+1 cards [NEW now] Peter Gasper |collx://profiles/5078077
+1 cards [NEW now] s monaco |collx://profiles/5078045
+1 cards [NEW now] Jace Burdett |collx://profiles/5076235
+1 cards [NEW now] Hayden Taylor |collx://profiles/5060936
+1 cards [NEW now] Rock |collx://profiles/4881051
+1 cards [NEW now] Brad Swartz |collx://profiles/4560495
+1 cards [NEW now] TPosRips |collx://profiles/4332069
 0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 11 cards [NEW now] KYCardCollective |collx://profiles/5074357
 1 cards [NEW now] Alex Forero |collx://profiles/5070258
 2 cards [G NEW 23d] Bently Hunter |collx://profiles/4864052
 313 cards [NEW now] Breon Hayes |collx://profiles/5052554
-259 cards [BACK +121 now] Natalie Jayroe |collx://profiles/5066841
 3 cards [G NEW now] Jake Mcdonald |collx://profiles/5077974
 6 cards [NEW now] Jose Beltran |collx://profiles/4528117
 1 cards [NEW now] Matthew Dew |collx://profiles/5077959
@@ -25,7 +36,6 @@
 76 cards [BACK +29 now] Ayden Flores |collx://profiles/4956526
 17 cards [BACK G +16 now] Julio Navarro |collx://profiles/4911813
 287 cards [NEW now] Louis Caridad |collx://profiles/5074556
-31 cards [NEW now] Jake Michael |collx://profiles/5074935
 1 cards [G NEW now] Ryker Alan Harvey |collx://profiles/4965019
 5 cards [NEW now] Carlos Hernandez |collx://profiles/5048984
 1 cards [NEW now] Granett Deromedi |collx://profiles/5077527
@@ -36,7 +46,6 @@
 55 cards [BACK +44 now] A.J. Hecker |collx://profiles/5059047
 78 cards [BACK +17 now] Kayla |collx://profiles/5066336
 181 cards [BACK +17 now] Mike Cahill |collx://profiles/5052987
-48 cards [NEW now] Mary Thompson |collx://profiles/5043411
 15 cards [NEW now] Kristian Gonzalez |collx://profiles/4937609
 10 cards [NEW now] Brandon |collx://profiles/5077543
 9 cards [NEW now] Bill Benton |collx://profiles/5044898
@@ -89,7 +98,6 @@
 2 cards [NEW 2d] Tim G |collx://profiles/4987159
 1 cards [NEW 34h] Mark |collx://profiles/4997163
 432 cards [BACK +431 now] Quincy Garland |collx://profiles/5072648
-45 cards [BACK +16 now] J T |collx://profiles/5063351
 138 cards [BACK +18 now] Brynlee Grayson |collx://profiles/5073636
 2 cards [G NEW now] Michael Bowden |collx://profiles/4542522
 9 cards [NEW now] Gabriella Bendana |collx://profiles/4719272
