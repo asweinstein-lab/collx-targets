@@ -1,3 +1,4 @@
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 74 cards [BACK +41 now] Gray McCutchen |collx://profiles/4917717
 36 cards [BACK +21 now] Jason Mejia |collx://profiles/4716360
 25 cards [BACK +21 2d] Micah Hamiter |collx://profiles/5020537
@@ -13,7 +14,6 @@
 1 cards [NEW now] Javier M Arce |collx://profiles/5073543
 1 cards [NEW now] Oscar Narez |collx://profiles/5076681
 1 cards [NEW now] James |collx://profiles/5040686
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 117 cards [BACK +101 now] Mike Cahill |collx://profiles/5052987
 102 cards [BACK +17 now] Joesef |collx://profiles/4173281
 56 cards [BACK +23 now] Jensen Reisbeck |collx://profiles/4802388
