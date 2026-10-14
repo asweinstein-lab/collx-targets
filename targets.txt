@@ -1,10 +1,27 @@
-80 cards [BACK +32 now] Hollie |collx://profiles/5043178
+118 cards [BACK +38 now] Hollie |collx://profiles/5043178
+39 cards [BACK +31 now] Cormac Johnson |collx://profiles/5062782
+83 cards [NEW now] Nathan Finamore |collx://profiles/5016163
+8 cards [+6 now] Timothy Chambers |collx://profiles/5024846
+18 cards [NEW now] Dexter Benson |collx://profiles/5065045
+35 cards [NEW 21h] Jared Faubert |collx://profiles/4970049
+46 cards [NEW 44h] Jazz Boatwright-Porter |collx://profiles/5057790
+14 cards [NEW now] Brian Moriarty |collx://profiles/5080691
+14 cards [NEW now] Kathy |collx://profiles/5070702
+9 cards [NEW now] Christopher Moore |collx://profiles/5066555
+8 cards [NEW now] Logan Raley |collx://profiles/5062367
+7 cards [NEW now] Paige Brown |collx://profiles/4912060
+3 cards [NEW now] BTG Sports Cards |collx://profiles/4891233
+2 cards [NEW now] Joe Buttow |collx://profiles/5076808
+1 cards [NEW now] Tyler |collx://profiles/5081434
+1 cards [NEW now] Kelly Stroud |collx://profiles/5058307
+1 cards [NEW now] Kelsey Sartain |collx://profiles/4969251
+1 cards [NEW now] Eithan |collx://profiles/4493518
+2 cards [NEW 16d] Logan Kane |collx://profiles/4991207
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 127 cards [BACK +25 now] Kathleen Strobel |collx://profiles/4983794
 35 cards [NEW now] Max Auinlan |collx://profiles/5075165
 12 cards [NEW now] Carlos Polanco |collx://profiles/5081323
-12 cards [NEW NOADDR now] Nathan Bear |collx://profiles/5081513
 5 cards [NEW now] Christopher Binckley |collx://profiles/5058158
-5 cards [NEW now] Kandace |collx://profiles/5081467
 4 cards [NEW now] KellyJo Russell |collx://profiles/5081428
 190 cards [NEW 19d] Chris McAtamney (ChrisMack007) |collx://profiles/5013187
 1 cards [NEW now] Jared Kirstein |collx://profiles/5077184
@@ -17,7 +34,6 @@
 1 cards [NEW NOADDR now] Adan Perez |collx://profiles/5060294
 2 cards [NEW 2d] Matt Gronzo |collx://profiles/5037033
 1 cards [NEW 21d] Logan Morris |collx://profiles/4990139
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 80 cards [BACK +78 now] Luke Mooneyham |collx://profiles/4887466
 57 cards [NEW now] Ahmad Duplessis |collx://profiles/5000803
 35 cards [NEW now] Harrison Chan |collx://profiles/5081274
@@ -87,7 +103,6 @@
 17 cards [NEW 124d] LCOA “Dustin” Lewis county outdoor adventures |collx://profiles/4386192
 1 cards [NEW now] Rodolfo Vasquez |collx://profiles/5068476
 1 cards [NEW now] Nickie Jackson |collx://profiles/4111165
-79 cards [BACK +15 now] Marcelo Luc |collx://profiles/4644041
 1 cards [NEW now] Donald Shainin |collx://profiles/5080560
 308 cards [BACK +128 now] Benny Yinzer |collx://profiles/5044709
 71 cards [NEW now] Jason Connor |collx://profiles/5028007
@@ -189,7 +204,6 @@
 1 cards [G NEW now] Kim Staxx |collx://profiles/4534376
 4 cards [NEW now] PJ LaBonte |collx://profiles/5075222
 3 cards [NEW now] Gaige |collx://profiles/5032080
-8 cards [NEW now] Cormac Johnson |collx://profiles/5062782
 3 cards [NEW now] Evan Riley |collx://profiles/5051331
 96 cards [BACK +48 now] Mary Thompson |collx://profiles/5043411
 1 cards [NEW now] Peter Gasper |collx://profiles/5078077
@@ -407,7 +421,6 @@
 2 cards [NEW NOADDR now] jesus jimenez |collx://profiles/5061694
 8 cards [NEW now] Jayk McCampbell |collx://profiles/5063375
 7 cards [NEW now] Tristan Brown |collx://profiles/4303600
-5 cards [NEW now] Coltyn Wade Smith |collx://profiles/5068784
 2 cards [NEW now] Kenneth Clyde Willard III |collx://profiles/5071178
 2 cards [NEW now] John Shafer |collx://profiles/5068689
 1 cards [NEW now] David Resnick |collx://profiles/4958101
@@ -480,7 +493,6 @@
 4 cards [NEW 5h] Chris Good |collx://profiles/5069339
 13 cards [NEW 17h] Robert Leonard |collx://profiles/5065816
 3 cards [NEW now] Anthoni Castro |collx://profiles/4866715
-3 cards [NEW 7h] Isaac Hickman |collx://profiles/5067626
 3 cards [NEW 9h] Victor Robles |collx://profiles/5068383
 3 cards [NEW 12h] Andrew Siar |collx://profiles/5069104
 3 cards [NEW now] Felicia Decker |collx://profiles/4857552
