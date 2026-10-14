@@ -1,3 +1,10 @@
+10 cards [NEW now] Janno |collx://profiles/4694810
+9 cards [NEW now] Skylar Smith |collx://profiles/5077673
+1 cards [G NEW now] Christopher Liverett |collx://profiles/5080640
+4 cards [NEW now] grant pope |collx://profiles/5080456
+1 cards [NEW now] Brian Summers |collx://profiles/5080583
+1 cards [NEW now] Reinaldo Moret |collx://profiles/5079018
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 3 cards [G NEW now] Cody Jarosik |collx://profiles/5080593
 3 cards [G NEW now] James Copelan |collx://profiles/5080600
 4 cards [NEW now] Billy Cranford |collx://profiles/5080603
@@ -8,7 +15,6 @@
 1 cards [NEW now] Rodolfo Vasquez |collx://profiles/5068476
 1 cards [NEW now] DC Reserve |collx://profiles/4375239
 1 cards [NEW now] Nickie Jackson |collx://profiles/4111165
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 180 cards [BACK G +17 now] Bill Wetzelberger |collx://profiles/5057015
 79 cards [BACK +15 now] Marcelo Luc |collx://profiles/4644041
 4 cards [G NEW now] Nicolas Cornell |collx://profiles/5002506
