@@ -1,17 +1,25 @@
+200 cards [BACK G +20 now] Bill Wetzelberger |collx://profiles/5057015
+69 cards [NEW now] GrimisGlob |collx://profiles/5081015
+32 cards [NEW now] Kylee Najanick |collx://profiles/4241023
+24 cards [NEW now] Hollie |collx://profiles/5043178
+3 cards [G NEW now] Ezzy Money |collx://profiles/5080764
+5 cards [NEW now] Aden Reid |collx://profiles/5081080
+4 cards [NEW now] Sebastian Herrera |collx://profiles/5080839
+4 cards [NEW NOADDR now] Domenic Kovatsi |collx://profiles/5035055
+1 cards [NEW now] Logan Kirch |collx://profiles/5080322
+1 cards [NEW now] Hunter Pope |collx://profiles/5076574
+2 cards [NEW 2d] Chris Ross |collx://profiles/5075200
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 347 cards [BACK +258 now] "Dickie" |collx://profiles/5072417
-16 cards [NEW now] Gavin Baxter |collx://profiles/5067744
 11 cards [NEW now] Ronald Roberts |collx://profiles/5004262
 1 cards [G NEW now] Justin Freedman |collx://profiles/5080089
 1 cards [G NEW now] Josh Rodriguez |collx://profiles/5078048
-1 cards [G NEW now] Johnny Hamby |collx://profiles/5011981
 2 cards [NEW now] Waylon |collx://profiles/4800509
 1 cards [NEW now] Peter Becerra |collx://profiles/5080349
 1 cards [NEW now] John Reynolds |collx://profiles/5064168
-2 cards [NEW NOADDR now] Don Didandeh |collx://profiles/5027115
 1 cards [NEW NOADDR now] Corry Judd |collx://profiles/5064194
 1 cards [NEW NOADDR now] Stephen Madonia |collx://profiles/4899867
 1 cards [NEW 24h] Tou Lor |collx://profiles/5034792
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 1 cards [G NEW now] Travis Skeens |collx://profiles/5066331
 3 cards [NEW now] Quran Carroll |collx://profiles/5080921
 4 cards [G NEW NOADDR 13h] Jim Trosper |collx://profiles/5053382
@@ -41,13 +49,10 @@
 1 cards [G NEW now] Christopher Liverett |collx://profiles/5080640
 1 cards [NEW now] Brian Summers |collx://profiles/5080583
 1 cards [NEW now] Reinaldo Moret |collx://profiles/5079018
-3 cards [G NEW now] Cody Jarosik |collx://profiles/5080593
 3 cards [G NEW now] James Copelan |collx://profiles/5080600
-3 cards [NEW now] Corey Newman |collx://profiles/5080626
 17 cards [NEW 124d] LCOA “Dustin” Lewis county outdoor adventures |collx://profiles/4386192
 1 cards [NEW now] Rodolfo Vasquez |collx://profiles/5068476
 1 cards [NEW now] Nickie Jackson |collx://profiles/4111165
-180 cards [BACK G +17 now] Bill Wetzelberger |collx://profiles/5057015
 79 cards [BACK +15 now] Marcelo Luc |collx://profiles/4644041
 1 cards [NEW now] Donald Shainin |collx://profiles/5080560
 308 cards [BACK +128 now] Benny Yinzer |collx://profiles/5044709
@@ -129,7 +134,6 @@
 17 cards [NEW now] AndrewHeather Gilmore |collx://profiles/5078431
 3 cards [G NEW now] Hayden Black |collx://profiles/5078731
 9 cards [NEW now] Miguel R |collx://profiles/4906800
-1 cards [NEW now] Kyle Hannan |collx://profiles/5078687
 1 cards [NEW now] David Combs |collx://profiles/5078656
 1 cards [NEW now] Jacob Rogers |collx://profiles/5069355
 155 cards [BACK +42 now] Liz Torres |collx://profiles/5002861
@@ -193,7 +197,6 @@
 29 cards [NEW now] Andrew Amarosa |collx://profiles/4998496
 4 cards [G NEW now] Cohen Study |collx://profiles/4820635
 3 cards [G NEW now] Paul Wentworth Jr |collx://profiles/4787806
-10 cards [NEW now] Pixie Girl |collx://profiles/5077367
 2 cards [G NEW now] Kyle |collx://profiles/4787493
 1 cards [G NEW now] Ryan Weaver |collx://profiles/4748492
 8 cards [NEW NOADDR now] Dasani Wilkerson |collx://profiles/5054624
@@ -370,7 +373,6 @@
 1 cards [NEW now] Kody Boyd |collx://profiles/5071789
 1 cards [NEW now] Cleo Gilbert |collx://profiles/5044501
 40 cards [NEW now] Gabe Johnson |collx://profiles/5065620
-6 cards [NEW now] Jim Salge |collx://profiles/5034846
 2 cards [NEW now] Joseph Garcia meza |collx://profiles/4854975
 1 cards [NEW now] John Salazar |collx://profiles/5061171
 1 cards [NEW now] Joey Rowan |collx://profiles/5043365
