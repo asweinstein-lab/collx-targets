@@ -1,10 +1,20 @@
+15 cards [NEW now] Bailey Peters |collx://profiles/5080856
+16 cards [NEW NOADDR now] Jacob Loffreda |collx://profiles/5078154
+10 cards [NEW now] Justin Hill |collx://profiles/5080009
+145 cards [NEW 11d] Ryan Jackson |collx://profiles/5025037
+2 cards [NEW now] Frank |collx://profiles/4952315
+2 cards [NEW now] Chloe Ann Cassel |collx://profiles/5079152
+2 cards [NEW now] Xzavier Broche |collx://profiles/4896194
+2 cards [NEW now] Lathan Grisham |collx://profiles/5078523
+1 cards [NEW now] Justin Liverman |collx://profiles/5080811
+1 cards [NEW now] Henry Enamorado |collx://profiles/5080808
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 20 cards [NEW 12h] Marty Willis |collx://profiles/5005937
 8 cards [NEW now] Megan |collx://profiles/5074062
 8 cards [NEW now] Scott Peek |collx://profiles/4753691
 1 cards [G NEW now] Jack Frischman |collx://profiles/5079317
 4 cards [NEW now] Brayden Mossman |collx://profiles/5026409
 1 cards [NEW now] Brian Carey |collx://profiles/5080751
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 17 cards [NEW now] Hunter |collx://profiles/5065866
 2 cards [+1 now] Alexander Lee |collx://profiles/4884152
 2 cards [G NEW now] Owen Sadler |collx://profiles/4929137
@@ -93,7 +103,6 @@
 1 cards [G NEW now] Mike Kinney |collx://profiles/5063834
 1 cards [G NEW now] Naqeebullah Tukhi |collx://profiles/5076430
 4 cards [NEW now] Charlie Reardon |collx://profiles/4096148
-4 cards [NEW now] Andrew Zobel |collx://profiles/5066925
 1 cards [NEW now] Hunter Zang |collx://profiles/5073245
 1 cards [NEW now] Robert A. Bruetsch |collx://profiles/4913963
 90 cards [BACK G +87 now] Nicholas Parmer |collx://profiles/4643868
@@ -145,12 +154,9 @@
 1 cards [G NEW now] Kim Staxx |collx://profiles/4534376
 4 cards [NEW now] PJ LaBonte |collx://profiles/5075222
 3 cards [NEW now] Gaige |collx://profiles/5032080
-27 cards [BACK G +22 now] Tom |collx://profiles/4842270
 8 cards [NEW now] Cormac Johnson |collx://profiles/5062782
 3 cards [NEW now] Evan Riley |collx://profiles/5051331
-2 cards [NEW now] Zach Sanders |collx://profiles/4111313
 96 cards [BACK +48 now] Mary Thompson |collx://profiles/5043411
-413 cards [BACK +154 now] Natalie Jayroe |collx://profiles/5066841
 1 cards [NEW now] Peter Gasper |collx://profiles/5078077
 1 cards [NEW now] Rock |collx://profiles/4881051
 1 cards [NEW now] TPosRips |collx://profiles/4332069
