@@ -1,3 +1,5 @@
+2 cards [NEW 119d] Chris Donnelly |collx://profiles/4041506
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 50 cards [NEW now] Raymond Love |collx://profiles/5080741
 17 cards [NEW now] Hunter |collx://profiles/5065866
 2 cards [+1 now] Alexander Lee |collx://profiles/4884152
@@ -6,7 +8,6 @@
 2 cards [NEW now] Brian Paredes |collx://profiles/5080744
 1 cards [NEW now] Ironmiron23- |collx://profiles/4994409
 1 cards [NEW NOADDR now] Jerome Arandia |collx://profiles/5030935
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 76 cards [BACK +23 now] julie jenkins |collx://profiles/5073594
 1 cards [NEW now] Arturo Maldonado |collx://profiles/5080710
 2 cards [NEW NOADDR now] Brian Wallenrod |collx://profiles/5042735
@@ -83,7 +84,6 @@
 1 cards [NEW now] Alex Haithcock |collx://profiles/5079413
 1 cards [NEW now] Charlie Watts |collx://profiles/5079441
 1 cards [NEW 2d] Coleman Ramey |collx://profiles/4840375
-1 cards [NEW 2d] Samuel Whitt |collx://profiles/3959944
 304 cards [BACK +131 now] Douglas Jones |collx://profiles/5044882
 130 cards [BACK +15 now] Brayan Zuniga |collx://profiles/5057262
 3 cards [+1 now] Elvin Reyes III |collx://profiles/4999983
