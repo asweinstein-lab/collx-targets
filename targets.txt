@@ -1,10 +1,10 @@
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 10 cards [NEW now] Janno |collx://profiles/4694810
 9 cards [NEW now] Skylar Smith |collx://profiles/5077673
 1 cards [G NEW now] Christopher Liverett |collx://profiles/5080640
 4 cards [NEW now] grant pope |collx://profiles/5080456
 1 cards [NEW now] Brian Summers |collx://profiles/5080583
 1 cards [NEW now] Reinaldo Moret |collx://profiles/5079018
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 3 cards [G NEW now] Cody Jarosik |collx://profiles/5080593
 3 cards [G NEW now] James Copelan |collx://profiles/5080600
 4 cards [NEW now] Billy Cranford |collx://profiles/5080603
@@ -37,12 +37,10 @@
 443 cards [BACK +442 now] Sugarfree Collectibles |collx://profiles/4069936
 35 cards [NEW now] Cole Harper |collx://profiles/5041613
 16 cards [NEW now] Maceo Lewis |collx://profiles/4886800
-6 cards [NEW now] Therese Perri |collx://profiles/4631809
 1 cards [G NEW now] Adrian Flores |collx://profiles/5075215
 1 cards [NEW now] Jennifer De Alba |collx://profiles/5080358
 1 cards [NEW now] Dan Ferry |collx://profiles/5076671
 1 cards [NEW NOADDR now] Christopher Back |collx://profiles/5080376
-70 cards [BACK +63 now] Christopher Grady |collx://profiles/5045260
 35 cards [BACK +32 now] Conny Brindley |collx://profiles/5070025
 19 cards [NEW now] Bryan Buckner |collx://profiles/4371982
 2 cards [+1 now] Cheyanne McPherson |collx://profiles/5004583
