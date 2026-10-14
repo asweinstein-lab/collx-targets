@@ -1,9 +1,9 @@
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 76 cards [BACK +23 now] julie jenkins |collx://profiles/5073594
 1 cards [NEW now] Arturo Maldonado |collx://profiles/5080710
 1 cards [NEW now] Terry Aguilar |collx://profiles/4472768
 2 cards [NEW NOADDR now] Brian Wallenrod |collx://profiles/5042735
 1 cards [NEW NOADDR now] CallMeZ3US |collx://profiles/5063168
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 10 cards [NEW now] Janno |collx://profiles/4694810
 1 cards [G NEW now] Christopher Liverett |collx://profiles/5080640
 4 cards [NEW now] grant pope |collx://profiles/5080456
@@ -73,7 +73,6 @@
 1 cards [NEW now] Denilson Moreno |collx://profiles/4879237
 1 cards [NEW NOADDR now] Josh Schneider |collx://profiles/5075221
 1 cards [NEW NOADDR now] Alice Windsor |collx://profiles/5079066
-162 cards [BACK +15 now] Brad Swartz |collx://profiles/4560495
 51 cards [+49 now] Tiffany Hunt |collx://profiles/5025631
 1 cards [G NEW now] Erik Gonzalez |collx://profiles/5077339
 1 cards [G NEW now] Eric Bowen |collx://profiles/5074938
