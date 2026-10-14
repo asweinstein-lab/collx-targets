@@ -1,15 +1,28 @@
+20 cards [NEW now] Marianne Flanagan |collx://profiles/5003984
+13 cards [NEW now] MIKE |collx://profiles/4961237
+9 cards [NEW now] Kathleen Strobel |collx://profiles/4983794
+5 cards [NEW now] Sydney Gunter |collx://profiles/5080884
+4 cards [NEW now] Christina Bybee |collx://profiles/5081171
+3 cards [NEW now] Michael Shoemaker Sr |collx://profiles/5067432
+2 cards [NEW now] Tyler Disch |collx://profiles/4211876
+2 cards [NEW now] Jonathan Jones |collx://profiles/4951305
+1 cards [NEW now] Joshua Dunegan |collx://profiles/5081230
+1 cards [NEW now] Koolaid Kk |collx://profiles/5072123
+1 cards [NEW now] jack Sissen |collx://profiles/5022159
+1 cards [NEW now] Will P |collx://profiles/4841816
+1 cards [NEW now] Michael Wells |collx://profiles/4559529
+12 cards [NEW 135d] Joseph D'Elia |collx://profiles/4145557
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 200 cards [BACK G +20 now] Bill Wetzelberger |collx://profiles/5057015
 69 cards [NEW now] GrimisGlob |collx://profiles/5081015
 32 cards [NEW now] Kylee Najanick |collx://profiles/4241023
 24 cards [NEW now] Hollie |collx://profiles/5043178
 3 cards [G NEW now] Ezzy Money |collx://profiles/5080764
-5 cards [NEW now] Aden Reid |collx://profiles/5081080
 4 cards [NEW now] Sebastian Herrera |collx://profiles/5080839
 4 cards [NEW NOADDR now] Domenic Kovatsi |collx://profiles/5035055
 1 cards [NEW now] Logan Kirch |collx://profiles/5080322
 1 cards [NEW now] Hunter Pope |collx://profiles/5076574
 2 cards [NEW 2d] Chris Ross |collx://profiles/5075200
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 347 cards [BACK +258 now] "Dickie" |collx://profiles/5072417
 11 cards [NEW now] Ronald Roberts |collx://profiles/5004262
 1 cards [G NEW now] Justin Freedman |collx://profiles/5080089
@@ -60,7 +73,6 @@
 3 cards [+2 now] Demetric Helton |collx://profiles/4547954
 11 cards [NEW now] CuléCollector |collx://profiles/4270893
 1 cards [G NEW now] Abel But |collx://profiles/5080345
-5 cards [NEW now] Vincent Florio |collx://profiles/5080413
 2 cards [NEW now] Kevin Conklin |collx://profiles/5080434
 2 cards [NEW now] Aaron Rife |collx://profiles/4232399
 2 cards [NEW now] Sebastian StCyr |collx://profiles/5072805
