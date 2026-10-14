@@ -1,16 +1,24 @@
-78 cards [BACK +50 now] Benny Yinzer |collx://profiles/5044709
+443 cards [BACK +442 now] Sugarfree Collectibles |collx://profiles/4069936
+180 cards [BACK +102 now] Benny Yinzer |collx://profiles/5044709
+49 cards [NEW now] Chance Hewett |collx://profiles/5080125
+35 cards [NEW now] Cole Harper |collx://profiles/5041613
+16 cards [NEW now] Maceo Lewis |collx://profiles/4886800
+3 cards [+1 now] Seth Harris |collx://profiles/4970629
+3 cards [G NEW now] Tss outplayz |collx://profiles/5080313
+6 cards [NEW now] Therese Perri |collx://profiles/4631809
+1 cards [G NEW now] Adrian Flores |collx://profiles/5075215
+1 cards [G NEW now] Dont Bemad |collx://profiles/5080354
+1 cards [NEW now] Jennifer De Alba |collx://profiles/5080358
+1 cards [NEW now] Dan Ferry |collx://profiles/5076671
+1 cards [NEW NOADDR now] Christopher Back |collx://profiles/5080376
+1 cards [NEW NOADDR now] Daniel Cruz |collx://profiles/5063241
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 70 cards [BACK +63 now] Christopher Grady |collx://profiles/5045260
 35 cards [BACK +32 now] Conny Brindley |collx://profiles/5070025
-78 cards [NEW now] Cody Paul |collx://profiles/5067240
 19 cards [NEW now] Bryan Buckner |collx://profiles/4371982
-17 cards [NEW now] Alex Alcantar |collx://profiles/5079415
 2 cards [+1 now] Cheyanne McPherson |collx://profiles/5004583
-2 cards [+1 now] ClemCards |collx://profiles/4550119
 4 cards [NEW now] Twisted888 |collx://profiles/5020935
-2 cards [G NEW NOADDR now] Daniel Pimentel |collx://profiles/5075179
 3 cards [NEW now] nick herrington |collx://profiles/5032181
-3 cards [NEW now] Harrison |collx://profiles/4706168
-6 cards [NEW NOADDR now] Colby Haws |collx://profiles/5072324
 2 cards [NEW now] Rene Alvidrez |collx://profiles/5061710
 2 cards [NEW now] Makayla Ozburn |collx://profiles/4234488
 2 cards [NEW now] Chase Collins |collx://profiles/4938301
@@ -22,13 +30,10 @@
 1 cards [NEW now] Eirva Ch. Diamessis |collx://profiles/5080082
 1 cards [NEW now] Jonathan Faircloth |collx://profiles/4706042
 1 cards [NEW NOADDR now] Wesley Tunnell |collx://profiles/5078246
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 108 cards [BACK +30 now] Kayla |collx://profiles/5066336
 41 cards [NEW now] Jorge Alvarez |collx://profiles/5063553
-8 cards [NEW now] Bryce Hersom |collx://profiles/5076777
 7 cards [NEW now] Dylan Bishop |collx://profiles/5071072
 1 cards [G NEW now] jared jones |collx://profiles/5073305
-5 cards [NEW now] Sandra H (RELLA420) |collx://profiles/3944047
 3 cards [NEW now] Gary Beemer |collx://profiles/4725492
 1 cards [NEW now] eduardo pozuelos |collx://profiles/5079890
 1 cards [NEW now] Zak Stout |collx://profiles/5065001
@@ -72,7 +77,6 @@
 2 cards [G NEW NOADDR now] Kory Brandel |collx://profiles/5079086
 5 cards [NEW NOADDR now] Karl Verschuren |collx://profiles/5046549
 1 cards [NEW now] Thomas Stamatelos |collx://profiles/4915821
-99 cards [BACK +22 now] Corbin Thompson |collx://profiles/4040739
 32 cards [NEW NOADDR now] Jon Watson |collx://profiles/4974771
 2 cards [+1 now] Parker Rutter |collx://profiles/4903891
 2 cards [G NEW now] Thomas Reynolds |collx://profiles/5066881
@@ -110,7 +114,6 @@
 1 cards [G NEW now] Craig M |collx://profiles/5009447
 1 cards [NEW now] Alex Naglak |collx://profiles/5044675
 1 cards [NEW now] Jordan Perry |collx://profiles/4614162
-1 cards [NEW now] Sugsrfree Collectibles |collx://profiles/4069936
 1 cards [NEW now] Eric Jones |collx://profiles/4033350
 35 cards [BACK +26 now] Courtney Borror |collx://profiles/4932191
 19 cards [NEW now] Kaila Ward-Merritt |collx://profiles/4156143
@@ -183,7 +186,6 @@
 1 cards [NEW now] GianLuca Cataldo |collx://profiles/5076953
 1 cards [NEW now] Tyler Ward |collx://profiles/4403696
 1 cards [NEW now] Johnny Mann |collx://profiles/5034046
-1 cards [NEW NOADDR now] Robert Riley |collx://profiles/5076372
 3 cards [NEW 2d] Tony Whiteford |collx://profiles/5068947
 1 cards [NEW 34h] Mark |collx://profiles/4997163
 138 cards [BACK +18 now] Brynlee Grayson |collx://profiles/5073636
@@ -215,7 +217,6 @@
 2 cards [NEW 2d] K.j. Bickham |collx://profiles/4939122
 1 cards [NEW now] MOTIVATION NATION |collx://profiles/5076184
 1 cards [NEW now] Glenn George |collx://profiles/5076196
-1 cards [NEW now] Jeremy Brooks |collx://profiles/5075209
 1 cards [NEW now] Matthew Owens |collx://profiles/4698815
 1 cards [NEW now] DecayingZombie |collx://profiles/4582903
 100 cards [BACK +20 now] Ivory Hilton |collx://profiles/5062976
