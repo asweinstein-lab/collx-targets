@@ -1,9 +1,26 @@
-132 cards [BACK +93 now] Cormac Johnson |collx://profiles/5062782
-36 cards [BACK +34 now] Michael Brophy |collx://profiles/5050343
+110 cards [BACK +74 now] Michael Brophy |collx://profiles/5050343
+84 cards [BACK +60 now] FickleFinds |collx://profiles/4196930
+183 cards [BACK +51 now] Cormac Johnson |collx://profiles/5062782
+36 cards [BACK +25 now] Kelsey Sartain |collx://profiles/4969251
+23 cards [BACK +21 now] Elvin Reyes III |collx://profiles/4999983
+28 cards [NEW now] Trevor Rosensteel |collx://profiles/4542907
+17 cards [NEW now] James Lindsey |collx://profiles/5073640
+14 cards [NEW now] John Martin Jr |collx://profiles/4990477
+1 cards [G NEW now] Brent Ellerman |collx://profiles/5055332
+1 cards [G NEW now] Bryson Miller |collx://profiles/5082045
+1 cards [G NEW 4h] Blake Shawver |collx://profiles/4941632
+5 cards [NEW now] Justin Carter |collx://profiles/4933986
+3 cards [NEW now] Jonathan Martin |collx://profiles/5076126
+3 cards [NEW now] Xavier Swieczkowski |collx://profiles/4987497
+2 cards [NEW now] Adri's Biscuit Tin |collx://profiles/5081423
+1 cards [NEW now] Jordan Ferreira |collx://profiles/5081458
+1 cards [NEW now] Tessa Darley |collx://profiles/5051871
+1 cards [NEW now] Samuel Liu |collx://profiles/5080526
+1 cards [NEW now] LeMoyne Jackson |collx://profiles/5052553
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 77 cards [BACK +19 now] Two Guy’s 1 Hobby |collx://profiles/4900946
 22 cards [BACK +20 now] Adam Petty |collx://profiles/5015404
 136 cards [BACK +18 now] Hollie |collx://profiles/5043178
-19 cards [NEW now] Xavier Rego |collx://profiles/4981989
 12 cards [G NEW now] cesar collazo |collx://profiles/4387082
 6 cards [NEW now] Margaret Sterling |collx://profiles/5054387
 2 cards [NEW now] James Ziler |collx://profiles/5029805
@@ -17,7 +34,6 @@
 1 cards [NEW now] Joe Castro |collx://profiles/4941118
 2 cards [NEW NOADDR now] Chad Groonis |collx://profiles/5043299
 1 cards [NEW NOADDR now] Kenny Zhang |collx://profiles/4710086
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 83 cards [NEW now] Nathan Finamore |collx://profiles/5016163
 8 cards [+6 now] Timothy Chambers |collx://profiles/5024846
 18 cards [NEW now] Dexter Benson |collx://profiles/5065045
@@ -30,7 +46,6 @@
 2 cards [NEW now] Joe Buttow |collx://profiles/5076808
 1 cards [NEW now] Tyler |collx://profiles/5081434
 1 cards [NEW now] Kelly Stroud |collx://profiles/5058307
-1 cards [NEW now] Kelsey Sartain |collx://profiles/4969251
 1 cards [NEW now] Eithan |collx://profiles/4493518
 2 cards [NEW 16d] Logan Kane |collx://profiles/4991207
 127 cards [BACK +25 now] Kathleen Strobel |collx://profiles/4983794
@@ -61,8 +76,6 @@
 1 cards [NEW NOADDR now] Brian Houdek |collx://profiles/5073319
 1 cards [NEW NOADDR now] Maria Pevia |collx://profiles/5074879
 20 cards [NEW now] Marianne Flanagan |collx://profiles/5003984
-5 cards [NEW now] Sydney Gunter |collx://profiles/5080884
-4 cards [NEW now] Christina Bybee |collx://profiles/5081171
 3 cards [NEW now] Michael Shoemaker Sr |collx://profiles/5067432
 2 cards [NEW now] Tyler Disch |collx://profiles/4211876
 2 cards [NEW now] Jonathan Jones |collx://profiles/4951305
@@ -164,12 +177,10 @@
 1 cards [NEW 2d] Coleman Ramey |collx://profiles/4840375
 304 cards [BACK +131 now] Douglas Jones |collx://profiles/5044882
 130 cards [BACK +15 now] Brayan Zuniga |collx://profiles/5057262
-3 cards [+1 now] Elvin Reyes III |collx://profiles/4999983
 1 cards [G NEW now] Mike Kinney |collx://profiles/5063834
 1 cards [G NEW now] Naqeebullah Tukhi |collx://profiles/5076430
 4 cards [NEW now] Charlie Reardon |collx://profiles/4096148
 1 cards [NEW now] Hunter Zang |collx://profiles/5073245
-1 cards [NEW now] Robert A. Bruetsch |collx://profiles/4913963
 90 cards [BACK G +87 now] Nicholas Parmer |collx://profiles/4643868
 8 cards [G NEW now] John Foley |collx://profiles/5077206
 5 cards [NEW now] Alexander Taylor |collx://profiles/5055402
@@ -188,7 +199,6 @@
 17 cards [NEW now] AndrewHeather Gilmore |collx://profiles/5078431
 3 cards [G NEW now] Hayden Black |collx://profiles/5078731
 9 cards [NEW now] Miguel R |collx://profiles/4906800
-1 cards [NEW now] David Combs |collx://profiles/5078656
 1 cards [NEW now] Jacob Rogers |collx://profiles/5069355
 155 cards [BACK +42 now] Liz Torres |collx://profiles/5002861
 1 cards [G NEW NOADDR now] Erik St.Germain |collx://profiles/4437219
@@ -216,7 +226,6 @@
 3 cards [NEW now] Gaige |collx://profiles/5032080
 3 cards [NEW now] Evan Riley |collx://profiles/5051331
 96 cards [BACK +48 now] Mary Thompson |collx://profiles/5043411
-1 cards [NEW now] Peter Gasper |collx://profiles/5078077
 1 cards [NEW now] Rock |collx://profiles/4881051
 1 cards [NEW now] TPosRips |collx://profiles/4332069
 1 cards [NEW now] Alex Forero |collx://profiles/5070258
