@@ -1,10 +1,12 @@
 name,address_set,num_cards_for_sale,shipping,gradedForSale,share_page,deeplink,created_at,last_active_at
+Brian Paredes,true,2,Buyer,false,https://share.collx.app/Demboys83,collx://profiles/5080744,2026-10-14T07:04:09-04:00,2026-10-14T07:53:22-04:00
+Raymond Love,true,50,Buyer,false,https://share.collx.app/Telemundo22,collx://profiles/5080741,2026-10-14T06:50:27-04:00,2026-10-14T07:35:40-04:00
 Arturo Maldonado,true,1,Buyer,false,https://share.collx.app/user5080710,collx://profiles/5080710,2026-10-14T05:36:32-04:00,2026-10-14T06:39:27-04:00
 Christopher Liverett,true,1,Buyer,true,https://share.collx.app/user5080640,collx://profiles/5080640,2026-10-14T02:54:00-04:00,2026-10-14T03:06:28-04:00
 Corey Newman,true,3,Seller,false,https://share.collx.app/user5080626,collx://profiles/5080626,2026-10-14T02:35:15-04:00,2026-10-14T04:13:53-04:00
 Trent,true,2,Buyer,false,https://share.collx.app/tcollier,collx://profiles/5080616,2026-10-14T02:26:28-04:00,2026-10-14T02:49:33-04:00
 James Copelan,true,3,Buyer,true,https://share.collx.app/user5080600,collx://profiles/5080600,2026-10-14T02:07:22-04:00,2026-10-14T02:41:22-04:00
-Cody Jarosik,true,3,Seller,true,https://share.collx.app/user5080593,collx://profiles/5080593,2026-10-14T01:54:09-04:00,2026-10-14T03:54:55-04:00
+Cody Jarosik,true,3,Seller,true,https://share.collx.app/user5080593,collx://profiles/5080593,2026-10-14T01:54:09-04:00,2026-10-14T08:04:25-04:00
 Brian Summers,true,1,Buyer,false,https://share.collx.app/user5080583,collx://profiles/5080583,2026-10-14T01:37:50-04:00,2026-10-14T03:14:34-04:00
 Donald Shainin,true,1,Buyer,false,https://share.collx.app/user5080560,collx://profiles/5080560,2026-10-14T01:10:15-04:00,2026-10-14T01:16:24-04:00
 grant pope,true,4,Buyer,false,https://share.collx.app/user5080456,collx://profiles/5080456,2026-10-14T00:04:58-04:00,2026-10-14T03:10:56-04:00
@@ -13,8 +15,8 @@ Vincent Florio,true,6,Seller,false,https://share.collx.app/user5080413,collx://p
 Christopher Back,true,1,Buyer,false,https://share.collx.app/user5080376,collx://profiles/5080376,2026-10-13T23:25:57-04:00,2026-10-13T23:47:07-04:00
 Jennifer De Alba,true,1,Seller,false,https://share.collx.app/user5080358,collx://profiles/5080358,2026-10-13T23:21:44-04:00,2026-10-13T23:30:19-04:00
 Abel But,true,1,Seller,true,https://share.collx.app/user5080345,collx://profiles/5080345,2026-10-13T23:17:31-04:00,2026-10-14T00:58:00-04:00
-Eirva Ch. Diamessis,true,1,Seller,false,https://share.collx.app/user5080082,collx://profiles/5080082,2026-10-13T21:51:17-04:00,2026-10-13T22:03:16-04:00
-eduardo pozuelos,true,1,Buyer,false,https://share.collx.app/user5079890,collx://profiles/5079890,2026-10-13T21:04:48-04:00,2026-10-13T23:47:26-04:00
+Eirva Ch. Diamessis,true,1,Seller,false,https://share.collx.app/user5080082,collx://profiles/5080082,2026-10-13T21:51:17-04:00,2026-10-14T07:46:21-04:00
+eduardo pozuelos,true,1,Buyer,false,https://share.collx.app/user5079890,collx://profiles/5079890,2026-10-13T21:04:48-04:00,2026-10-14T07:35:20-04:00
 Daniel Puteri,true,1,Seller,false,https://share.collx.app/user5079876,collx://profiles/5079876,2026-10-13T21:02:06-04:00,2026-10-13T22:47:46-04:00
 Diggsrips,true,1,Seller,false,https://share.collx.app/user5079725,collx://profiles/5079725,2026-10-13T20:17:19-04:00,2026-10-13T23:29:04-04:00
 Fabiola A Lozada,true,1,Seller,false,https://share.collx.app/user5079685,collx://profiles/5079685,2026-10-13T20:08:18-04:00,2026-10-13T23:41:18-04:00
@@ -31,7 +33,7 @@ Jason Facchine,true,2,Buyer,false,https://share.collx.app/user5078830,collx://pr
 Hayden Black,true,3,Buyer,true,https://share.collx.app/user5078731,collx://profiles/5078731,2026-10-13T15:15:06-04:00,2026-10-13T23:20:58-04:00
 Kyle Hannan,true,5,Seller,false,https://share.collx.app/user5078687,collx://profiles/5078687,2026-10-13T14:55:56-04:00,2026-10-13T21:35:17-04:00
 David Combs,true,1,Buyer,false,https://share.collx.app/jdawg9182,collx://profiles/5078656,2026-10-13T14:45:27-04:00,2026-10-13T15:59:04-04:00
-Andrew Axelrod,true,2,Buyer,false,https://share.collx.app/THATDUDEDAX48,collx://profiles/5078496,2026-10-13T13:31:17-04:00,2026-10-14T00:19:15-04:00
+Andrew Axelrod,true,2,Buyer,false,https://share.collx.app/THATDUDEDAX48,collx://profiles/5078496,2026-10-13T13:31:17-04:00,2026-10-14T07:13:36-04:00
 Ranch Ripz,true,1,Buyer,false,https://share.collx.app/ranchripz,collx://profiles/5078468,2026-10-13T13:14:16-04:00,2026-10-13T17:04:47-04:00
 AndrewHeather Gilmore,true,17,Seller,false,https://share.collx.app/user5078431,collx://profiles/5078431,2026-10-13T12:54:34-04:00,2026-10-13T17:34:27-04:00
 Bairon Toga,true,5,Buyer,false,https://share.collx.app/user5078376,collx://profiles/5078376,2026-10-13T12:19:39-04:00,2026-10-13T15:39:39-04:00
@@ -41,7 +43,7 @@ Peter Gasper,true,2,Buyer,false,https://share.collx.app/FoilFox,collx://profiles
 Matthew Dew,true,1,Seller,false,https://share.collx.app/user5077959,collx://profiles/5077959,2026-10-13T04:05:34-04:00,2026-10-14T00:04:59-04:00
 Montana Darnell,true,1,Seller,false,https://share.collx.app/user5077746,collx://profiles/5077746,2026-10-13T00:09:20-04:00,2026-10-14T02:47:53-04:00
 Angel Ayala,true,2,Seller,false,https://share.collx.app/user5077606,collx://profiles/5077606,2026-10-12T23:03:42-04:00,2026-10-13T23:23:32-04:00
-Brandon,true,10,Seller,false,https://share.collx.app/brandonwig427,collx://profiles/5077543,2026-10-12T22:41:13-04:00,2026-10-14T06:24:22-04:00
+Brandon,true,10,Seller,false,https://share.collx.app/brandonwig427,collx://profiles/5077543,2026-10-12T22:41:13-04:00,2026-10-14T07:45:20-04:00
 Granett Deromedi,true,4,Seller,false,https://share.collx.app/granettderomedi,collx://profiles/5077527,2026-10-12T22:36:38-04:00,2026-10-13T23:11:58-04:00
 Nader Chtay,true,1,Buyer,false,https://share.collx.app/naderthetrainer,collx://profiles/5077517,2026-10-12T22:32:27-04:00,2026-10-13T17:11:35-04:00
 Pixie Girl,true,10,Seller,false,https://share.collx.app/user5077367,collx://profiles/5077367,2026-10-12T21:51:31-04:00,2026-10-13T10:06:23-04:00
@@ -55,28 +57,27 @@ Greyson Gore,true,8,Buyer,false,https://share.collx.app/user5076508,collx://prof
 Naqeebullah Tukhi,true,1,Seller,true,https://share.collx.app/user5076430,collx://profiles/5076430,2026-10-12T17:49:44-04:00,2026-10-13T19:52:05-04:00
 Kila Thomas,true,16,Buyer,false,https://share.collx.app/wedaboys,collx://profiles/5076364,2026-10-12T17:34:11-04:00,2026-10-13T16:29:17-04:00
 Glenn George,true,1,Seller,false,https://share.collx.app/humpty21192119,collx://profiles/5076196,2026-10-12T16:52:30-04:00,2026-10-12T20:35:55-04:00
-MOTIVATION NATION,true,6,Buyer,true,https://share.collx.app/user5076184,collx://profiles/5076184,2026-10-12T16:48:13-04:00,2026-10-14T06:57:05-04:00
+Packman777,true,11,Buyer,true,https://share.collx.app/user5076184,collx://profiles/5076184,2026-10-12T16:48:13-04:00,2026-10-14T07:44:07-04:00
 William Tyker,true,3,Buyer,true,https://share.collx.app/wptyler55,collx://profiles/5076073,2026-10-12T16:14:49-04:00,2026-10-13T22:43:21-04:00
 Brennon Johnson,true,2,Seller,false,https://share.collx.app/user5075581,collx://profiles/5075581,2026-10-12T13:55:28-04:00,2026-10-14T01:24:10-04:00
-Sean Kelley,true,1,Buyer,false,https://share.collx.app/user5075451,collx://profiles/5075451,2026-10-12T13:18:52-04:00,2026-10-14T02:22:10-04:00
 John Laing,true,2,Buyer,true,https://share.collx.app/user5075449,collx://profiles/5075449,2026-10-12T13:18:15-04:00,2026-10-13T20:08:25-04:00
 Anthony thompson,true,9,Seller,false,https://share.collx.app/antbone012,collx://profiles/5075404,2026-10-12T13:03:42-04:00,2026-10-13T00:03:04-04:00
-Jake Perkins,true,3,Buyer,false,https://share.collx.app/user5075297,collx://profiles/5075297,2026-10-12T12:26:52-04:00,2026-10-14T07:02:41-04:00
+Jake Perkins,true,3,Buyer,false,https://share.collx.app/user5075297,collx://profiles/5075297,2026-10-12T12:26:52-04:00,2026-10-14T07:19:36-04:00
 Mike Scott,true,4,Seller,false,https://share.collx.app/user5075296,collx://profiles/5075296,2026-10-12T12:26:02-04:00,2026-10-13T13:28:21-04:00
 PJ LaBonte,true,4,Seller,false,https://share.collx.app/user5075222,collx://profiles/5075222,2026-10-12T11:59:34-04:00,2026-10-14T05:30:16-04:00
 Josh Schneider,true,1,Seller,false,https://share.collx.app/NutmegSportsCards,collx://profiles/5075221,2026-10-12T11:59:02-04:00,2026-10-13T20:56:32-04:00
 Dakota Guyette,true,1,Seller,false,https://share.collx.app/user5075220,collx://profiles/5075220,2026-10-12T11:59:00-04:00,2026-10-13T21:51:13-04:00
 Adrian Flores,true,1,Seller,true,https://share.collx.app/user5075215,collx://profiles/5075215,2026-10-12T11:57:35-04:00,2026-10-13T23:23:41-04:00
-jason klager,true,3,Buyer,false,https://share.collx.app/user5075154,collx://profiles/5075154,2026-10-12T11:30:02-04:00,2026-10-13T21:52:39-04:00
+jason klager,true,3,Buyer,false,https://share.collx.app/user5075154,collx://profiles/5075154,2026-10-12T11:30:02-04:00,2026-10-14T07:24:08-04:00
 Ernest Clinton,true,2,Seller,false,https://share.collx.app/Ejcbreaks2099,collx://profiles/5075033,2026-10-12T10:45:12-04:00,2026-10-13T18:31:46-04:00
 Jay Hough,true,8,Seller,false,https://share.collx.app/user5075010,collx://profiles/5075010,2026-10-12T10:35:10-04:00,2026-10-12T10:47:14-04:00
 Eric Bowen,true,1,Seller,true,https://share.collx.app/Zayday252,collx://profiles/5074938,2026-10-12T09:56:55-04:00,2026-10-13T18:59:11-04:00
 Koran Lawson,true,1,Seller,false,https://share.collx.app/user5074931,collx://profiles/5074931,2026-10-12T09:54:47-04:00,2026-10-13T14:22:05-04:00
 Aaron Thompson,true,3,Seller,false,https://share.collx.app/user5074912,collx://profiles/5074912,2026-10-12T09:45:09-04:00,2026-10-14T06:26:56-04:00
 Jamar Robinson,true,3,Buyer,true,https://share.collx.app/StarAthletics,collx://profiles/5074894,2026-10-12T09:35:17-04:00,2026-10-13T17:12:31-04:00
-Reggie,true,75,Buyer,false,https://share.collx.app/RamapoCardCo,collx://profiles/5074868,2026-10-12T09:09:03-04:00,2026-10-13T23:53:30-04:00
+Reggie,true,74,Buyer,false,https://share.collx.app/RamapoCardCo,collx://profiles/5074868,2026-10-12T09:09:03-04:00,2026-10-14T08:06:04-04:00
 Breanna Potter,true,2,Buyer,false,https://share.collx.app/user5074756,collx://profiles/5074756,2026-10-12T06:32:21-04:00,2026-10-14T06:08:34-04:00
-Dio Ortiz,true,3,Buyer,false,https://share.collx.app/zzzamn,collx://profiles/5074712,2026-10-12T04:06:48-04:00,2026-10-12T13:32:11-04:00
+Dio Ortiz,true,3,Buyer,false,https://share.collx.app/zzzamn,collx://profiles/5074712,2026-10-12T04:06:48-04:00,2026-10-14T07:40:25-04:00
 PokeParkRipz,true,287,Seller,false,https://share.collx.app/CBlaizeBeverage,collx://profiles/5074556,2026-10-12T00:55:54-04:00,2026-10-13T18:00:22-04:00
 Caden Robinson,true,2,Buyer,false,https://share.collx.app/caden11,collx://profiles/5074547,2026-10-12T00:49:49-04:00,2026-10-13T00:59:50-04:00
 King Revolution,true,1,Buyer,false,https://share.collx.app/unklequilly4,collx://profiles/5074533,2026-10-12T00:41:20-04:00,2026-10-14T02:53:34-04:00
@@ -100,8 +101,8 @@ Chris Thornsberry,true,1,Buyer,false,https://share.collx.app/user5073547,collx:/
 graham osburn,true,2,Seller,false,https://share.collx.app/user5073357,collx://profiles/5073357,2026-10-11T19:32:32-04:00,2026-10-11T19:37:20-04:00
 jared jones,true,1,Seller,true,https://share.collx.app/user5073305,collx://profiles/5073305,2026-10-11T19:18:34-04:00,2026-10-13T21:07:07-04:00
 Franklin,true,1,Seller,false,https://share.collx.app/unknown211,collx://profiles/5073298,2026-10-11T19:16:40-04:00,2026-10-13T20:14:08-04:00
-corey roof,true,2,Buyer,false,https://share.collx.app/user5073252,collx://profiles/5073252,2026-10-11T19:04:19-04:00,2026-10-13T20:10:17-04:00
-Hunter Zang,true,1,Seller,false,https://share.collx.app/user5073245,collx://profiles/5073245,2026-10-11T19:03:26-04:00,2026-10-14T07:04:59-04:00
+corey roof,true,2,Buyer,false,https://share.collx.app/user5073252,collx://profiles/5073252,2026-10-11T19:04:19-04:00,2026-10-14T08:04:22-04:00
+Hunter Zang,true,1,Seller,false,https://share.collx.app/user5073245,collx://profiles/5073245,2026-10-11T19:03:26-04:00,2026-10-14T07:09:59-04:00
 Seaira,true,6,Buyer,false,https://share.collx.app/Seaira19,collx://profiles/5073228,2026-10-11T18:59:21-04:00,2026-10-14T00:38:08-04:00
 Amanda J,true,6,Seller,false,https://share.collx.app/user5073209,collx://profiles/5073209,2026-10-11T18:54:12-04:00,2026-10-14T01:11:21-04:00
 Rymel Jeter,true,12,Seller,false,https://share.collx.app/user5073019,collx://profiles/5073019,2026-10-11T18:17:51-04:00,2026-10-13T21:20:28-04:00
@@ -121,7 +122,7 @@ Steve Murphy,true,1,Buyer,false,https://share.collx.app/user5071863,collx://prof
 Kody Boyd,true,1,Buyer,false,https://share.collx.app/user5071789,collx://profiles/5071789,2026-10-11T14:04:13-04:00,2026-10-12T21:53:11-04:00
 Keith Yates,true,1,Seller,false,https://share.collx.app/user5071698,collx://profiles/5071698,2026-10-11T13:46:37-04:00,2026-10-13T15:21:04-04:00
 Dillon Garnett,true,1,Seller,false,https://share.collx.app/ZXDMONEYRIPS1,collx://profiles/5071628,2026-10-11T13:33:53-04:00,2026-10-13T19:32:14-04:00
-Franky,true,10,Seller,false,https://share.collx.app/user5071471,collx://profiles/5071471,2026-10-11T12:55:49-04:00,2026-10-13T23:29:03-04:00
+Franky,true,10,Seller,false,https://share.collx.app/user5071471,collx://profiles/5071471,2026-10-11T12:55:49-04:00,2026-10-14T07:25:29-04:00
 Sam Spear,true,7,Seller,false,https://share.collx.app/slamminsam,collx://profiles/5071211,2026-10-11T11:48:11-04:00,2026-10-13T23:27:10-04:00
 Kenneth Clyde Willard III,true,2,Seller,false,https://share.collx.app/Ruthlesskc510,collx://profiles/5071178,2026-10-11T11:40:39-04:00,2026-10-13T09:51:44-04:00
 Dylan Bishop,true,7,Seller,false,https://share.collx.app/user5071072,collx://profiles/5071072,2026-10-11T11:14:23-04:00,2026-10-13T21:04:33-04:00
@@ -138,7 +139,7 @@ Tony Long,true,1,Buyer,true,https://share.collx.app/user5070121,collx://profiles
 Jabony Mendez,true,2,Seller,true,https://share.collx.app/user5070105,collx://profiles/5070105,2026-10-10T22:39:42-04:00,2026-10-13T03:36:15-04:00
 Conny Brindley,true,35,Buyer,false,https://share.collx.app/user5070025,collx://profiles/5070025,2026-10-10T22:13:30-04:00,2026-10-13T23:04:02-04:00
 Austin Rush,true,6,Seller,true,https://share.collx.app/user5069539,collx://profiles/5069539,2026-10-10T20:06:32-04:00,2026-10-11T13:51:52-04:00
-Jacob Rogers,true,1,Seller,false,https://share.collx.app/LeeCardz,collx://profiles/5069355,2026-10-10T19:19:22-04:00,2026-10-13T22:22:43-04:00
+Jacob Rogers,true,1,Seller,false,https://share.collx.app/LeeCardz,collx://profiles/5069355,2026-10-10T19:19:22-04:00,2026-10-14T07:21:33-04:00
 Chris Good,true,4,Buyer,false,https://share.collx.app/user5069339,collx://profiles/5069339,2026-10-10T19:15:15-04:00,2026-10-11T16:54:26-04:00
 frank,true,1,Seller,false,https://share.collx.app/birdnest681,collx://profiles/5069129,2026-10-10T18:24:36-04:00,2026-10-12T23:59:19-04:00
 Andrew Siar,true,3,Seller,false,https://share.collx.app/user5069104,collx://profiles/5069104,2026-10-10T18:19:18-04:00,2026-10-11T11:55:39-04:00
@@ -165,16 +166,16 @@ Christian Blevins,true,1,Seller,false,https://share.collx.app/dafuzzy,collx://pr
 Adam Bates,true,5,Buyer,false,https://share.collx.app/user5067878,collx://profiles/5067878,2026-10-10T13:41:30-04:00,2026-10-13T23:12:02-04:00
 Anthony Vultaggio,true,1,Seller,false,https://share.collx.app/Rollsroyce4744,collx://profiles/5067699,2026-10-10T12:58:50-04:00,2026-10-12T12:23:19-04:00
 Tony Rodriguez,true,4,Seller,true,https://share.collx.app/user5067678,collx://profiles/5067678,2026-10-10T12:51:12-04:00,2026-10-14T05:13:31-04:00
-Cesar Bulux,true,2,Buyer,false,https://share.collx.app/Shande37,collx://profiles/5067647,2026-10-10T12:43:45-04:00,2026-10-13T21:07:05-04:00
+Cesar Bulux,true,2,Buyer,false,https://share.collx.app/Shande37,collx://profiles/5067647,2026-10-10T12:43:45-04:00,2026-10-14T07:14:31-04:00
 Isaac Hickman,true,3,Buyer,false,https://share.collx.app/Braves14,collx://profiles/5067626,2026-10-10T12:34:52-04:00,2026-10-13T12:43:03-04:00
 John Wittenberg,true,11,Seller,false,https://share.collx.app/user5067609,collx://profiles/5067609,2026-10-10T12:31:45-04:00,2026-10-10T20:28:07-04:00
 Bret,true,19,Seller,false,https://share.collx.app/brfuga32,collx://profiles/5067547,2026-10-10T12:15:48-04:00,2026-10-12T16:52:40-04:00
 John Gaines,true,7,Buyer,false,https://share.collx.app/johnmg34,collx://profiles/5067538,2026-10-10T12:14:00-04:00,2026-10-13T09:04:40-04:00
-DJ Hammer,true,1,Seller,false,https://share.collx.app/user5067278,collx://profiles/5067278,2026-10-10T10:50:04-04:00,2026-10-13T22:04:34-04:00
+DJ Hammer,true,1,Seller,false,https://share.collx.app/user5067278,collx://profiles/5067278,2026-10-10T10:50:04-04:00,2026-10-14T07:10:08-04:00
 Georgie Franco,true,1,Seller,false,https://share.collx.app/user5067275,collx://profiles/5067275,2026-10-10T10:49:11-04:00,2026-10-12T18:39:25-04:00
 Kevin Regan,true,1,Seller,false,https://share.collx.app/user5067254,collx://profiles/5067254,2026-10-10T10:39:34-04:00,2026-10-12T20:07:13-04:00
 Caleb Crawford,true,1,Seller,false,https://share.collx.app/calebcraw05,collx://profiles/5067090,2026-10-10T09:24:11-04:00,2026-10-13T00:13:35-04:00
-Andrew Zobel,true,4,Seller,false,https://share.collx.app/Zobel13,collx://profiles/5066925,2026-10-10T06:09:04-04:00,2026-10-14T07:04:06-04:00
+Andrew Zobel,true,4,Seller,false,https://share.collx.app/Zobel13,collx://profiles/5066925,2026-10-10T06:09:04-04:00,2026-10-14T08:00:53-04:00
 Lawrence Pavone Jr.,true,1,Seller,false,https://share.collx.app/user5066893,collx://profiles/5066893,2026-10-10T04:31:41-04:00,2026-10-11T00:04:47-04:00
 Brayan Flores,true,3,Seller,false,https://share.collx.app/danzooOfficialPKME,collx://profiles/5066882,2026-10-10T04:04:53-04:00,2026-10-14T04:04:24-04:00
 qrackrock,true,2,Seller,true,https://share.collx.app/qrackrock,collx://profiles/5066881,2026-10-10T04:04:05-04:00,2026-10-13T18:15:45-04:00
@@ -184,6 +185,7 @@ Kayla,true,104,Buyer,false,https://share.collx.app/kalamazoo,collx://profiles/50
 Austin Jenkins,true,5,Buyer,false,https://share.collx.app/user5066123,collx://profiles/5066123,2026-10-09T21:21:16-04:00,2026-10-13T20:54:28-04:00
 kelton sumsion,true,3,Buyer,false,https://share.collx.app/user5065949,collx://profiles/5065949,2026-10-09T20:24:03-04:00,2026-10-12T21:19:25-04:00
 Otto Puello,true,5,Seller,true,https://share.collx.app/user5065926,collx://profiles/5065926,2026-10-09T20:20:23-04:00,2026-10-12T05:56:22-04:00
+Hunter,true,17,Buyer,false,https://share.collx.app/user5065866,collx://profiles/5065866,2026-10-09T20:05:47-04:00,2026-10-14T07:30:44-04:00
 Robert Leonard,true,13,Seller,false,https://share.collx.app/user5065816,collx://profiles/5065816,2026-10-09T19:49:08-04:00,2026-10-10T13:58:24-04:00
 Peter Cajacuri,true,20,Seller,false,https://share.collx.app/user5065704,collx://profiles/5065704,2026-10-09T19:18:13-04:00,2026-10-12T20:23:43-04:00
 David Zrihen,true,1,Buyer,true,https://share.collx.app/user5065686,collx://profiles/5065686,2026-10-09T19:11:24-04:00,2026-10-10T09:28:36-04:00
@@ -207,7 +209,7 @@ Elias You,true,1,Seller,false,https://share.collx.app/user5064304,collx://profil
 Kevin Rogo,true,4,Buyer,false,https://share.collx.app/RogoCardSaled,collx://profiles/5064254,2026-10-09T10:56:10-04:00,2026-10-10T16:12:40-04:00
 Hunter Williams,true,2,Buyer,false,https://share.collx.app/GhuNNyyy,collx://profiles/5064238,2026-10-09T10:46:38-04:00,2026-10-13T13:08:16-04:00
 Brandon Pennington,true,4,Buyer,true,https://share.collx.app/TheAutisticCollector,collx://profiles/5064236,2026-10-09T10:46:12-04:00,2026-10-13T12:44:37-04:00
-Zach Kennedy,true,1,Buyer,false,https://share.collx.app/user5064018,collx://profiles/5064018,2026-10-09T07:43:42-04:00,2026-10-13T18:55:36-04:00
+Zach Kennedy,true,1,Buyer,false,https://share.collx.app/user5064018,collx://profiles/5064018,2026-10-09T07:43:42-04:00,2026-10-14T07:37:25-04:00
 Landon Simmons,true,18,Seller,false,https://share.collx.app/user5063946,collx://profiles/5063946,2026-10-09T05:22:00-04:00,2026-10-11T17:04:13-04:00
 Jonathan Bullock,false,1,Seller,false,https://share.collx.app/user5063935,collx://profiles/5063935,2026-10-09T04:52:58-04:00,2026-10-13T19:49:13-04:00
 Mike Kinney,true,9,Seller,true,https://share.collx.app/kinneys7,collx://profiles/5063834,2026-10-09T01:40:59-04:00,2026-10-14T01:55:08-04:00
@@ -219,7 +221,7 @@ Adam Howard,true,9,Seller,false,https://share.collx.app/ahow04,collx://profiles/
 Jayk McCampbell,true,8,Buyer,false,https://share.collx.app/user5063375,collx://profiles/5063375,2026-10-08T21:42:33-04:00,2026-10-12T23:16:53-04:00
 Kristina Bechtel,true,16,Buyer,false,https://share.collx.app/user5063349,collx://profiles/5063349,2026-10-08T21:35:31-04:00,2026-10-13T22:32:12-04:00
 Jeffrey Andersen,true,1,Buyer,false,https://share.collx.app/DadStrength,collx://profiles/5063193,2026-10-08T20:53:49-04:00,2026-10-14T02:00:29-04:00
-CallMeZ3US,false,1,Seller,false,https://share.collx.app/user5063168,collx://profiles/5063168,2026-10-08T20:46:43-04:00,2026-10-14T06:54:09-04:00
+CallMeZ3US,true,1,Seller,false,https://share.collx.app/user5063168,collx://profiles/5063168,2026-10-08T20:46:43-04:00,2026-10-14T06:54:09-04:00
 Red_Zone_Ripz,true,1,Buyer,false,https://share.collx.app/RedZoneRipz,collx://profiles/5063139,2026-10-08T20:37:09-04:00,2026-10-13T18:24:42-04:00
 Renee Selph,false,1,Buyer,false,https://share.collx.app/user5063103,collx://profiles/5063103,2026-10-08T20:25:43-04:00,2026-10-13T17:22:46-04:00
 Austin Case,true,1,Buyer,false,https://share.collx.app/user5062985,collx://profiles/5062985,2026-10-08T19:49:54-04:00,2026-10-10T17:47:01-04:00
@@ -268,7 +270,7 @@ Tyler Joseph,false,16,Buyer,false,https://share.collx.app/user5060347,collx://pr
 Alex Eaton,true,5,Buyer,false,https://share.collx.app/user5060289,collx://profiles/5060289,2026-10-07T19:56:21-04:00,2026-10-12T23:35:47-04:00
 Justine Valenzuela,true,2,Buyer,false,https://share.collx.app/user5060112,collx://profiles/5060112,2026-10-07T19:07:52-04:00,2026-10-14T07:03:25-04:00
 Omer,false,1,Seller,false,https://share.collx.app/soccerkid007,collx://profiles/5060008,2026-10-07T18:37:29-04:00,2026-10-07T19:10:28-04:00
-Carlos Herrera,true,1,Seller,false,https://share.collx.app/user5059721,collx://profiles/5059721,2026-10-07T17:19:07-04:00,2026-10-13T22:10:21-04:00
+Carlos Herrera,true,1,Seller,false,https://share.collx.app/user5059721,collx://profiles/5059721,2026-10-07T17:19:07-04:00,2026-10-14T07:45:47-04:00
 Michael Beck,true,1,Buyer,false,https://share.collx.app/CardBoardKing77,collx://profiles/5059667,2026-10-07T17:02:29-04:00,2026-10-13T15:45:11-04:00
 Michael Rodriguez,true,4,Buyer,false,https://share.collx.app/MikeRod29,collx://profiles/5059609,2026-10-07T16:49:12-04:00,2026-10-12T17:49:46-04:00
 Dylan White,true,2,Buyer,false,https://share.collx.app/wdylan1022,collx://profiles/5059511,2026-10-07T16:16:02-04:00,2026-10-10T22:54:53-04:00
@@ -301,7 +303,7 @@ Anthony Charles,true,1,Buyer,false,https://share.collx.app/user5057581,collx://p
 Jack’s & Stacks,true,14,Buyer,false,https://share.collx.app/slcjch07,collx://profiles/5057372,2026-10-06T18:27:20-04:00,2026-10-11T18:35:00-04:00
 Brandon Thomas,true,1,Seller,false,https://share.collx.app/user5057325,collx://profiles/5057325,2026-10-06T18:10:48-04:00,2026-10-07T11:26:14-04:00
 Adrian Marquez,true,15,Seller,false,https://share.collx.app/user5057314,collx://profiles/5057314,2026-10-06T18:08:32-04:00,2026-10-07T13:15:19-04:00
-Brayan Zuniga,true,130,Seller,false,https://share.collx.app/user5057262,collx://profiles/5057262,2026-10-06T17:53:00-04:00,2026-10-14T04:32:56-04:00
+Brayan Zuniga,true,130,Seller,false,https://share.collx.app/user5057262,collx://profiles/5057262,2026-10-06T17:53:00-04:00,2026-10-14T07:13:36-04:00
 Julian,false,5,Seller,true,https://share.collx.app/Perezz,collx://profiles/5057240,2026-10-06T17:48:56-04:00,2026-10-09T23:18:28-04:00
 Noah Reed,true,1,Buyer,false,https://share.collx.app/user5057197,collx://profiles/5057197,2026-10-06T17:36:13-04:00,2026-10-13T20:42:33-04:00
 Austin Smith,false,27,Buyer,false,https://share.collx.app/user5057050,collx://profiles/5057050,2026-10-06T16:52:08-04:00,2026-10-06T17:34:24-04:00
@@ -391,7 +393,7 @@ Tony Peal,true,1,Seller,false,https://share.collx.app/TonySweetz,collx://profile
 Dylan Bob,true,1,Seller,true,https://share.collx.app/user5051521,collx://profiles/5051521,2026-10-04T17:52:07-04:00,2026-10-05T12:16:05-04:00
 Asher Mikulin,true,1,Buyer,false,https://share.collx.app/user5051400,collx://profiles/5051400,2026-10-04T17:24:26-04:00,2026-10-14T01:44:51-04:00
 Evan Riley,true,3,Buyer,false,https://share.collx.app/DownToPress,collx://profiles/5051331,2026-10-04T17:07:13-04:00,2026-10-13T20:36:53-04:00
-James Pearson,true,6,Seller,true,https://share.collx.app/PLURMASTABLASTA,collx://profiles/5051313,2026-10-04T17:03:21-04:00,2026-10-14T00:29:36-04:00
+James Pearson,true,6,Seller,true,https://share.collx.app/PLURMASTABLASTA,collx://profiles/5051313,2026-10-04T17:03:21-04:00,2026-10-14T08:00:18-04:00
 Dusty Boyer,true,3,Seller,false,https://share.collx.app/user5051278,collx://profiles/5051278,2026-10-04T16:56:51-04:00,2026-10-11T19:39:27-04:00
 reilly,true,77,Buyer,false,https://share.collx.app/user5051244,collx://profiles/5051244,2026-10-04T16:50:19-04:00,2026-10-12T18:23:21-04:00
 Destry Harmon,true,1,Buyer,false,https://share.collx.app/LandSharkCards32,collx://profiles/5051223,2026-10-04T16:46:31-04:00,2026-10-12T14:55:57-04:00
@@ -446,7 +448,6 @@ Isaac Torres,true,7,Seller,false,https://share.collx.app/user5047262,collx://pro
 Nicolas Drake,true,2,Seller,false,https://share.collx.app/user5047137,collx://profiles/5047137,2026-10-03T16:32:46-04:00,2026-10-06T16:57:48-04:00
 Sawyer Hightower,true,1,Buyer,true,https://share.collx.app/user5047105,collx://profiles/5047105,2026-10-03T16:26:56-04:00,2026-10-05T21:25:35-04:00
 Zara Ruth,true,1,Buyer,true,https://share.collx.app/user5046969,collx://profiles/5046969,2026-10-03T15:58:07-04:00,2026-10-04T10:27:35-04:00
-Derick Corley,true,1,Seller,false,https://share.collx.app/user5046926,collx://profiles/5046926,2026-10-03T15:49:19-04:00,2026-10-14T00:44:01-04:00
 David Pagitt,true,1,Buyer,true,https://share.collx.app/user5046904,collx://profiles/5046904,2026-10-03T15:45:21-04:00,2026-10-08T12:58:02-04:00
 Austin Padgett,true,36,Seller,false,https://share.collx.app/coopr11x,collx://profiles/5046901,2026-10-03T15:44:43-04:00,2026-10-05T12:59:06-04:00
 Trace Tyler,true,1,Seller,false,https://share.collx.app/tracetm,collx://profiles/5046727,2026-10-03T15:06:45-04:00,2026-10-03T16:19:44-04:00
@@ -479,7 +480,7 @@ Jorge Guzman,true,17,Buyer,false,https://share.collx.app/jg5196,collx://profiles
 Elkin Ortiz,true,2,Seller,false,https://share.collx.app/ortizrr,collx://profiles/5044956,2026-10-02T23:54:29-04:00,2026-10-08T23:47:30-04:00
 Judy Kemp,true,53,Seller,false,https://share.collx.app/user5044901,collx://profiles/5044901,2026-10-02T23:29:50-04:00,2026-10-12T22:08:32-04:00
 Bill Benton,true,9,Buyer,false,https://share.collx.app/user5044898,collx://profiles/5044898,2026-10-02T23:28:22-04:00,2026-10-14T01:19:28-04:00
-Douglas Jones,true,312,Buyer,false,https://share.collx.app/thunderlungs,collx://profiles/5044882,2026-10-02T23:22:34-04:00,2026-10-13T21:01:00-04:00
+Douglas Jones,true,312,Buyer,false,https://share.collx.app/thunderlungs,collx://profiles/5044882,2026-10-02T23:22:34-04:00,2026-10-14T07:47:17-04:00
 brantley kerr kelley,true,97,Buyer,false,https://share.collx.app/Brantley1344,collx://profiles/5044814,2026-10-02T23:00:24-04:00,2026-10-05T23:21:22-04:00
 Benny Yinzer,true,308,Buyer,false,https://share.collx.app/hailmarymedia,collx://profiles/5044709,2026-10-02T22:26:27-04:00,2026-10-14T02:51:28-04:00
 Angel M.,true,40,Buyer,false,https://share.collx.app/user5044681,collx://profiles/5044681,2026-10-02T22:14:06-04:00,2026-10-13T23:32:46-04:00
@@ -508,7 +509,7 @@ Carter,true,3,Buyer,false,https://share.collx.app/Cweb1107,collx://profiles/5043
 Matthew Salamone,true,1,Seller,false,https://share.collx.app/user5043017,collx://profiles/5043017,2026-10-02T15:16:11-04:00,2026-10-12T16:44:08-04:00
 Vntg21,true,2,Seller,false,https://share.collx.app/luisbrb21,collx://profiles/5042890,2026-10-02T14:26:02-04:00,2026-10-13T11:29:25-04:00
 Ray Perez,true,37,Buyer,false,https://share.collx.app/perezsends,collx://profiles/5042875,2026-10-02T14:19:17-04:00,2026-10-11T17:35:04-04:00
-Brian Wallenrod,false,2,Buyer,false,https://share.collx.app/user5042735,collx://profiles/5042735,2026-10-02T13:28:14-04:00,2026-10-14T06:48:21-04:00
+Brian Wallenrod,true,2,Buyer,false,https://share.collx.app/user5042735,collx://profiles/5042735,2026-10-02T13:28:14-04:00,2026-10-14T06:48:21-04:00
 Gabby,true,1,Seller,false,https://share.collx.app/user5042611,collx://profiles/5042611,2026-10-02T12:19:21-04:00,2026-10-11T16:28:20-04:00
 Mark Russell,true,2,Buyer,false,https://share.collx.app/user5042589,collx://profiles/5042589,2026-10-02T12:11:21-04:00,2026-10-13T09:35:16-04:00
 Amir Gipson,true,1,Seller,false,https://share.collx.app/user5042537,collx://profiles/5042537,2026-10-02T11:35:55-04:00,2026-10-03T20:39:36-04:00
@@ -523,7 +524,7 @@ Sierra Perkins,true,5,Seller,false,https://share.collx.app/user5042195,collx://p
 SlothWorks,true,4,Buyer,true,https://share.collx.app/SlothWorks,collx://profiles/5042133,2026-10-02T04:24:23-04:00,2026-10-12T01:16:57-04:00
 Allyson Bright,true,67,Seller,false,https://share.collx.app/user5042100,collx://profiles/5042100,2026-10-02T03:17:02-04:00,2026-10-08T22:26:34-04:00
 Gilbert Gallardo,true,2,Seller,true,https://share.collx.app/agcollectibles2026,collx://profiles/5042029,2026-10-02T01:26:51-04:00,2026-10-13T22:26:36-04:00
-Melissa Breshears,true,116,Seller,false,https://share.collx.app/user5041917,collx://profiles/5041917,2026-10-02T00:02:38-04:00,2026-10-13T17:42:08-04:00
+Melissa Breshears,true,116,Seller,false,https://share.collx.app/user5041917,collx://profiles/5041917,2026-10-02T00:02:38-04:00,2026-10-14T07:09:39-04:00
 Nino Toys,true,5,Seller,false,https://share.collx.app/user5041909,collx://profiles/5041909,2026-10-01T23:59:37-04:00,2026-10-10T21:34:36-04:00
 Cole Harper,true,35,Buyer,false,https://share.collx.app/user5041613,collx://profiles/5041613,2026-10-01T21:59:55-04:00,2026-10-14T00:12:43-04:00
 James,true,1,Seller,true,https://share.collx.app/user5041534,collx://profiles/5041534,2026-10-01T21:30:09-04:00,2026-10-11T22:52:25-04:00
@@ -590,7 +591,7 @@ Berlisa Caba,true,2,Buyer,false,https://share.collx.app/user5036782,collx://prof
 Jason Potts,true,1,Seller,false,https://share.collx.app/user5036759,collx://profiles/5036759,2026-09-30T07:58:16-04:00,2026-10-08T22:38:38-04:00
 Jason Frey,true,1,Seller,false,https://share.collx.app/user5036663,collx://profiles/5036663,2026-09-30T03:53:13-04:00,2026-10-01T16:42:47-04:00
 B,true,11,Buyer,false,https://share.collx.app/M3scanningcards,collx://profiles/5036601,2026-09-30T01:44:46-04:00,2026-10-13T16:11:12-04:00
-Solomon T Gadeh,true,1,Seller,false,https://share.collx.app/user5036532,collx://profiles/5036532,2026-09-30T00:43:20-04:00,2026-10-12T17:31:22-04:00
+Solomon T Gadeh,true,1,Seller,false,https://share.collx.app/user5036532,collx://profiles/5036532,2026-09-30T00:43:20-04:00,2026-10-14T07:47:31-04:00
 Micheal Mortensen,true,1,Seller,false,https://share.collx.app/regularmiike,collx://profiles/5036527,2026-09-30T00:41:17-04:00,2026-10-10T00:35:33-04:00
 Tyler Nowaski,true,5,Seller,true,https://share.collx.app/user5036224,collx://profiles/5036224,2026-09-29T22:20:05-04:00,2026-10-13T12:34:10-04:00
 Mason Bunnell,true,3,Buyer,false,https://share.collx.app/WaxWorrior,collx://profiles/5036202,2026-09-29T22:14:01-04:00,2026-10-07T19:29:37-04:00
@@ -636,7 +637,7 @@ Kyle Champion,true,1,Seller,false,https://share.collx.app/user5033041,collx://pr
 Aaron Mack jr.,true,59,Buyer,false,https://share.collx.app/user5032952,collx://profiles/5032952,2026-09-28T19:52:39-04:00,2026-10-12T17:59:14-04:00
 Maddyx,true,2,Seller,false,https://share.collx.app/user5032944,collx://profiles/5032944,2026-09-28T19:50:03-04:00,2026-10-10T14:17:20-04:00
 Nicholas Kszepka,true,1,Buyer,true,https://share.collx.app/user5032920,collx://profiles/5032920,2026-09-28T19:44:07-04:00,2026-10-03T21:53:14-04:00
-Brantley,true,1,Seller,false,https://share.collx.app/Bgsoulter,collx://profiles/5032845,2026-09-28T19:20:53-04:00,2026-10-13T17:31:16-04:00
+Brantley,true,1,Seller,false,https://share.collx.app/Bgsoulter,collx://profiles/5032845,2026-09-28T19:20:53-04:00,2026-10-14T07:58:13-04:00
 Leslie Young,true,1,Buyer,false,https://share.collx.app/lesliey1508,collx://profiles/5032726,2026-09-28T18:49:07-04:00,2026-10-01T14:20:15-04:00
 William Cordero,true,1,Buyer,false,https://share.collx.app/user5032336,collx://profiles/5032336,2026-09-28T16:59:12-04:00,2026-10-13T14:54:45-04:00
 Kris Young,true,4,Seller,false,https://share.collx.app/user5032196,collx://profiles/5032196,2026-09-28T16:15:48-04:00,2026-10-13T11:00:38-04:00
@@ -662,6 +663,7 @@ Ernest Farmer,true,2,Buyer,false,https://share.collx.app/user5031283,collx://pro
 Timothy Morales,true,2,Seller,true,https://share.collx.app/user5031173,collx://profiles/5031173,2026-09-28T03:13:43-04:00,2026-10-13T20:57:15-04:00
 Taylor Hovde,true,99,Seller,false,https://share.collx.app/user5031087,collx://profiles/5031087,2026-09-28T01:31:13-04:00,2026-10-13T00:31:31-04:00
 Good Green,false,2,Buyer,false,https://share.collx.app/user5030950,collx://profiles/5030950,2026-09-27T23:46:27-04:00,2026-10-11T20:23:30-04:00
+Jerome Arandia,false,1,Buyer,false,https://share.collx.app/user5030935,collx://profiles/5030935,2026-09-27T23:39:54-04:00,2026-10-14T07:47:14-04:00
 GG Bro,true,6,Buyer,false,https://share.collx.app/user5030841,collx://profiles/5030841,2026-09-27T23:05:34-04:00,2026-10-12T05:43:13-04:00
 Rich,true,6,Buyer,false,https://share.collx.app/legendarycardseller,collx://profiles/5030456,2026-09-27T21:07:18-04:00,2026-10-13T19:26:03-04:00
 Nicholas Miller,true,1,Buyer,false,https://share.collx.app/user5030436,collx://profiles/5030436,2026-09-27T21:02:55-04:00,2026-10-13T19:14:31-04:00
@@ -871,7 +873,7 @@ Henry Andert,true,3,Seller,false,https://share.collx.app/laportaforever,collx://
 Ruby West,true,22,Seller,false,https://share.collx.app/Noahruby,collx://profiles/5015426,2026-09-23T07:46:01-04:00,2026-09-30T08:46:55-04:00
 Nicolas Leitch,true,1,Buyer,false,https://share.collx.app/Nleitch,collx://profiles/5015415,2026-09-23T07:34:21-04:00,2026-10-03T18:06:41-04:00
 Ronald Knotts,true,1,Buyer,true,https://share.collx.app/rey6296,collx://profiles/5015408,2026-09-23T07:19:06-04:00,2026-10-02T21:59:41-04:00
-Adam Petty,true,2,Buyer,false,https://share.collx.app/crosschk,collx://profiles/5015404,2026-09-23T07:11:35-04:00,2026-10-14T07:01:34-04:00
+Adam Petty,true,2,Buyer,false,https://share.collx.app/crosschk,collx://profiles/5015404,2026-09-23T07:11:35-04:00,2026-10-14T07:13:02-04:00
 Jose Serrano,true,2,Buyer,false,https://share.collx.app/tiburonalleycards,collx://profiles/5015304,2026-09-23T03:03:04-04:00,2026-10-14T06:56:36-04:00
 Jake Michelsen,true,5,Buyer,false,https://share.collx.app/user5015292,collx://profiles/5015292,2026-09-23T02:35:50-04:00,2026-10-09T10:39:39-04:00
 Mateo Adney,true,3,Buyer,false,https://share.collx.app/user5015197,collx://profiles/5015197,2026-09-23T01:04:03-04:00,2026-10-08T02:15:32-04:00
@@ -931,7 +933,7 @@ Blaise Papp,true,5,Seller,false,https://share.collx.app/user5011411,collx://prof
 Jackson Flatt,true,1,Buyer,false,https://share.collx.app/user5011147,collx://profiles/5011147,2026-09-21T17:37:43-04:00,2026-09-28T11:54:41-04:00
 Marco Cruz,true,8,Buyer,false,https://share.collx.app/user5011072,collx://profiles/5011072,2026-09-21T17:12:06-04:00,2026-10-12T10:30:09-04:00
 Coulson Mickle,true,1,Seller,false,https://share.collx.app/Micklecoulson,collx://profiles/5011058,2026-09-21T17:07:34-04:00,2026-09-30T19:43:41-04:00
-Buster Start,true,4,Buyer,false,https://share.collx.app/bmanslam17,collx://profiles/5011050,2026-09-21T17:05:29-04:00,2026-10-13T18:51:38-04:00
+Buster Start,true,4,Buyer,false,https://share.collx.app/bmanslam17,collx://profiles/5011050,2026-09-21T17:05:29-04:00,2026-10-14T08:04:39-04:00
 King,true,4,Seller,false,https://share.collx.app/cardcolecter10,collx://profiles/5010947,2026-09-21T16:35:03-04:00,2026-09-22T19:04:39-04:00
 Melisa Douville,true,21,Buyer,false,https://share.collx.app/MissyAnn76,collx://profiles/5010941,2026-09-21T16:33:00-04:00,2026-10-13T14:25:27-04:00
 Nicco Chavez,true,6,Seller,false,https://share.collx.app/Chavez2424,collx://profiles/5010925,2026-09-21T16:26:18-04:00,2026-10-14T01:11:01-04:00
@@ -999,7 +1001,7 @@ Sam,true,13,Buyer,false,https://share.collx.app/user5006200,collx://profiles/500
 David Schroeder,true,1,Seller,false,https://share.collx.app/user5006179,collx://profiles/5006179,2026-09-20T09:11:47-04:00,2026-10-03T21:57:54-04:00
 Carlota Gonzalez,true,9,Buyer,false,https://share.collx.app/user5006173,collx://profiles/5006173,2026-09-20T09:09:20-04:00,2026-10-07T14:07:03-04:00
 Jamal Kearse,false,1,Seller,false,https://share.collx.app/Jahmore021,collx://profiles/5006135,2026-09-20T08:42:56-04:00,2026-10-11T10:12:53-04:00
-Zac,true,7,Seller,true,https://share.collx.app/EncasedCardz,collx://profiles/5006054,2026-09-20T07:19:09-04:00,2026-10-14T06:22:50-04:00
+Zac,true,7,Seller,true,https://share.collx.app/EncasedCardz,collx://profiles/5006054,2026-09-20T07:19:09-04:00,2026-10-14T07:30:25-04:00
 Delinda Mcclure,true,11,Buyer,false,https://share.collx.app/user5005971,collx://profiles/5005971,2026-09-20T03:50:26-04:00,2026-10-02T01:37:33-04:00
 Jordan Roberts,true,1,Seller,false,https://share.collx.app/user5005961,collx://profiles/5005961,2026-09-20T03:34:51-04:00,2026-09-24T22:27:20-04:00
 Trenton Ozuk,true,1,Buyer,false,https://share.collx.app/user5005953,collx://profiles/5005953,2026-09-20T03:22:37-04:00,2026-10-13T16:24:56-04:00
@@ -1089,12 +1091,12 @@ Alejandro Martinez,true,1,Seller,false,https://share.collx.app/user4998924,collx
 Miranda Goss,true,3,Buyer,false,https://share.collx.app/user4998910,collx://profiles/4998910,2026-09-17T20:50:22-04:00,2026-10-13T16:34:16-04:00
 Mathias Duncan,true,2,Buyer,false,https://share.collx.app/STLMadman,collx://profiles/4998911,2026-09-17T20:50:22-04:00,2026-10-09T23:33:18-04:00
 Chloe Kent,true,21,Buyer,false,https://share.collx.app/user4998893,collx://profiles/4998893,2026-09-17T20:42:06-04:00,2026-09-17T21:24:45-04:00
-Jason Schwartz,true,31,Buyer,false,https://share.collx.app/Heman1202,collx://profiles/4998764,2026-09-17T19:53:10-04:00,2026-10-14T06:25:12-04:00
+Jason Schwartz,true,31,Buyer,false,https://share.collx.app/Heman1202,collx://profiles/4998764,2026-09-17T19:53:10-04:00,2026-10-14T07:31:04-04:00
 M Singleton,true,1,Buyer,false,https://share.collx.app/user4998709,collx://profiles/4998709,2026-09-17T19:33:52-04:00,2026-09-20T13:39:08-04:00
 David Shull,true,1,Buyer,false,https://share.collx.app/Slabless,collx://profiles/4998675,2026-09-17T19:21:07-04:00,2026-10-12T19:39:49-04:00
 Chase Myers,true,1,Seller,false,https://share.collx.app/thegoat44574,collx://profiles/4998654,2026-09-17T19:13:01-04:00,2026-10-10T18:14:12-04:00
 Khoa Dao,true,14,Buyer,false,https://share.collx.app/user4998550,collx://profiles/4998550,2026-09-17T18:33:01-04:00,2026-09-27T22:04:27-04:00
-Andrew Amarosa,true,29,Buyer,false,https://share.collx.app/user4998496,collx://profiles/4998496,2026-09-17T18:20:07-04:00,2026-10-12T23:46:27-04:00
+Andrew Amarosa,true,29,Buyer,false,https://share.collx.app/user4998496,collx://profiles/4998496,2026-09-17T18:20:07-04:00,2026-10-14T07:30:21-04:00
 Silas Grimstad,true,1,Buyer,true,https://share.collx.app/user4998427,collx://profiles/4998427,2026-09-17T17:57:25-04:00,2026-10-10T01:21:26-04:00
 Jody Mccleary,true,1,Buyer,false,https://share.collx.app/user4998379,collx://profiles/4998379,2026-09-17T17:38:38-04:00,2026-10-03T19:55:42-04:00
 kenny yoh,true,5,Buyer,true,https://share.collx.app/user4998343,collx://profiles/4998343,2026-09-17T17:26:17-04:00,2026-10-12T06:22:51-04:00
@@ -1157,6 +1159,7 @@ Steven,true,10,Buyer,true,https://share.collx.app/user4994736,collx://profiles/4
 Payton Mcintyre,false,1,Buyer,false,https://share.collx.app/payseller07,collx://profiles/4994702,2026-09-15T22:34:35-04:00,2026-09-15T22:36:32-04:00
 vincent gentile,true,1,Buyer,false,https://share.collx.app/user4994556,collx://profiles/4994556,2026-09-15T21:42:40-04:00,2026-10-03T23:22:15-04:00
 Will Theiss,true,6,Seller,false,https://share.collx.app/will0914,collx://profiles/4994498,2026-09-15T21:21:20-04:00,2026-10-12T16:11:30-04:00
+Ironmiron23-,true,1,Seller,false,https://share.collx.app/user4994409,collx://profiles/4994409,2026-09-15T20:51:43-04:00,2026-10-14T07:39:38-04:00
 Tom Pospisil,true,50,Buyer,false,https://share.collx.app/user4994089,collx://profiles/4994089,2026-09-15T19:06:59-04:00,2026-10-07T19:42:03-04:00
 Angelo,true,1,Seller,false,https://share.collx.app/angelo0725,collx://profiles/4993973,2026-09-15T18:33:24-04:00,2026-10-01T16:13:37-04:00
 Chris Rollins,true,3,Buyer,false,https://share.collx.app/christobelle,collx://profiles/4993960,2026-09-15T18:28:49-04:00,2026-10-13T16:29:30-04:00
@@ -1236,7 +1239,6 @@ Garrett Aikins,true,3,Seller,false,https://share.collx.app/user4988991,collx://p
 Richard,true,10,Buyer,false,https://share.collx.app/jefedyer,collx://profiles/4988982,2026-09-13T17:40:39-04:00,2026-10-13T09:43:55-04:00
 Charles Neff,true,1,Buyer,false,https://share.collx.app/TruckersCards,collx://profiles/4988861,2026-09-13T17:12:33-04:00,2026-10-12T11:51:17-04:00
 Matt,true,3,Seller,false,https://share.collx.app/user4988808,collx://profiles/4988808,2026-09-13T16:59:44-04:00,2026-09-30T02:03:20-04:00
-Byrd Elwell,true,1,Buyer,false,https://share.collx.app/user4988777,collx://profiles/4988777,2026-09-13T16:53:54-04:00,2026-09-14T00:32:01-04:00
 Sam,true,21,Seller,false,https://share.collx.app/elitecardz555,collx://profiles/4988611,2026-09-13T16:12:58-04:00,2026-09-15T15:04:10-04:00
 Bobby,true,40,Seller,false,https://share.collx.app/user4988578,collx://profiles/4988578,2026-09-13T16:06:42-04:00,2026-09-14T18:04:56-04:00
 Bricked Up cards,true,8,Buyer,false,https://share.collx.app/user4988485,collx://profiles/4988485,2026-09-13T15:44:28-04:00,2026-10-09T20:14:45-04:00
@@ -1272,7 +1274,7 @@ Wesson Payne,true,2,Seller,false,https://share.collx.app/WesCollects,collx://pro
 Nicholas,true,34,Buyer,false,https://share.collx.app/notsocurious,collx://profiles/4986350,2026-09-12T21:08:34-04:00,2026-10-01T17:17:00-04:00
 Jorge Alvarez,true,4,Buyer,false,https://share.collx.app/user4986176,collx://profiles/4986176,2026-09-12T20:20:31-04:00,2026-10-13T00:21:00-04:00
 Spencer Yeates,true,1,Seller,false,https://share.collx.app/user4986172,collx://profiles/4986172,2026-09-12T20:19:35-04:00,2026-10-10T19:43:45-04:00
-Donald Williams,true,1,Seller,false,https://share.collx.app/user4986093,collx://profiles/4986093,2026-09-12T19:55:40-04:00,2026-10-14T06:36:14-04:00
+Donald Williams,true,1,Seller,false,https://share.collx.app/user4986093,collx://profiles/4986093,2026-09-12T19:55:40-04:00,2026-10-14T07:43:02-04:00
 Bradley Ryan,true,1,Seller,false,https://share.collx.app/bryan4,collx://profiles/4986082,2026-09-12T19:53:06-04:00,2026-10-10T13:53:00-04:00
 Alex Sierra,true,1,Seller,false,https://share.collx.app/user4986080,collx://profiles/4986080,2026-09-12T19:52:37-04:00,2026-10-06T18:10:49-04:00
 JoshTheVillain,true,1,Buyer,true,https://share.collx.app/user4986012,collx://profiles/4986012,2026-09-12T19:36:40-04:00,2026-10-09T21:33:00-04:00
@@ -1385,7 +1387,7 @@ Kimmi Glick,true,13,Seller,false,https://share.collx.app/user4976524,collx://pro
 Zack,false,1,Buyer,false,https://share.collx.app/zackdqcreator,collx://profiles/4976421,2026-09-09T07:54:58-04:00,2026-10-13T05:02:19-04:00
 Travis H,true,13,Buyer,false,https://share.collx.app/user4976368,collx://profiles/4976368,2026-09-09T06:28:55-04:00,2026-10-03T14:34:18-04:00
 Kameron,true,2,Buyer,false,https://share.collx.app/KamK333,collx://profiles/4976240,2026-09-09T01:37:45-04:00,2026-10-02T02:24:30-04:00
-Alyssa Damato,true,9,Seller,false,https://share.collx.app/user4976150,collx://profiles/4976150,2026-09-09T00:22:41-04:00,2026-10-12T14:21:02-04:00
+Alyssa Damato,true,9,Seller,false,https://share.collx.app/user4976150,collx://profiles/4976150,2026-09-09T00:22:41-04:00,2026-10-14T07:51:48-04:00
 Donald Lambert,true,24,Seller,false,https://share.collx.app/user4976135,collx://profiles/4976135,2026-09-09T00:11:17-04:00,2026-10-08T02:40:06-04:00
 Sonny Olivera,true,1,Buyer,false,https://share.collx.app/SOlivera23,collx://profiles/4975952,2026-09-08T22:37:24-04:00,2026-09-15T16:23:21-04:00
 Miles Atherton,true,1,Seller,false,https://share.collx.app/user4975933,collx://profiles/4975933,2026-09-08T22:31:29-04:00,2026-09-14T09:10:11-04:00
@@ -1450,7 +1452,7 @@ Dylan McGonigle,true,1,Buyer,false,https://share.collx.app/user4972189,collx://p
 Henry Gaun,true,3,Buyer,false,https://share.collx.app/user4972175,collx://profiles/4972175,2026-09-07T17:24:32-04:00,2026-10-07T22:44:35-04:00
 Gregory Powell,true,1,Seller,false,https://share.collx.app/user4972152,collx://profiles/4972152,2026-09-07T17:20:15-04:00,2026-09-15T22:16:57-04:00
 Christopher Merritt,true,8,Buyer,true,https://share.collx.app/PristinePursuit,collx://profiles/4972144,2026-09-07T17:19:16-04:00,2026-10-12T10:59:02-04:00
-Ryan Nichols,true,18,Buyer,true,https://share.collx.app/rtnichols621,collx://profiles/4971978,2026-09-07T16:41:04-04:00,2026-10-14T06:49:50-04:00
+Ryan Nichols,true,18,Buyer,true,https://share.collx.app/rtnichols621,collx://profiles/4971978,2026-09-07T16:41:04-04:00,2026-10-14T08:06:08-04:00
 Kay,true,8,Buyer,false,https://share.collx.app/user4971917,collx://profiles/4971917,2026-09-07T16:30:53-04:00,2026-10-04T20:24:39-04:00
 Dane Golsch,true,4,Seller,false,https://share.collx.app/user4971837,collx://profiles/4971837,2026-09-07T16:14:17-04:00,2026-09-25T23:12:57-04:00
 Campbell,true,11,Seller,false,https://share.collx.app/user4971765,collx://profiles/4971765,2026-09-07T16:03:27-04:00,2026-09-24T23:03:34-04:00
@@ -1589,7 +1591,7 @@ Adalberto Gimenes,true,2,Seller,false,https://share.collx.app/agbetinho94,collx:
 Ricardo Swaby,true,1,Buyer,false,https://share.collx.app/user4959581,collx://profiles/4959581,2026-09-04T10:13:55-04:00,2026-09-27T15:42:46-04:00
 Cade Craig,true,1,Buyer,false,https://share.collx.app/CadeCraig1212,collx://profiles/4959563,2026-09-04T09:54:24-04:00,2026-10-01T13:56:38-04:00
 Frank Martinez,false,1,Buyer,false,https://share.collx.app/user4959550,collx://profiles/4959550,2026-09-04T09:46:24-04:00,2026-09-29T18:48:57-04:00
-Matthew,true,8,Buyer,false,https://share.collx.app/user4959544,collx://profiles/4959544,2026-09-04T09:41:28-04:00,2026-10-13T08:15:43-04:00
+Matthew,true,8,Buyer,false,https://share.collx.app/user4959544,collx://profiles/4959544,2026-09-04T09:41:28-04:00,2026-10-14T07:53:23-04:00
 Lee Solomon,true,1,Seller,false,https://share.collx.app/user4959534,collx://profiles/4959534,2026-09-04T09:35:41-04:00,2026-10-04T23:53:43-04:00
 Nyeelah Mina,true,5,Buyer,false,https://share.collx.app/user4959317,collx://profiles/4959317,2026-09-04T04:19:34-04:00,2026-10-03T19:40:38-04:00
 Peter Servello,true,1,Buyer,false,https://share.collx.app/user4959306,collx://profiles/4959306,2026-09-04T03:39:02-04:00,2026-10-12T21:27:35-04:00
@@ -1606,6 +1608,7 @@ David Resnick,true,1,Buyer,false,https://share.collx.app/user4958101,collx://pro
 Ryan Page,true,2,Seller,true,https://share.collx.app/rmpage34,collx://profiles/4958076,2026-09-03T18:20:47-04:00,2026-09-28T21:28:47-04:00
 Conlyn List,true,1,Buyer,false,https://share.collx.app/user4958050,collx://profiles/4958050,2026-09-03T18:15:21-04:00,2026-10-04T21:18:57-04:00
 Phillip Swink,true,1,Buyer,false,https://share.collx.app/user4957982,collx://profiles/4957982,2026-09-03T17:57:43-04:00,2026-10-04T08:25:16-04:00
+Daniel,true,3,Buyer,false,https://share.collx.app/user4957924,collx://profiles/4957924,2026-09-03T17:43:19-04:00,2026-10-14T07:24:31-04:00
 Matt Simms,true,7,Buyer,false,https://share.collx.app/user4957626,collx://profiles/4957626,2026-09-03T16:01:02-04:00,2026-10-12T07:11:50-04:00
 Eddie Konrad,true,1,Buyer,false,https://share.collx.app/ekon2026,collx://profiles/4957622,2026-09-03T15:59:47-04:00,2026-10-06T09:37:46-04:00
 Manuel Guerra,true,7,Seller,false,https://share.collx.app/user4957578,collx://profiles/4957578,2026-09-03T15:44:40-04:00,2026-10-13T21:15:56-04:00
@@ -1629,7 +1632,6 @@ Zayden Maka,true,3,Buyer,false,https://share.collx.app/user4956523,collx://profi
 Bryan Guadron,true,13,Buyer,false,https://share.collx.app/user4956483,collx://profiles/4956483,2026-09-03T00:43:02-04:00,2026-10-11T00:19:25-04:00
 Caleb Heacock,true,1,Seller,false,https://share.collx.app/user4956392,collx://profiles/4956392,2026-09-02T23:46:05-04:00,2026-09-30T22:33:09-04:00
 HandyClapped,true,4,Buyer,false,https://share.collx.app/HandyClapped,collx://profiles/4956284,2026-09-02T22:51:34-04:00,2026-10-13T23:55:34-04:00
-Nate McCoy,true,1,Seller,false,https://share.collx.app/user4956216,collx://profiles/4956216,2026-09-02T22:27:36-04:00,2026-10-14T00:04:43-04:00
 Huffy Packs,true,5,Seller,true,https://share.collx.app/huffypacks,collx://profiles/4956088,2026-09-02T21:52:34-04:00,2026-10-13T20:45:11-04:00
 Lyle Cornish,true,3,Buyer,true,https://share.collx.app/LJC1024,collx://profiles/4955947,2026-09-02T21:05:44-04:00,2026-09-28T23:56:47-04:00
 AYB Rob,true,53,Seller,false,https://share.collx.app/user4955893,collx://profiles/4955893,2026-09-02T20:51:58-04:00,2026-10-03T05:42:40-04:00
@@ -1708,7 +1710,7 @@ Ryan,true,27,Buyer,false,https://share.collx.app/rsturm12,collx://profiles/49502
 Dave Jensen,true,1,Buyer,true,https://share.collx.app/daverjensen,collx://profiles/4950215,2026-08-31T23:48:27-04:00,2026-09-15T01:57:41-04:00
 Dominic Garcia,true,3,Buyer,false,https://share.collx.app/user4950213,collx://profiles/4950213,2026-08-31T23:48:14-04:00,2026-10-01T04:48:40-04:00
 Chase Benji,true,1,Seller,true,https://share.collx.app/FleeTeam617,collx://profiles/4950168,2026-08-31T23:25:56-04:00,2026-10-13T09:52:24-04:00
-Danny Janashvili,true,8,Buyer,true,https://share.collx.app/DJCardsNY,collx://profiles/4950159,2026-08-31T23:22:15-04:00,2026-10-13T19:08:51-04:00
+Danny Janashvili,true,8,Buyer,true,https://share.collx.app/DJCardsNY,collx://profiles/4950159,2026-08-31T23:22:15-04:00,2026-10-14T07:16:22-04:00
 Kyler Hockaday,true,7,Seller,true,https://share.collx.app/BirdieBanks,collx://profiles/4950131,2026-08-31T23:14:02-04:00,2026-10-13T09:18:59-04:00
 Zoya Lebherz,true,1,Seller,false,https://share.collx.app/zoomzoomZL,collx://profiles/4949928,2026-08-31T22:01:36-04:00,2026-10-13T21:39:24-04:00
 Eli Paton,true,9,Seller,false,https://share.collx.app/user4949840,collx://profiles/4949840,2026-08-31T21:36:26-04:00,2026-10-05T00:37:46-04:00
@@ -1804,13 +1806,13 @@ James Wallet,true,1,Buyer,false,https://share.collx.app/user4942274,collx://prof
 Aaron Russell,true,1,Seller,false,https://share.collx.app/Hawks4life26,collx://profiles/4941819,2026-08-29T19:57:44-04:00,2026-09-29T11:17:51-04:00
 Joseph,true,1,Buyer,false,https://share.collx.app/jcarlton2734,collx://profiles/4941766,2026-08-29T19:45:10-04:00,2026-09-20T17:18:13-04:00
 Jeff Kidd Sr.,true,2,Buyer,true,https://share.collx.app/user4941643,collx://profiles/4941643,2026-08-29T19:17:21-04:00,2026-10-10T05:21:26-04:00
-Chad Lambert,true,16,Seller,false,https://share.collx.app/user4941544,collx://profiles/4941544,2026-08-29T18:58:37-04:00,2026-10-14T07:03:36-04:00
+Chad Lambert,true,16,Seller,false,https://share.collx.app/user4941544,collx://profiles/4941544,2026-08-29T18:58:37-04:00,2026-10-14T07:43:17-04:00
 Rick Miller,true,19,Buyer,false,https://share.collx.app/user4941420,collx://profiles/4941420,2026-08-29T18:29:05-04:00,2026-10-10T10:24:54-04:00
 Angel Flores,true,1,Buyer,false,https://share.collx.app/Angel5566,collx://profiles/4941384,2026-08-29T18:21:31-04:00,2026-10-07T22:28:13-04:00
 Robert Chappell,true,1,Seller,true,https://share.collx.app/user4941230,collx://profiles/4941230,2026-08-29T17:46:55-04:00,2026-10-12T05:38:38-04:00
 Jimmy Kline,true,1,Buyer,true,https://share.collx.app/user4941181,collx://profiles/4941181,2026-08-29T17:38:44-04:00,2026-09-17T13:39:18-04:00
 Leanne,false,67,Buyer,false,https://share.collx.app/whatevs987,collx://profiles/4941062,2026-08-29T17:14:38-04:00,2026-09-26T23:00:26-04:00
-amon ra lover,true,5,Seller,false,https://share.collx.app/user4941026,collx://profiles/4941026,2026-08-29T17:07:45-04:00,2026-10-13T19:43:27-04:00
+amon ra lover,true,5,Seller,false,https://share.collx.app/user4941026,collx://profiles/4941026,2026-08-29T17:07:45-04:00,2026-10-14T07:35:17-04:00
 Cameron Robinson,true,13,Buyer,false,https://share.collx.app/user4941008,collx://profiles/4941008,2026-08-29T17:04:20-04:00,2026-09-21T13:15:12-04:00
 Collin Wilson,true,5,Seller,false,https://share.collx.app/colgwil,collx://profiles/4940933,2026-08-29T16:51:25-04:00,2026-10-10T09:30:08-04:00
 T T,true,7,Buyer,false,https://share.collx.app/user4940921,collx://profiles/4940921,2026-08-29T16:49:25-04:00,2026-10-13T20:31:00-04:00
@@ -1942,6 +1944,7 @@ Michael Rios,true,1,Seller,false,https://share.collx.app/user4929410,collx://pro
 Christian Derbez,true,1,Buyer,false,https://share.collx.app/user4929400,collx://profiles/4929400,2026-08-25T21:34:43-04:00,2026-10-03T20:26:24-04:00
 Ozzie,true,63,Buyer,false,https://share.collx.app/ozgregg,collx://profiles/4929320,2026-08-25T21:14:43-04:00,2026-09-19T13:39:51-04:00
 Branco  Liendo,true,1,Buyer,false,https://share.collx.app/user4929318,collx://profiles/4929318,2026-08-25T21:13:58-04:00,2026-10-08T00:46:20-04:00
+Owen Sadler,true,2,Seller,true,https://share.collx.app/user4929137,collx://profiles/4929137,2026-08-25T20:30:52-04:00,2026-10-14T07:10:55-04:00
 Mamie Little,false,1,Buyer,false,https://share.collx.app/user4929116,collx://profiles/4929116,2026-08-25T20:25:13-04:00,2026-10-10T08:02:38-04:00
 Eric,true,4,Seller,false,https://share.collx.app/user4929113,collx://profiles/4929113,2026-08-25T20:24:45-04:00,2026-10-11T22:34:32-04:00
 Chet Fooler,true,2,Buyer,true,https://share.collx.app/user4929104,collx://profiles/4929104,2026-08-25T20:23:17-04:00,2026-10-13T00:04:11-04:00
@@ -1961,9 +1964,8 @@ Bill Neal,true,3,Seller,false,https://share.collx.app/user4928032,collx://profil
 rockorick2000,true,17,Buyer,false,https://share.collx.app/user4927958,collx://profiles/4927958,2026-08-25T14:56:08-04:00,2026-09-14T13:31:59-04:00
 Ellis Garcia,true,5,Buyer,false,https://share.collx.app/ellisjaden,collx://profiles/4927950,2026-08-25T14:53:07-04:00,2026-10-13T14:16:39-04:00
 Drew Literski,true,1,Buyer,false,https://share.collx.app/user4927854,collx://profiles/4927854,2026-08-25T14:13:04-04:00,2026-09-30T18:47:54-04:00
-TAG Cards,true,23,Buyer,true,https://share.collx.app/TAGCards,collx://profiles/4927805,2026-08-25T13:53:31-04:00,2026-10-14T06:11:16-04:00
+TAG Cards,true,23,Buyer,true,https://share.collx.app/TAGCards,collx://profiles/4927805,2026-08-25T13:53:31-04:00,2026-10-14T07:42:55-04:00
 Alexander Land,true,11,Buyer,false,https://share.collx.app/user4927757,collx://profiles/4927757,2026-08-25T13:30:47-04:00,2026-10-06T18:52:39-04:00
-Max Whitworth,true,1,Buyer,false,https://share.collx.app/user4927652,collx://profiles/4927652,2026-08-25T12:44:07-04:00,2026-10-14T07:02:06-04:00
 Jose Romero,true,11,Buyer,false,https://share.collx.app/user4927619,collx://profiles/4927619,2026-08-25T12:27:49-04:00,2026-09-22T11:23:59-04:00
 Dominick Bellucci,true,6,Seller,true,https://share.collx.app/user4927570,collx://profiles/4927570,2026-08-25T12:09:10-04:00,2026-10-03T19:23:19-04:00
 Jacob Burr,true,3,Seller,true,https://share.collx.app/user4927518,collx://profiles/4927518,2026-08-25T11:43:42-04:00,2026-09-21T14:19:17-04:00
@@ -2023,7 +2025,7 @@ Clay Embry,true,2,Seller,false,https://share.collx.app/user4921840,collx://profi
 Jeremy Dimmick,true,2,Seller,false,https://share.collx.app/user4921816,collx://profiles/4921816,2026-08-23T17:23:08-04:00,2026-10-01T09:25:57-04:00
 Landon Fella,true,1,Buyer,false,https://share.collx.app/user4921797,collx://profiles/4921797,2026-08-23T17:19:30-04:00,2026-09-30T18:01:25-04:00
 Mason Fisher,false,1,Buyer,false,https://share.collx.app/user4921607,collx://profiles/4921607,2026-08-23T16:49:21-04:00,2026-10-04T11:48:14-04:00
-Tucker K,true,17,Seller,false,https://share.collx.app/user4921084,collx://profiles/4921084,2026-08-23T15:19:09-04:00,2026-09-27T19:35:06-04:00
+Tucker K,true,17,Seller,false,https://share.collx.app/user4921084,collx://profiles/4921084,2026-08-23T15:19:09-04:00,2026-10-14T07:21:38-04:00
 Jackson Tackett,true,2,Buyer,false,https://share.collx.app/user4920902,collx://profiles/4920902,2026-08-23T14:48:22-04:00,2026-10-02T14:40:34-04:00
 Jason Hall,true,18,Buyer,false,https://share.collx.app/Jay216,collx://profiles/4920805,2026-08-23T14:31:16-04:00,2026-10-13T19:48:37-04:00
 Danny Foster,true,1,Buyer,false,https://share.collx.app/user4920724,collx://profiles/4920724,2026-08-23T14:15:53-04:00,2026-09-15T11:55:51-04:00
@@ -2114,7 +2116,7 @@ Steven Ray,true,7,Seller,false,https://share.collx.app/user4912035,collx://profi
 IanWestbrook,true,1,Seller,false,https://share.collx.app/iwestva,collx://profiles/4911875,2026-08-21T09:48:20-04:00,2026-10-05T22:27:39-04:00
 Nolan Fosse,true,7,Seller,false,https://share.collx.app/user4911741,collx://profiles/4911741,2026-08-21T07:35:17-04:00,2026-10-13T12:07:49-04:00
 Aaron Suh,true,2,Buyer,false,https://share.collx.app/starspawn666,collx://profiles/4911521,2026-08-21T01:19:30-04:00,2026-10-07T12:33:13-04:00
-Michael Whitaker,true,129,Buyer,false,https://share.collx.app/michaelwhit83,collx://profiles/4911169,2026-08-20T22:21:54-04:00,2026-10-13T22:19:29-04:00
+Michael Whitaker,true,129,Buyer,false,https://share.collx.app/michaelwhit83,collx://profiles/4911169,2026-08-20T22:21:54-04:00,2026-10-14T07:12:17-04:00
 Kelee Cross,true,1,Buyer,false,https://share.collx.app/user4911028,collx://profiles/4911028,2026-08-20T21:35:43-04:00,2026-10-06T14:00:37-04:00
 Jacob Whalen,true,1,Buyer,true,https://share.collx.app/jacobcollects13,collx://profiles/4910885,2026-08-20T20:56:11-04:00,2026-10-09T15:14:35-04:00
 Valentina Rodriguez,true,11,Buyer,false,https://share.collx.app/user4910788,collx://profiles/4910788,2026-08-20T20:32:21-04:00,2026-09-23T00:48:28-04:00
@@ -2233,7 +2235,7 @@ Jeremy Roach,true,1,Buyer,false,https://share.collx.app/601CARDGUY,collx://profi
 Kyle Grossart,true,1,Buyer,true,https://share.collx.app/user4901229,collx://profiles/4901229,2026-08-17T18:04:28-04:00,2026-10-12T18:00:37-04:00
 Kyle Gammon,true,3,Buyer,true,https://share.collx.app/user4901199,collx://profiles/4901199,2026-08-17T17:58:58-04:00,2026-10-09T10:59:54-04:00
 El Chiefa Muzic,true,12,Buyer,false,https://share.collx.app/user4901057,collx://profiles/4901057,2026-08-17T17:23:09-04:00,2026-10-08T15:21:14-04:00
-Eevee Evolution,true,5,Buyer,false,https://share.collx.app/adamkr,collx://profiles/4900962,2026-08-17T17:01:18-04:00,2026-10-13T16:56:41-04:00
+Eevee Evolution,true,5,Buyer,false,https://share.collx.app/adamkr,collx://profiles/4900962,2026-08-17T17:01:18-04:00,2026-10-14T07:21:51-04:00
 Two Guy’s 1 Hobby,true,58,Buyer,false,https://share.collx.app/user4900946,collx://profiles/4900946,2026-08-17T16:58:41-04:00,2026-10-13T13:47:30-04:00
 Gunner Johnson,true,10,Buyer,false,https://share.collx.app/Gunner1153,collx://profiles/4900838,2026-08-17T16:34:31-04:00,2026-10-13T23:13:43-04:00
 Nicholas Sonsini,false,10,Buyer,true,https://share.collx.app/user4900637,collx://profiles/4900637,2026-08-17T15:41:53-04:00,2026-10-07T23:30:58-04:00
@@ -2326,7 +2328,7 @@ Connor Hiener,true,2,Buyer,false,https://share.collx.app/connorhiener,collx://pr
 Amanda Kruger,true,2,Buyer,false,https://share.collx.app/user4889214,collx://profiles/4889214,2026-08-14T20:50:55-04:00,2026-10-09T20:51:45-04:00
 Robert Hernandez Quiñones,true,4,Buyer,false,https://share.collx.app/Robby12,collx://profiles/4889023,2026-08-14T20:07:24-04:00,2026-09-22T07:48:06-04:00
 Julio Zapien,true,9,Seller,false,https://share.collx.app/user4888967,collx://profiles/4888967,2026-08-14T19:54:26-04:00,2026-10-08T02:09:15-04:00
-Kevin Grogan,true,10,Buyer,true,https://share.collx.app/user4888679,collx://profiles/4888679,2026-08-14T18:45:15-04:00,2026-10-14T01:08:59-04:00
+Kevin Grogan,true,10,Buyer,true,https://share.collx.app/user4888679,collx://profiles/4888679,2026-08-14T18:45:15-04:00,2026-10-14T07:41:13-04:00
 impostor boy,true,1,Buyer,false,https://share.collx.app/user4888677,collx://profiles/4888677,2026-08-14T18:44:55-04:00,2026-10-13T10:52:45-04:00
 Caden,true,12,Buyer,false,https://share.collx.app/user4888488,collx://profiles/4888488,2026-08-14T17:58:06-04:00,2026-10-09T09:31:48-04:00
 Abel Duffield,true,2,Seller,false,https://share.collx.app/user4888440,collx://profiles/4888440,2026-08-14T17:45:11-04:00,2026-10-10T12:43:11-04:00
@@ -2345,7 +2347,7 @@ Sarahi,true,9,Seller,false,https://share.collx.app/sarahi,collx://profiles/48871
 Callum Mahoney,true,3,Seller,false,https://share.collx.app/user4886889,collx://profiles/4886889,2026-08-14T08:05:11-04:00,2026-10-10T19:23:54-04:00
 Zach Palmer,true,27,Seller,false,https://share.collx.app/user4886805,collx://profiles/4886805,2026-08-14T05:51:40-04:00,2026-10-04T07:20:31-04:00
 Maceo Lewis,true,16,Seller,false,https://share.collx.app/mllewis33,collx://profiles/4886800,2026-08-14T05:31:11-04:00,2026-10-14T00:40:32-04:00
-DaaBearCards,true,2,Buyer,false,https://share.collx.app/DaaBear,collx://profiles/4886788,2026-08-14T05:00:33-04:00,2026-10-14T07:06:01-04:00
+DaaBearCards,true,2,Buyer,false,https://share.collx.app/DaaBear,collx://profiles/4886788,2026-08-14T05:00:33-04:00,2026-10-14T08:05:39-04:00
 Masyn Hager,true,9,Buyer,false,https://share.collx.app/user4886744,collx://profiles/4886744,2026-08-14T03:17:59-04:00,2026-10-12T11:22:19-04:00
 steve ludwiczak,true,86,Buyer,true,https://share.collx.app/user4886743,collx://profiles/4886743,2026-08-14T03:15:23-04:00,2026-10-13T02:07:44-04:00
 B Watters,true,6,Seller,false,https://share.collx.app/BWATT,collx://profiles/4886628,2026-08-14T01:00:46-04:00,2026-10-04T19:57:02-04:00
@@ -2371,7 +2373,7 @@ dk Rodriguez,true,2,Seller,true,https://share.collx.app/user4884444,collx://prof
 Adriel,true,1,Buyer,false,https://share.collx.app/AdrielsCollection,collx://profiles/4884404,2026-08-13T14:31:17-04:00,2026-09-14T22:40:22-04:00
 Brandon Larche,true,5,Buyer,false,https://share.collx.app/user4884277,collx://profiles/4884277,2026-08-13T13:51:50-04:00,2026-09-29T20:28:52-04:00
 Marlon67,true,60,Buyer,false,https://share.collx.app/user4884174,collx://profiles/4884174,2026-08-13T13:17:32-04:00,2026-09-15T14:48:43-04:00
-Alexander Lee,true,1,Buyer,false,https://share.collx.app/PokemonSeller25,collx://profiles/4884152,2026-08-13T13:11:00-04:00,2026-10-13T15:10:42-04:00
+Alexander Lee,true,2,Buyer,false,https://share.collx.app/PokemonSeller25,collx://profiles/4884152,2026-08-13T13:11:00-04:00,2026-10-14T07:39:47-04:00
 Drew Walker,true,1,Buyer,false,https://share.collx.app/WildDogWalker,collx://profiles/4884090,2026-08-13T12:45:30-04:00,2026-10-12T17:52:55-04:00
 Rafael Aguirre,true,4,Buyer,true,https://share.collx.app/ralphssportscardz,collx://profiles/4883972,2026-08-13T11:56:50-04:00,2026-09-27T21:01:01-04:00
 Larry LaRue,true,1,Seller,false,https://share.collx.app/user4883963,collx://profiles/4883963,2026-08-13T11:53:49-04:00,2026-09-13T20:14:41-04:00
@@ -2537,7 +2539,7 @@ Travis Pashon-Silva,true,1,Buyer,false,https://share.collx.app/user4863450,collx
 lucca baccari,true,7,Seller,false,https://share.collx.app/user4863361,collx://profiles/4863361,2026-08-08T15:14:29-04:00,2026-10-04T20:00:25-04:00
 Tyler Bailey,true,2,Seller,false,https://share.collx.app/user4863334,collx://profiles/4863334,2026-08-08T15:08:40-04:00,2026-10-12T12:27:29-04:00
 Erik Skiendziel,true,12,Buyer,false,https://share.collx.app/user4863247,collx://profiles/4863247,2026-08-08T14:51:14-04:00,2026-10-02T21:29:01-04:00
-Josh Goode,true,19,Buyer,false,https://share.collx.app/HomeTownHeroes,collx://profiles/4863193,2026-08-08T14:39:36-04:00,2026-10-14T06:47:17-04:00
+Josh Goode,true,19,Buyer,false,https://share.collx.app/HomeTownHeroes,collx://profiles/4863193,2026-08-08T14:39:36-04:00,2026-10-14T08:01:12-04:00
 Elijah Carlton,true,1,Buyer,true,https://share.collx.app/user4863015,collx://profiles/4863015,2026-08-08T14:06:31-04:00,2026-09-26T14:44:52-04:00
 Anthony Shandra,true,1,Seller,false,https://share.collx.app/user4862922,collx://profiles/4862922,2026-08-08T13:46:50-04:00,2026-10-08T22:00:06-04:00
 Declan,true,16,Seller,false,https://share.collx.app/declancoughlin3,collx://profiles/4862749,2026-08-08T13:13:40-04:00,2026-09-27T15:02:53-04:00
@@ -2562,7 +2564,7 @@ Caleb Geissinger,true,72,Buyer,false,https://share.collx.app/user4860876,collx:/
 Jared,true,1,Seller,false,https://share.collx.app/Jared35,collx://profiles/4860860,2026-08-07T22:18:07-04:00,2026-10-05T22:26:51-04:00
 Kayce Howell,true,1,Buyer,true,https://share.collx.app/AxeAndWax,collx://profiles/4860764,2026-08-07T22:00:31-04:00,2026-10-09T23:24:05-04:00
 Christian Hinkle,true,1,Buyer,false,https://share.collx.app/user4860688,collx://profiles/4860688,2026-08-07T21:46:07-04:00,2026-09-28T10:37:07-04:00
-Brayden Ramsey,true,19,Buyer,false,https://share.collx.app/brayden26,collx://profiles/4860627,2026-08-07T21:31:51-04:00,2026-10-12T20:24:05-04:00
+Brayden Ramsey,true,20,Buyer,false,https://share.collx.app/brayden26,collx://profiles/4860627,2026-08-07T21:31:51-04:00,2026-10-14T07:21:10-04:00
 Andrew Skipper,true,8,Seller,false,https://share.collx.app/user4860487,collx://profiles/4860487,2026-08-07T21:03:23-04:00,2026-09-23T19:45:56-04:00
 Trevor Johnston,true,21,Buyer,false,https://share.collx.app/user4860398,collx://profiles/4860398,2026-08-07T20:46:34-04:00,2026-10-12T17:03:36-04:00
 CJ Patterson,true,8,Buyer,false,https://share.collx.app/user4860111,collx://profiles/4860111,2026-08-07T19:47:32-04:00,2026-10-01T17:38:10-04:00
@@ -2660,7 +2662,7 @@ Michael Walsh,true,3,Buyer,false,https://share.collx.app/user4847455,collx://pro
 Frank Lopez,true,21,Buyer,false,https://share.collx.app/user4847220,collx://profiles/4847220,2026-08-04T20:28:02-04:00,2026-10-06T20:11:17-04:00
 rejectedspiderman,true,5,Seller,true,https://share.collx.app/rejectedspiderman,collx://profiles/4846970,2026-08-04T19:35:38-04:00,2026-10-14T06:17:54-04:00
 Brady Kreitzer,true,4,Seller,false,https://share.collx.app/Br80Kreitzer,collx://profiles/4846842,2026-08-04T19:11:01-04:00,2026-10-10T21:24:54-04:00
-Chmer_cards,true,2,Seller,false,https://share.collx.app/user4846815,collx://profiles/4846815,2026-08-04T19:04:15-04:00,2026-10-13T08:27:58-04:00
+Chmer_cards,true,2,Seller,false,https://share.collx.app/user4846815,collx://profiles/4846815,2026-08-04T19:04:15-04:00,2026-10-14T07:49:19-04:00
 Alonso Romero Valdez,true,3,Seller,false,https://share.collx.app/user4846717,collx://profiles/4846717,2026-08-04T18:46:12-04:00,2026-10-11T10:10:01-04:00
 Mason Couch,true,20,Seller,false,https://share.collx.app/user4846677,collx://profiles/4846677,2026-08-04T18:37:46-04:00,2026-10-11T15:06:18-04:00
 Francis Kozak,true,1,Buyer,false,https://share.collx.app/user4846033,collx://profiles/4846033,2026-08-04T16:25:26-04:00,2026-09-30T11:45:04-04:00
@@ -2673,7 +2675,7 @@ Kevin Lapin,true,2,Buyer,false,https://share.collx.app/Lapezimus,collx://profile
 Tristan McDaniel,false,1,Buyer,false,https://share.collx.app/user4845018,collx://profiles/4845018,2026-08-04T12:08:36-04:00,2026-09-20T21:50:23-04:00
 Tristan Robinson,true,9,Buyer,false,https://share.collx.app/tristalbear32,collx://profiles/4845002,2026-08-04T12:00:40-04:00,2026-10-08T22:20:29-04:00
 Rosie,true,102,Buyer,false,https://share.collx.app/user4844866,collx://profiles/4844866,2026-08-04T11:14:34-04:00,2026-10-07T19:46:09-04:00
-Chris Allen,true,1,Buyer,false,https://share.collx.app/user4844715,collx://profiles/4844715,2026-08-04T10:18:39-04:00,2026-10-12T17:51:29-04:00
+Chris Allen,true,1,Buyer,false,https://share.collx.app/user4844715,collx://profiles/4844715,2026-08-04T10:18:39-04:00,2026-10-14T07:50:02-04:00
 The Card Caddie shack,true,1,Buyer,false,https://share.collx.app/Cardcaddieshack,collx://profiles/4844578,2026-08-04T09:06:38-04:00,2026-10-06T20:15:59-04:00
 XR,true,13,Buyer,false,https://share.collx.app/user4844466,collx://profiles/4844466,2026-08-04T06:49:19-04:00,2026-10-01T06:57:25-04:00
 Travis,true,6,Buyer,false,https://share.collx.app/user4844450,collx://profiles/4844450,2026-08-04T06:13:03-04:00,2026-10-04T23:15:31-04:00
@@ -2691,7 +2693,7 @@ Eli Roberts,true,1,Seller,false,https://share.collx.app/user4843098,collx://prof
 Shawn,true,1,Seller,false,https://share.collx.app/Sowen1228,collx://profiles/4842984,2026-08-03T20:29:29-04:00,2026-10-08T09:34:34-04:00
 Andrew Hohwald,false,1,Buyer,false,https://share.collx.app/user4842543,collx://profiles/4842543,2026-08-03T19:14:00-04:00,2026-10-03T12:32:35-04:00
 Timothy M Secord,false,5,Buyer,false,https://share.collx.app/user4842323,collx://profiles/4842323,2026-08-03T18:38:23-04:00,2026-10-02T15:24:27-04:00
-Tom,true,27,Buyer,true,https://share.collx.app/MooreSportsCards2026,collx://profiles/4842270,2026-08-03T18:27:45-04:00,2026-10-13T23:04:36-04:00
+Tom,true,27,Buyer,true,https://share.collx.app/MooreSportsCards2026,collx://profiles/4842270,2026-08-03T18:27:45-04:00,2026-10-14T07:58:13-04:00
 John Peck,true,5,Seller,false,https://share.collx.app/user4841649,collx://profiles/4841649,2026-08-03T16:57:01-04:00,2026-10-04T22:40:09-04:00
 patrick macdonald,true,2,Seller,false,https://share.collx.app/user4841589,collx://profiles/4841589,2026-08-03T16:48:22-04:00,2026-10-11T21:21:28-04:00
 Cody,true,3,Seller,false,https://share.collx.app/Lazerman91,collx://profiles/4841557,2026-08-03T16:42:45-04:00,2026-10-08T21:32:45-04:00
@@ -2706,7 +2708,7 @@ Nicholas Provo,true,15,Seller,false,https://share.collx.app/user4839733,collx://
 Rhys J,false,1,Seller,false,https://share.collx.app/onefootslog,collx://profiles/4839703,2026-08-03T10:41:17-04:00,2026-09-28T13:19:53-04:00
 Hudson Salter,true,2,Buyer,false,https://share.collx.app/user4839666,collx://profiles/4839666,2026-08-03T10:28:35-04:00,2026-10-09T12:33:28-04:00
 Matthew Miller,true,1,Buyer,false,https://share.collx.app/user4839664,collx://profiles/4839664,2026-08-03T10:26:49-04:00,2026-09-15T13:40:52-04:00
-Myles Biedermann,true,9,Buyer,false,https://share.collx.app/Mvbied57,collx://profiles/4839615,2026-08-03T10:06:19-04:00,2026-10-13T23:07:57-04:00
+Myles Biedermann,true,9,Buyer,false,https://share.collx.app/Mvbied57,collx://profiles/4839615,2026-08-03T10:06:19-04:00,2026-10-14T07:17:53-04:00
 drew kalis,true,1,Seller,false,https://share.collx.app/user4839558,collx://profiles/4839558,2026-08-03T09:36:50-04:00,2026-10-01T23:31:17-04:00
 Brooks Anderson,true,1,Buyer,false,https://share.collx.app/user4839452,collx://profiles/4839452,2026-08-03T08:26:34-04:00,2026-10-14T06:54:11-04:00
 Omnipulls,true,2,Buyer,false,https://share.collx.app/user4839425,collx://profiles/4839425,2026-08-03T07:54:01-04:00,2026-10-01T22:40:24-04:00
@@ -2753,7 +2755,6 @@ John Meza jr,true,8,Buyer,false,https://share.collx.app/user4833788,collx://prof
 Trace Whetsell,true,4,Seller,false,https://share.collx.app/twhet23,collx://profiles/4833408,2026-08-01T22:59:41-04:00,2026-10-02T18:10:30-04:00
 Jose Brena,true,226,Buyer,false,https://share.collx.app/user4833260,collx://profiles/4833260,2026-08-01T22:23:54-04:00,2026-10-14T06:43:34-04:00
 Draegon Royal,true,3,Buyer,false,https://share.collx.app/user4832969,collx://profiles/4832969,2026-08-01T21:20:20-04:00,2026-09-23T18:24:15-04:00
-Corey Jansen,true,6,Buyer,false,https://share.collx.app/user4832522,collx://profiles/4832522,2026-08-01T20:02:42-04:00,2026-10-14T03:56:52-04:00
 Jacob Leister,true,14,Buyer,false,https://share.collx.app/Aisle12pulls,collx://profiles/4831478,2026-08-01T19:11:38-04:00,2026-10-07T14:47:49-04:00
 Dylan’s Card Garage,true,2,Buyer,false,https://share.collx.app/DylansCardGarage,collx://profiles/4825670,2026-08-01T17:24:53-04:00,2026-09-30T22:43:43-04:00
 Derek Combs,true,1,Buyer,false,https://share.collx.app/user4822345,collx://profiles/4822345,2026-08-01T13:52:49-04:00,2026-10-11T21:35:41-04:00
@@ -2808,7 +2809,7 @@ Brandon Diaz,true,1,Seller,false,https://share.collx.app/user4802894,collx://pro
 jamo poop,true,5,Buyer,false,https://share.collx.app/user4802795,collx://profiles/4802795,2026-07-30T13:43:23-04:00,2026-09-25T17:41:36-04:00
 Amanda Geiger,true,2,Seller,true,https://share.collx.app/geigeramanda,collx://profiles/4802699,2026-07-30T13:18:21-04:00,2026-09-25T06:59:02-04:00
 Joshua Sipes,true,8,Buyer,false,https://share.collx.app/user4802303,collx://profiles/4802303,2026-07-30T11:04:29-04:00,2026-09-24T05:20:37-04:00
-Micah,true,85,Buyer,false,https://share.collx.app/Kingnunu23,collx://profiles/4802259,2026-07-30T10:47:19-04:00,2026-10-13T20:33:20-04:00
+Micah,true,85,Buyer,false,https://share.collx.app/Kingnunu23,collx://profiles/4802259,2026-07-30T10:47:19-04:00,2026-10-14T08:06:00-04:00
 JByrd,true,1,Buyer,true,https://share.collx.app/121gigawatts,collx://profiles/4802255,2026-07-30T10:45:35-04:00,2026-10-13T18:42:44-04:00
 Eric Laurent,true,1,Buyer,false,https://share.collx.app/Dabills17,collx://profiles/4801994,2026-07-30T07:13:49-04:00,2026-10-06T07:21:03-04:00
 Ian Allard,true,1,Seller,false,https://share.collx.app/Atmos88,collx://profiles/4801988,2026-07-30T07:04:21-04:00,2026-09-25T17:51:56-04:00
@@ -2828,6 +2829,7 @@ Beau McIlhargey,true,5,Seller,false,https://share.collx.app/user4799903,collx://
 Jonathan Plan,true,1,Buyer,false,https://share.collx.app/user4799842,collx://profiles/4799842,2026-07-29T17:38:28-04:00,2026-10-13T22:02:50-04:00
 Jack Durkee,true,6,Seller,false,https://share.collx.app/jackdurkee20,collx://profiles/4799811,2026-07-29T17:33:10-04:00,2026-10-04T12:48:51-04:00
 Brent Long,true,1,Buyer,false,https://share.collx.app/user4799807,collx://profiles/4799807,2026-07-29T17:32:26-04:00,2026-09-16T16:18:47-04:00
+jase southerling,true,1,Buyer,false,https://share.collx.app/user4799505,collx://profiles/4799505,2026-07-29T16:30:34-04:00,2026-10-13T18:12:35-04:00
 Joseph Neubauer,true,1,Seller,false,https://share.collx.app/user4799427,collx://profiles/4799427,2026-07-29T16:13:56-04:00,2026-10-09T10:03:21-04:00
 Wesley,true,1,Seller,false,https://share.collx.app/user4798957,collx://profiles/4798957,2026-07-29T14:27:32-04:00,2026-10-05T20:07:12-04:00
 Dakota,true,2,Buyer,true,https://share.collx.app/kodawyatt,collx://profiles/4798933,2026-07-29T14:21:21-04:00,2026-09-23T13:27:10-04:00
@@ -2913,7 +2915,7 @@ Parker Poole,true,1,Seller,false,https://share.collx.app/user4787140,collx://pro
 Jacob,true,2,Buyer,false,https://share.collx.app/user4787121,collx://profiles/4787121,2026-07-26T17:48:10-04:00,2026-10-13T21:09:54-04:00
 Reilly Kop,true,1,Seller,false,https://share.collx.app/user4786830,collx://profiles/4786830,2026-07-26T17:06:01-04:00,2026-10-12T14:51:54-04:00
 Travis Eicher,true,22,Buyer,false,https://share.collx.app/user4786595,collx://profiles/4786595,2026-07-26T16:27:46-04:00,2026-10-12T13:48:40-04:00
-Terry Tousey,true,1,Seller,false,https://share.collx.app/user4785829,collx://profiles/4785829,2026-07-26T14:03:25-04:00,2026-10-14T07:02:49-04:00
+Terry Tousey,true,1,Seller,false,https://share.collx.app/user4785829,collx://profiles/4785829,2026-07-26T14:03:25-04:00,2026-10-14T07:12:26-04:00
 Toby Corriston,true,2,Buyer,false,https://share.collx.app/user4785657,collx://profiles/4785657,2026-07-26T13:30:02-04:00,2026-10-09T15:33:17-04:00
 Patrick Gallagher,true,5,Seller,true,https://share.collx.app/user4785517,collx://profiles/4785517,2026-07-26T12:58:05-04:00,2026-10-09T13:10:53-04:00
 Christian Audesirk,true,7,Buyer,false,https://share.collx.app/TheEpicAudi,collx://profiles/4785423,2026-07-26T12:39:52-04:00,2026-10-06T22:39:10-04:00
@@ -2971,7 +2973,7 @@ Christopher Diolosa,false,1,Seller,true,https://share.collx.app/user4776521,coll
 Brent Bowers,true,8,Buyer,false,https://share.collx.app/user4776493,collx://profiles/4776493,2026-07-24T14:06:47-04:00,2026-09-21T10:03:05-04:00
 Bryden Decaminada,true,8,Seller,false,https://share.collx.app/user4776463,collx://profiles/4776463,2026-07-24T14:00:43-04:00,2026-09-28T20:53:24-04:00
 Sachi Bodhi,true,11,Buyer,false,https://share.collx.app/sachixbohdi,collx://profiles/4776461,2026-07-24T13:59:52-04:00,2026-10-07T15:26:00-04:00
-Bo,true,1,Seller,false,https://share.collx.app/BBengals26,collx://profiles/4776352,2026-07-24T13:35:29-04:00,2026-10-13T21:03:36-04:00
+Bo,true,1,Seller,false,https://share.collx.app/BBengals26,collx://profiles/4776352,2026-07-24T13:35:29-04:00,2026-10-14T07:26:53-04:00
 Hayden Cooke,true,2,Seller,false,https://share.collx.app/user4775648,collx://profiles/4775648,2026-07-24T08:47:53-04:00,2026-10-04T15:21:12-04:00
 Gemisael Hurtado,true,1,Seller,false,https://share.collx.app/user4775595,collx://profiles/4775595,2026-07-24T07:53:36-04:00,2026-10-03T00:03:04-04:00
 Racheal Doll,true,11,Buyer,false,https://share.collx.app/dollfacedodger,collx://profiles/4775383,2026-07-24T02:14:19-04:00,2026-10-04T18:44:52-04:00
@@ -3220,7 +3222,7 @@ Carlos Nieves,true,1,Seller,false,https://share.collx.app/user4734623,collx://pr
 Colton Bruce,true,1,Seller,false,https://share.collx.app/user4734275,collx://profiles/4734275,2026-07-12T14:49:10-04:00,2026-09-27T19:50:05-04:00
 Alex Alonso,true,41,Buyer,false,https://share.collx.app/AlexDA,collx://profiles/4733916,2026-07-12T13:17:49-04:00,2026-10-13T17:05:47-04:00
 Mitchell,true,1,Buyer,false,https://share.collx.app/mrmcculley23,collx://profiles/4733905,2026-07-12T13:15:39-04:00,2026-10-13T13:46:16-04:00
-John Eisenberg,true,1,Seller,false,https://share.collx.app/user4733755,collx://profiles/4733755,2026-07-12T12:30:51-04:00,2026-10-13T16:47:11-04:00
+John Eisenberg,true,1,Seller,false,https://share.collx.app/user4733755,collx://profiles/4733755,2026-07-12T12:30:51-04:00,2026-10-14T07:57:21-04:00
 Cooper Ehrendreich,true,6,Buyer,false,https://share.collx.app/coopereh,collx://profiles/4733473,2026-07-12T10:56:20-04:00,2026-10-13T19:48:34-04:00
 Peyton,true,1,Buyer,false,https://share.collx.app/Ptwin0929,collx://profiles/4733321,2026-07-12T09:49:34-04:00,2026-10-13T12:42:16-04:00
 Shawn Wirkus,true,1,Buyer,false,https://share.collx.app/user4733268,collx://profiles/4733268,2026-07-12T09:04:43-04:00,2026-10-13T22:28:53-04:00
@@ -3250,7 +3252,7 @@ Jake Howe,true,2,Seller,false,https://share.collx.app/user4729351,collx://profil
 martin lopez,true,3,Seller,false,https://share.collx.app/lopezinarmy75,collx://profiles/4728980,2026-07-10T22:11:31-04:00,2026-10-02T00:29:18-04:00
 Jordan Sims,true,1,Buyer,false,https://share.collx.app/JSims14,collx://profiles/4728627,2026-07-10T20:42:22-04:00,2026-09-29T20:01:35-04:00
 Datemptale,true,31,Seller,false,https://share.collx.app/datemptale,collx://profiles/4728262,2026-07-10T19:11:15-04:00,2026-09-26T09:21:16-04:00
-Joseph Whitney,true,6,Seller,false,https://share.collx.app/user4728162,collx://profiles/4728162,2026-07-10T18:45:22-04:00,2026-10-07T07:19:54-04:00
+Joseph Whitney,true,7,Seller,false,https://share.collx.app/user4728162,collx://profiles/4728162,2026-07-10T18:45:22-04:00,2026-10-14T07:25:42-04:00
 Joe Rome,true,3,Buyer,true,https://share.collx.app/joeypulls,collx://profiles/4727954,2026-07-10T18:02:58-04:00,2026-09-25T15:04:51-04:00
 Maiingan Wiikwedong,false,1,Buyer,false,https://share.collx.app/user4727928,collx://profiles/4727928,2026-07-10T17:56:20-04:00,2026-09-18T17:36:34-04:00
 Wyatt Tucker,true,8,Seller,false,https://share.collx.app/user4727178,collx://profiles/4727178,2026-07-10T14:46:47-04:00,2026-10-05T19:26:22-04:00
@@ -3363,7 +3365,7 @@ John Hall,true,1,Seller,false,https://share.collx.app/BOCEPHUS1999,collx://profi
 Nathan Ensley,true,40,Buyer,true,https://share.collx.app/NEnsley36,collx://profiles/4709609,2026-07-05T11:02:04-04:00,2026-10-13T16:46:13-04:00
 Pete Evans,true,8,Buyer,false,https://share.collx.app/user4709316,collx://profiles/4709316,2026-07-05T07:33:30-04:00,2026-10-12T12:28:33-04:00
 Joel Maldonado,true,148,Buyer,false,https://share.collx.app/lfmnahiam,collx://profiles/4709198,2026-07-05T02:35:59-04:00,2026-10-12T08:53:15-04:00
-Ralph Schudel,true,5,Buyer,false,https://share.collx.app/user4709073,collx://profiles/4709073,2026-07-05T00:46:17-04:00,2026-10-13T22:35:59-04:00
+Ralph Schudel,true,5,Buyer,false,https://share.collx.app/user4709073,collx://profiles/4709073,2026-07-05T00:46:17-04:00,2026-10-14T08:04:24-04:00
 Luke Stroud,true,4,Seller,false,https://share.collx.app/user4708512,collx://profiles/4708512,2026-07-04T20:24:59-04:00,2026-10-13T23:20:18-04:00
 Damian Almeida,true,2,Seller,false,https://share.collx.app/user4708509,collx://profiles/4708509,2026-07-04T20:23:30-04:00,2026-09-16T20:15:21-04:00
 Matt Allen,true,1,Seller,false,https://share.collx.app/user4707794,collx://profiles/4707794,2026-07-04T16:25:36-04:00,2026-10-13T17:52:47-04:00
@@ -3389,7 +3391,7 @@ Jakob Haus Vintage Cards,true,908,Buyer,false,https://share.collx.app/jakobhaust
 Noah,true,2,Seller,false,https://share.collx.app/user4705124,collx://profiles/4705124,2026-07-03T18:54:40-04:00,2026-10-03T12:13:46-04:00
 Reid Koester,false,1,Seller,false,https://share.collx.app/user4705017,collx://profiles/4705017,2026-07-03T18:22:25-04:00,2026-10-05T19:28:26-04:00
 Nick G,true,19,Buyer,true,https://share.collx.app/user4704743,collx://profiles/4704743,2026-07-03T17:10:09-04:00,2026-10-07T05:07:15-04:00
-LYNOBI,true,5,Buyer,false,https://share.collx.app/user4704441,collx://profiles/4704441,2026-07-03T15:41:25-04:00,2026-10-12T23:12:17-04:00
+LYNOBI,true,5,Buyer,false,https://share.collx.app/user4704441,collx://profiles/4704441,2026-07-03T15:41:25-04:00,2026-10-14T07:54:35-04:00
 Logan Colantuoni,true,6,Buyer,false,https://share.collx.app/LoganColantuoni4,collx://profiles/4704347,2026-07-03T15:15:28-04:00,2026-10-10T23:09:33-04:00
 Bentley,true,1,Seller,false,https://share.collx.app/Benthegoa,collx://profiles/4704303,2026-07-03T15:00:55-04:00,2026-10-08T20:00:44-04:00
 Darian Hamilton,true,6,Seller,false,https://share.collx.app/user4704048,collx://profiles/4704048,2026-07-03T13:45:22-04:00,2026-09-23T15:55:16-04:00
@@ -3588,7 +3590,7 @@ Jerry,true,19,Buyer,true,https://share.collx.app/MarjorieJJ1014,collx://profiles
 Wynn Huynh,true,1,Buyer,true,https://share.collx.app/wynnerhuynher,collx://profiles/4664157,2026-06-22T13:54:46-04:00,2026-10-06T20:54:52-04:00
 Brad Soule,true,1,Seller,false,https://share.collx.app/user4663871,collx://profiles/4663871,2026-06-22T12:31:43-04:00,2026-09-13T20:58:25-04:00
 Mahmoud,true,1,Buyer,false,https://share.collx.app/user4663664,collx://profiles/4663664,2026-06-22T11:25:26-04:00,2026-09-16T14:44:08-04:00
-colton cook,true,1,Seller,false,https://share.collx.app/user4663434,collx://profiles/4663434,2026-06-22T09:54:40-04:00,2026-10-13T12:29:23-04:00
+colton cook,true,1,Seller,false,https://share.collx.app/user4663434,collx://profiles/4663434,2026-06-22T09:54:40-04:00,2026-10-14T07:52:49-04:00
 Brian Kelly,true,1,Buyer,false,https://share.collx.app/user4663366,collx://profiles/4663366,2026-06-22T09:12:12-04:00,2026-09-28T10:23:17-04:00
 Isaiah Day,true,2,Seller,false,https://share.collx.app/user4663127,collx://profiles/4663127,2026-06-22T02:09:55-04:00,2026-10-06T21:19:03-04:00
 Joseph Monat,true,23,Buyer,false,https://share.collx.app/user4663072,collx://profiles/4663072,2026-06-22T01:37:44-04:00,2026-10-02T16:50:12-04:00
@@ -3623,7 +3625,7 @@ Jen,true,1,Seller,false,https://share.collx.app/JaneDoe04,collx://profiles/46563
 Rusty Martin,true,7,Buyer,false,https://share.collx.app/Rkade44,collx://profiles/4655800,2026-06-20T14:28:48-04:00,2026-10-06T18:11:25-04:00
 Cameron Barlow,true,3,Buyer,false,https://share.collx.app/user4655710,collx://profiles/4655710,2026-06-20T14:11:16-04:00,2026-09-28T12:31:46-04:00
 Marcus Rivas,true,9,Seller,false,https://share.collx.app/user4655558,collx://profiles/4655558,2026-06-20T13:41:18-04:00,2026-10-10T12:43:49-04:00
-arkansassports,true,2,Buyer,true,https://share.collx.app/Arkansasportsonwhatnot,collx://profiles/4655186,2026-06-20T12:05:39-04:00,2026-10-13T20:08:15-04:00
+arkansassports,true,2,Buyer,true,https://share.collx.app/Arkansasportsonwhatnot,collx://profiles/4655186,2026-06-20T12:05:39-04:00,2026-10-14T08:02:37-04:00
 Brian Surrett,true,1,Seller,false,https://share.collx.app/user4654960,collx://profiles/4654960,2026-06-20T10:57:43-04:00,2026-09-21T11:56:03-04:00
 JSM_1207,true,1,Buyer,false,https://share.collx.app/user4654759,collx://profiles/4654759,2026-06-20T09:33:15-04:00,2026-10-13T16:04:38-04:00
 Mark,true,24,Seller,false,https://share.collx.app/mahcooz,collx://profiles/4654639,2026-06-20T08:18:25-04:00,2026-09-25T16:55:00-04:00
@@ -3632,7 +3634,7 @@ Kyle M,true,2,Seller,false,https://share.collx.app/KYDRO,collx://profiles/465380
 Bran Mccullah,true,1,Buyer,false,https://share.collx.app/user4653506,collx://profiles/4653506,2026-06-19T21:13:16-04:00,2026-09-19T16:21:46-04:00
 Steven Smith,true,2,Buyer,false,https://share.collx.app/user4653228,collx://profiles/4653228,2026-06-19T20:10:24-04:00,2026-10-13T19:03:34-04:00
 Rob,false,1,Buyer,false,https://share.collx.app/Rob3388,collx://profiles/4652820,2026-06-19T18:42:06-04:00,2026-09-22T15:46:03-04:00
-Jeffrey Hoppenstedt,true,7,Buyer,false,https://share.collx.app/user4652541,collx://profiles/4652541,2026-06-19T17:44:58-04:00,2026-10-13T06:37:30-04:00
+Jeffrey Hoppenstedt,true,7,Buyer,false,https://share.collx.app/user4652541,collx://profiles/4652541,2026-06-19T17:44:58-04:00,2026-10-14T07:26:46-04:00
 Sailorjoshua1776,true,1,Seller,false,https://share.collx.app/sailorjoshua1776,collx://profiles/4652197,2026-06-19T16:28:34-04:00,2026-10-03T17:29:54-04:00
 Riley Caudell,true,7,Seller,false,https://share.collx.app/caude1te,collx://profiles/4651585,2026-06-19T14:04:41-04:00,2026-09-28T23:15:09-04:00
 Matt Kemper,true,4,Buyer,false,https://share.collx.app/user4651491,collx://profiles/4651491,2026-06-19T13:42:56-04:00,2026-09-20T13:42:20-04:00
@@ -3686,7 +3688,7 @@ Robert Legere III,true,4,Buyer,false,https://share.collx.app/user4640436,collx:/
 Mike Hudson,true,22,Buyer,true,https://share.collx.app/Dugoutcollectiblesco09,collx://profiles/4640310,2026-06-16T15:35:54-04:00,2026-10-14T05:29:01-04:00
 Carson Sports Cards,true,3,Buyer,true,https://share.collx.app/user4640148,collx://profiles/4640148,2026-06-16T14:59:16-04:00,2026-10-06T16:18:53-04:00
 Dylan Starnes,true,2,Buyer,false,https://share.collx.app/user4639804,collx://profiles/4639804,2026-06-16T13:26:32-04:00,2026-10-09T12:27:26-04:00
-chris swindell,true,1,Buyer,false,https://share.collx.app/user4639546,collx://profiles/4639546,2026-06-16T12:02:38-04:00,2026-10-09T05:57:17-04:00
+chris swindell,true,1,Buyer,false,https://share.collx.app/user4639546,collx://profiles/4639546,2026-06-16T12:02:38-04:00,2026-10-14T08:00:32-04:00
 Brody Philips,true,1,Seller,true,https://share.collx.app/user4638770,collx://profiles/4638770,2026-06-16T01:18:19-04:00,2026-09-20T09:51:09-04:00
 Mohamad Azzam,true,5,Seller,false,https://share.collx.app/user4638212,collx://profiles/4638212,2026-06-15T22:14:59-04:00,2026-10-01T07:52:45-04:00
 ShepCollects,true,1,Buyer,false,https://share.collx.app/user4638166,collx://profiles/4638166,2026-06-15T22:04:21-04:00,2026-10-06T16:47:46-04:00
@@ -3872,7 +3874,7 @@ Gaven Watson,true,8,Buyer,false,https://share.collx.app/user4581804,collx://prof
 Phillip Avalos,true,68,Buyer,false,https://share.collx.app/user4581796,collx://profiles/4581796,2026-05-31T03:10:07-04:00,2026-10-14T03:07:56-04:00
 A.Cruz,true,2,Buyer,false,https://share.collx.app/user4581487,collx://profiles/4581487,2026-05-30T23:57:15-04:00,2026-10-11T03:00:22-04:00
 Joshua Evander,true,151,Buyer,false,https://share.collx.app/user4581374,collx://profiles/4581374,2026-05-30T23:21:11-04:00,2026-10-12T17:50:40-04:00
-Liam,true,9,Buyer,false,https://share.collx.app/DLG88,collx://profiles/4581152,2026-05-30T22:04:29-04:00,2026-10-12T21:22:13-04:00
+Liam,true,9,Buyer,false,https://share.collx.app/DLG88,collx://profiles/4581152,2026-05-30T22:04:29-04:00,2026-10-14T07:50:50-04:00
 WhatDoYouMeanTradingCards,true,10,Buyer,false,https://share.collx.app/cardvault000,collx://profiles/4580849,2026-05-30T20:49:59-04:00,2026-10-04T23:51:10-04:00
 Thomas Kesling,true,1,Seller,false,https://share.collx.app/user4580511,collx://profiles/4580511,2026-05-30T19:26:31-04:00,2026-10-11T20:58:36-04:00
 Jessica White,true,7,Buyer,false,https://share.collx.app/user4579825,collx://profiles/4579825,2026-05-30T16:57:34-04:00,2026-10-06T11:32:34-04:00
@@ -3933,9 +3935,8 @@ Dai,true,32,Seller,false,https://share.collx.app/87world,collx://profiles/456093
 BirdBankSports,true,400,Buyer,false,https://share.collx.app/BirdBankSports,collx://profiles/4560853,2026-05-24T21:25:22-04:00,2026-10-13T16:23:13-04:00
 David E,true,50,Seller,false,https://share.collx.app/user4560816,collx://profiles/4560816,2026-05-24T21:16:35-04:00,2026-10-13T20:43:41-04:00
 Brian Hall,true,7,Seller,true,https://share.collx.app/brianhall5,collx://profiles/4560637,2026-05-24T20:37:42-04:00,2026-09-28T11:15:26-04:00
-Brad Swartz,true,165,Buyer,false,https://share.collx.app/user4560495,collx://profiles/4560495,2026-05-24T20:04:29-04:00,2026-10-13T20:20:05-04:00
 James,true,3,Seller,false,https://share.collx.app/boney427,collx://profiles/4559865,2026-05-24T17:35:47-04:00,2026-10-13T15:21:18-04:00
-Michael Byrd,true,1,Buyer,false,https://share.collx.app/user4558908,collx://profiles/4558908,2026-05-24T14:00:55-04:00,2026-10-05T11:45:44-04:00
+Michael Byrd,true,1,Buyer,false,https://share.collx.app/user4558908,collx://profiles/4558908,2026-05-24T14:00:55-04:00,2026-10-14T07:40:15-04:00
 Chad,true,1,Seller,false,https://share.collx.app/VicJackpot,collx://profiles/4557860,2026-05-24T08:59:52-04:00,2026-10-12T19:50:21-04:00
 Cesar Bello-Solis,true,10,Buyer,false,https://share.collx.app/e30cesar,collx://profiles/4557849,2026-05-24T08:52:40-04:00,2026-10-09T11:12:09-04:00
 Anthony Coloreo,true,1,Seller,false,https://share.collx.app/BigAntKicks,collx://profiles/4557736,2026-05-24T06:38:54-04:00,2026-09-17T21:59:18-04:00
@@ -4082,7 +4083,7 @@ VNDxCards,true,9,Buyer,false,https://share.collx.app/VndCards,collx://profiles/4
 Phoenix,true,20,Buyer,false,https://share.collx.app/phoenix333,collx://profiles/4505757,2026-05-09T01:08:37-04:00,2026-10-14T06:50:44-04:00
 Ali Washigton,false,30,Buyer,false,https://share.collx.app/user4505689,collx://profiles/4505689,2026-05-09T00:29:45-04:00,2026-09-30T22:42:48-04:00
 Taylen,true,6,Buyer,false,https://share.collx.app/user4505661,collx://profiles/4505661,2026-05-09T00:14:45-04:00,2026-09-26T23:41:05-04:00
-Billybob Rips Sports Cards,true,124,Buyer,false,https://share.collx.app/BBripssports,collx://profiles/4504850,2026-05-08T20:21:26-04:00,2026-10-13T21:46:13-04:00
+Billybob Rips Sports Cards,true,123,Buyer,false,https://share.collx.app/BBripssports,collx://profiles/4504850,2026-05-08T20:21:26-04:00,2026-10-14T07:50:49-04:00
 brandon sanders,true,1,Buyer,false,https://share.collx.app/user4504627,collx://profiles/4504627,2026-05-08T19:27:20-04:00,2026-09-27T09:47:22-04:00
 Jake Bannister,true,1,Buyer,false,https://share.collx.app/user4503435,collx://profiles/4503435,2026-05-08T13:23:43-04:00,2026-10-10T14:44:35-04:00
 Kylie Richardson,true,3,Buyer,false,https://share.collx.app/user4503207,collx://profiles/4503207,2026-05-08T11:50:27-04:00,2026-10-08T02:06:26-04:00
@@ -4090,7 +4091,7 @@ Jeff Tadsen,true,1,Buyer,false,https://share.collx.app/user4503037,collx://profi
 Kevin Gibson,true,1,Buyer,false,https://share.collx.app/ksg5142,collx://profiles/4502206,2026-05-07T22:23:17-04:00,2026-10-13T20:16:47-04:00
 Daniela Anderson,true,21,Buyer,false,https://share.collx.app/user4502020,collx://profiles/4502020,2026-05-07T21:19:25-04:00,2026-10-12T22:40:20-04:00
 John Henry,true,1,Buyer,false,https://share.collx.app/user4501782,collx://profiles/4501782,2026-05-07T20:16:47-04:00,2026-10-13T19:55:45-04:00
-Josh Mandel,true,97,Seller,true,https://share.collx.app/user4500928,collx://profiles/4500928,2026-05-07T16:08:48-04:00,2026-10-13T20:41:48-04:00
+Josh Mandel,true,97,Seller,true,https://share.collx.app/user4500928,collx://profiles/4500928,2026-05-07T16:08:48-04:00,2026-10-14T07:12:13-04:00
 J & J Cards & Collectables,true,4,Buyer,false,https://share.collx.app/jandjcollectables,collx://profiles/4500349,2026-05-07T12:49:35-04:00,2026-10-11T13:58:07-04:00
 Cole Luke,true,4,Buyer,false,https://share.collx.app/colel9211,collx://profiles/4500318,2026-05-07T12:32:06-04:00,2026-10-11T22:28:21-04:00
 Bethany Grebing,true,75,Buyer,false,https://share.collx.app/bmauk007,collx://profiles/4500294,2026-05-07T12:20:01-04:00,2026-09-24T12:43:58-04:00
@@ -4173,7 +4174,6 @@ LEGACY AUTHENTICS,true,2,Buyer,true,https://share.collx.app/legacyauthentics,col
 Stephen,true,1,Buyer,false,https://share.collx.app/Sauce9924,collx://profiles/4473026,2026-04-29T10:37:28-04:00,2026-10-01T18:01:47-04:00
 Alex Ramirez,true,4,Seller,false,https://share.collx.app/user4473001,collx://profiles/4473001,2026-04-29T10:17:02-04:00,2026-09-28T10:32:42-04:00
 Aaron Wolf,true,1,Buyer,true,https://share.collx.app/saltycards14,collx://profiles/4472980,2026-04-29T10:00:55-04:00,2026-09-21T13:54:19-04:00
-Terry Aguilar,true,1,Buyer,false,https://share.collx.app/user4472768,collx://profiles/4472768,2026-04-29T06:41:08-04:00,2026-10-14T06:37:10-04:00
 casey theresa,false,22,Buyer,false,https://share.collx.app/user4472638,collx://profiles/4472638,2026-04-29T02:12:45-04:00,2026-10-11T16:00:54-04:00
 joe knecht,true,1,Seller,false,https://share.collx.app/Hobojoe2,collx://profiles/4472601,2026-04-29T01:30:55-04:00,2026-10-13T17:28:06-04:00
 Anthony Baltera,true,24,Buyer,false,https://share.collx.app/user4471023,collx://profiles/4471023,2026-04-28T17:13:15-04:00,2026-10-01T20:01:13-04:00
@@ -4241,7 +4241,7 @@ Ty Kenney,true,17,Seller,false,https://share.collx.app/user4440215,collx://profi
 Vance Lackey,true,2,Seller,true,https://share.collx.app/user4440011,collx://profiles/4440011,2026-04-19T20:12:14-04:00,2026-10-14T00:40:50-04:00
 Evan McCarville,true,1,Buyer,false,https://share.collx.app/user4439270,collx://profiles/4439270,2026-04-19T18:20:29-04:00,2026-09-14T20:05:40-04:00
 Robert Butterworth,true,1,Buyer,false,https://share.collx.app/user4438432,collx://profiles/4438432,2026-04-19T16:12:58-04:00,2026-10-14T04:55:25-04:00
-Zachary Martin,true,15,Buyer,false,https://share.collx.app/zeefus4399,collx://profiles/4437589,2026-04-19T14:04:24-04:00,2026-10-12T22:05:46-04:00
+Zachary Martin,true,15,Buyer,false,https://share.collx.app/zeefus4399,collx://profiles/4437589,2026-04-19T14:04:24-04:00,2026-10-14T07:57:17-04:00
 Erik St.Germain,true,1,Buyer,true,https://share.collx.app/EsaintG,collx://profiles/4437219,2026-04-19T13:06:31-04:00,2026-10-13T20:59:02-04:00
 Orlando Ruiz,true,2,Seller,false,https://share.collx.app/Landus11,collx://profiles/4436495,2026-04-19T10:38:22-04:00,2026-09-28T14:40:55-04:00
 Devin Hauber,true,4,Seller,false,https://share.collx.app/user4435747,collx://profiles/4435747,2026-04-19T00:53:40-04:00,2026-10-11T04:44:20-04:00
@@ -4354,7 +4354,6 @@ Nolan Beresford,true,11,Buyer,false,https://share.collx.app/NolanBeresford,collx
 Anthony Lambden,true,20,Buyer,true,https://share.collx.app/user4377088,collx://profiles/4377088,2026-04-05T11:45:05-04:00,2026-09-27T19:57:48-04:00
 Xavier Holman,true,8,Seller,false,https://share.collx.app/user4376468,collx://profiles/4376468,2026-04-05T09:59:16-04:00,2026-09-26T13:41:05-04:00
 Mike Stender,true,3,Buyer,false,https://share.collx.app/user4375253,collx://profiles/4375253,2026-04-04T23:14:31-04:00,2026-10-02T00:32:04-04:00
-DC Reserve,true,1,Buyer,false,https://share.collx.app/damedolla4e1,collx://profiles/4375239,2026-04-04T23:10:08-04:00,2026-10-14T02:20:56-04:00
 Cardz,true,2,Buyer,false,https://share.collx.app/user4375173,collx://profiles/4375173,2026-04-04T22:53:48-04:00,2026-10-13T16:26:16-04:00
 Levi T.,true,1,Seller,false,https://share.collx.app/user4374291,collx://profiles/4374291,2026-04-04T20:15:04-04:00,2026-10-03T23:04:37-04:00
 Mike,true,1,Buyer,false,https://share.collx.app/user4374055,collx://profiles/4374055,2026-04-04T19:31:18-04:00,2026-10-06T19:48:28-04:00
@@ -4402,7 +4401,7 @@ Austin Crum,true,1,Seller,false,https://share.collx.app/user4344189,collx://prof
 Paul Howard,true,43,Buyer,false,https://share.collx.app/user4343913,collx://profiles/4343913,2026-03-28T15:48:44-04:00,2026-09-29T12:00:18-04:00
 Lucas Gladwin,true,2,Seller,false,https://share.collx.app/user4343867,collx://profiles/4343867,2026-03-28T15:40:57-04:00,2026-10-13T15:10:15-04:00
 Brennan Downard,true,2,Seller,false,https://share.collx.app/user4343610,collx://profiles/4343610,2026-03-28T15:00:25-04:00,2026-10-13T18:40:55-04:00
-White Crayon,true,1,Seller,false,https://share.collx.app/user4343192,collx://profiles/4343192,2026-03-28T13:50:05-04:00,2026-10-14T07:02:01-04:00
+White Crayon,true,1,Seller,false,https://share.collx.app/user4343192,collx://profiles/4343192,2026-03-28T13:50:05-04:00,2026-10-14T07:16:27-04:00
 deandre Moore,true,1,Buyer,false,https://share.collx.app/user4342983,collx://profiles/4342983,2026-03-28T13:17:24-04:00,2026-09-22T19:04:43-04:00
 Tyler Warlick,true,6,Seller,false,https://share.collx.app/user4342427,collx://profiles/4342427,2026-03-28T11:34:32-04:00,2026-09-29T20:01:10-04:00
 Charles Gummoe,true,2,Seller,false,https://share.collx.app/user4342078,collx://profiles/4342078,2026-03-28T10:09:04-04:00,2026-09-27T09:03:38-04:00
@@ -4454,7 +4453,7 @@ JOSUE Diaz,true,24,Seller,false,https://share.collx.app/user4307798,collx://prof
 Chris Pratt,true,1,Buyer,false,https://share.collx.app/chrispratt2018,collx://profiles/4307043,2026-03-18T20:01:42-04:00,2026-09-29T23:15:28-04:00
 JJBsports,true,1,Buyer,false,https://share.collx.app/JJBsports,collx://profiles/4306434,2026-03-18T17:43:21-04:00,2026-09-18T13:21:59-04:00
 Shawn,true,3,Buyer,false,https://share.collx.app/user4306425,collx://profiles/4306425,2026-03-18T17:41:12-04:00,2026-09-30T15:00:42-04:00
-Matt,true,104,Seller,false,https://share.collx.app/mgphenom,collx://profiles/4305974,2026-03-18T15:57:06-04:00,2026-10-13T19:56:56-04:00
+Matt,true,104,Seller,false,https://share.collx.app/mgphenom,collx://profiles/4305974,2026-03-18T15:57:06-04:00,2026-10-14T08:01:45-04:00
 Harrison,true,17,Buyer,false,https://share.collx.app/0YRRAH,collx://profiles/4305621,2026-03-18T13:47:10-04:00,2026-10-13T21:21:06-04:00
 Amber Sutton,true,1,Buyer,false,https://share.collx.app/user4305133,collx://profiles/4305133,2026-03-18T09:12:15-04:00,2026-10-09T11:40:30-04:00
 Justin ritchie,true,1,Buyer,false,https://share.collx.app/user4304855,collx://profiles/4304855,2026-03-18T02:25:22-04:00,2026-09-22T00:19:18-04:00
@@ -4529,7 +4528,7 @@ Whynotcollect,true,1,Seller,false,https://share.collx.app/whynotcollect,collx://
 Alex Kason,true,6,Seller,false,https://share.collx.app/user4271588,collx://profiles/4271588,2026-03-10T10:20:20-04:00,2026-10-09T05:04:51-04:00
 connor,true,3,Buyer,false,https://share.collx.app/connorxz,collx://profiles/4271438,2026-03-10T08:24:13-04:00,2026-10-02T23:44:34-04:00
 Evelio Rodriguez,true,6,Seller,false,https://share.collx.app/user4271309,collx://profiles/4271309,2026-03-10T04:27:12-04:00,2026-09-28T08:36:57-04:00
-CuléCollector,true,11,Buyer,false,https://share.collx.app/user4270893,collx://profiles/4270893,2026-03-09T23:40:11-04:00,2026-10-14T01:07:45-04:00
+CuléCollector,true,11,Buyer,false,https://share.collx.app/user4270893,collx://profiles/4270893,2026-03-09T23:40:11-04:00,2026-10-14T07:58:35-04:00
 Charlene Alejandro,true,23,Buyer,false,https://share.collx.app/josh4cards,collx://profiles/4270565,2026-03-09T22:19:56-04:00,2026-09-14T17:19:40-04:00
 Gerardo Rodriguez,false,2,Seller,true,https://share.collx.app/Gera2985,collx://profiles/4270325,2026-03-09T21:34:19-04:00,2026-09-26T11:38:21-04:00
 Robert Gable,true,1,Buyer,true,https://share.collx.app/user4270030,collx://profiles/4270030,2026-03-09T20:51:27-04:00,2026-10-12T09:06:42-04:00
@@ -4653,11 +4652,11 @@ Gio Ramirez,true,13,Buyer,false,https://share.collx.app/Giormrz414,collx://profi
 Dan Myers,true,15,Buyer,false,https://share.collx.app/user4201454,collx://profiles/4201454,2026-02-21T13:05:38-05:00,2026-10-09T12:45:37-04:00
 frank piccioni,true,3,Seller,true,https://share.collx.app/user4201114,collx://profiles/4201114,2026-02-21T11:59:41-05:00,2026-09-21T11:56:30-04:00
 steam roller,true,3,Buyer,true,https://share.collx.app/user4200394,collx://profiles/4200394,2026-02-21T08:44:32-05:00,2026-09-16T19:56:09-04:00
-Anthony Jackson,true,1,Buyer,false,https://share.collx.app/user4199454,collx://profiles/4199454,2026-02-20T21:48:40-05:00,2026-10-13T23:55:37-04:00
+Anthony Jackson,true,1,Buyer,false,https://share.collx.app/user4199454,collx://profiles/4199454,2026-02-20T21:48:40-05:00,2026-10-14T08:02:11-04:00
 Oliver Seibert,true,1,Seller,true,https://share.collx.app/Razerrr,collx://profiles/4197385,2026-02-20T14:27:48-05:00,2026-10-13T19:06:34-04:00
 Travis Pickering,true,4,Seller,true,https://share.collx.app/that1guy1130,collx://profiles/4197367,2026-02-20T14:22:18-05:00,2026-10-13T08:43:27-04:00
 FickleFinds,true,17,Buyer,false,https://share.collx.app/FickleFinds,collx://profiles/4196930,2026-02-20T11:39:47-05:00,2026-10-12T01:11:26-04:00
-Jamie Ward,true,1,Seller,false,https://share.collx.app/user4196923,collx://profiles/4196923,2026-02-20T11:35:23-05:00,2026-10-13T18:44:15-04:00
+Jamie Ward,true,1,Seller,false,https://share.collx.app/user4196923,collx://profiles/4196923,2026-02-20T11:35:23-05:00,2026-10-14T08:06:36-04:00
 Nicole Garcia,true,16,Buyer,false,https://share.collx.app/user4196844,collx://profiles/4196844,2026-02-20T10:59:53-05:00,2026-10-05T18:56:40-04:00
 HoldenMasterPokemon,true,4,Buyer,false,https://share.collx.app/HoldenMasterPokemon,collx://profiles/4195380,2026-02-19T20:35:00-05:00,2026-10-13T23:45:56-04:00
 $₱,true,1,Buyer,false,https://share.collx.app/sxp,collx://profiles/4195112,2026-02-19T19:41:45-05:00,2026-10-03T02:38:50-04:00
@@ -4721,7 +4720,7 @@ PokeBallers,true,136,Buyer,false,https://share.collx.app/PokeBallers,collx://pro
 Adam Jones,true,1,Seller,false,https://share.collx.app/WookieMonster,collx://profiles/4162741,2026-02-11T21:23:35-05:00,2026-10-11T02:34:38-04:00
 A S,true,30,Buyer,false,https://share.collx.app/user4162096,collx://profiles/4162096,2026-02-11T19:15:37-05:00,2026-10-10T13:50:42-04:00
 The Pull Yard,true,1,Buyer,false,https://share.collx.app/user4160232,collx://profiles/4160232,2026-02-11T10:20:21-05:00,2026-10-09T16:15:35-04:00
-Chris,true,379,Buyer,false,https://share.collx.app/Magale1975,collx://profiles/4159880,2026-02-11T04:19:50-05:00,2026-10-14T05:20:27-04:00
+Chris,true,379,Buyer,false,https://share.collx.app/Magale1975,collx://profiles/4159880,2026-02-11T04:19:50-05:00,2026-10-14T08:04:17-04:00
 Happydaze,true,4,Buyer,false,https://share.collx.app/HappydazeTradingCardz,collx://profiles/4159866,2026-02-11T03:49:55-05:00,2026-10-05T19:48:00-04:00
 Amanda Spitzer,true,19,Seller,false,https://share.collx.app/user4158762,collx://profiles/4158762,2026-02-10T20:28:50-05:00,2026-09-21T05:33:09-04:00
 Wayne Hazen,true,4,Buyer,false,https://share.collx.app/user4158085,collx://profiles/4158085,2026-02-10T17:58:14-05:00,2026-10-11T15:29:49-04:00
@@ -4905,7 +4904,7 @@ Jordan Jenkins,true,1,Buyer,false,https://share.collx.app/liketheriverjor,collx:
 Damien Carlos,true,2,Seller,true,https://share.collx.app/DC716v69,collx://profiles/4023234,2026-01-10T07:00:20-05:00,2026-10-11T04:44:47-04:00
 Carlos Fajardo,true,3,Seller,false,https://share.collx.app/user4023053,collx://profiles/4023053,2026-01-10T02:35:24-05:00,2026-09-30T19:55:24-04:00
 David Endliss,true,1,Buyer,false,https://share.collx.app/user4022947,collx://profiles/4022947,2026-01-10T01:25:54-05:00,2026-09-23T06:04:44-04:00
-Terry R Price,true,405,Buyer,false,https://share.collx.app/commongrunt,collx://profiles/4020863,2026-01-09T17:49:54-05:00,2026-10-14T05:22:05-04:00
+Terry R Price,true,405,Buyer,false,https://share.collx.app/commongrunt,collx://profiles/4020863,2026-01-09T17:49:54-05:00,2026-10-14T07:41:38-04:00
 815 Sports Cards,true,3,Buyer,true,https://share.collx.app/815SportsCards,collx://profiles/4018531,2026-01-08T23:28:13-05:00,2026-10-11T18:49:17-04:00
 Andrew Arnold,true,1,Buyer,false,https://share.collx.app/AlphaA4,collx://profiles/4017379,2026-01-08T19:25:40-05:00,2026-10-04T15:16:56-04:00
 Kathleen Wise,true,6,Buyer,false,https://share.collx.app/user4017344,collx://profiles/4017344,2026-01-08T19:19:56-05:00,2026-10-06T06:03:24-04:00
@@ -4975,7 +4974,7 @@ Ryan Moore,true,18,Buyer,false,https://share.collx.app/ryan5616,collx://profiles
 Zachary Goldberg,true,6,Seller,true,https://share.collx.app/HoyaZG,collx://profiles/3975851,2026-01-01T12:24:07-05:00,2026-09-14T15:20:37-04:00
 Scott Lemmer,true,12,Seller,false,https://share.collx.app/NotoriousBCL,collx://profiles/3975549,2026-01-01T11:24:37-05:00,2026-09-23T15:43:44-04:00
 Ricky Nanney,true,2,Buyer,false,https://share.collx.app/ShowMeCards573,collx://profiles/3975519,2026-01-01T11:17:45-05:00,2026-09-18T18:41:04-04:00
-Toploader Tank,true,22,Buyer,false,https://share.collx.app/vlang07,collx://profiles/3975370,2026-01-01T10:40:00-05:00,2026-10-13T23:08:45-04:00
+Toploader Tank,true,22,Buyer,false,https://share.collx.app/vlang07,collx://profiles/3975370,2026-01-01T10:40:00-05:00,2026-10-14T07:42:07-04:00
 Lucas Osborne,true,2,Buyer,true,https://share.collx.app/thewizofoz,collx://profiles/3973467,2025-12-31T19:51:32-05:00,2026-10-13T21:09:49-04:00
 Shawn Hager,true,4,Buyer,false,https://share.collx.app/user3970861,collx://profiles/3970861,2025-12-31T12:51:27-05:00,2026-10-12T23:37:48-04:00
 William Brady,true,2,Seller,false,https://share.collx.app/williambrady284746,collx://profiles/3970708,2025-12-31T12:22:53-05:00,2026-09-25T18:40:03-04:00
@@ -4999,3 +4998,4 @@ Blake,true,46,Buyer,false,https://share.collx.app/user3961143,collx://profiles/3
 Anthony Defina,true,6,Buyer,false,https://share.collx.app/Aquaf1na,collx://profiles/3960573,2025-12-29T16:22:44-05:00,2026-10-12T10:35:56-04:00
 Austin Bolt,true,7,Buyer,false,https://share.collx.app/Jstacollector,collx://profiles/3960120,2025-12-29T15:21:30-05:00,2026-10-13T16:03:53-04:00
 Samuel Whitt,true,1,Buyer,false,https://share.collx.app/SamWhitt27,collx://profiles/3959944,2025-12-29T14:56:57-05:00,2026-10-11T14:30:49-04:00
+Mark Davis,true,1,Seller,false,https://share.collx.app/user3958750,collx://profiles/3958750,2025-12-29T11:26:03-05:00,2026-10-11T22:42:26-04:00
