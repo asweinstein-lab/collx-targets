@@ -1,19 +1,26 @@
-30 cards [BACK +26 now] Send It |collx://profiles/3962971
-89 cards [NEW now] "Dickie" |collx://profiles/5072417
+347 cards [BACK +258 now] "Dickie" |collx://profiles/5072417
+16 cards [NEW now] Gavin Baxter |collx://profiles/5067744
+11 cards [NEW now] Ronald Roberts |collx://profiles/5004262
+1 cards [G NEW now] Justin Freedman |collx://profiles/5080089
+1 cards [G NEW now] Josh Rodriguez |collx://profiles/5078048
+1 cards [G NEW now] Johnny Hamby |collx://profiles/5011981
+2 cards [NEW now] Waylon |collx://profiles/4800509
+1 cards [NEW now] Peter Becerra |collx://profiles/5080349
+1 cards [NEW now] John Reynolds |collx://profiles/5064168
+2 cards [NEW NOADDR now] Don Didandeh |collx://profiles/5027115
+1 cards [NEW NOADDR now] Corry Judd |collx://profiles/5064194
+1 cards [NEW NOADDR now] Stephen Madonia |collx://profiles/4899867
+1 cards [NEW 24h] Tou Lor |collx://profiles/5034792
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 1 cards [G NEW now] Travis Skeens |collx://profiles/5066331
-4 cards [NEW now] Nathan Edwards |collx://profiles/5080845
 3 cards [NEW now] Quran Carroll |collx://profiles/5080921
-3 cards [NEW now] Aber Knobel |collx://profiles/5078250
 4 cards [G NEW NOADDR 13h] Jim Trosper |collx://profiles/5053382
 1 cards [NEW now] kayla nazelrod |collx://profiles/5077227
 1 cards [NEW now] 90s Topps And More |collx://profiles/5054930
 1 cards [NEW NOADDR 25d] Isaac Cooper |collx://profiles/5005339
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
-10 cards [NEW now] Justin Hill |collx://profiles/5080009
 145 cards [NEW 11d] Ryan Jackson |collx://profiles/5025037
 2 cards [NEW now] Chloe Ann Cassel |collx://profiles/5079152
 2 cards [NEW now] Xzavier Broche |collx://profiles/4896194
-2 cards [NEW now] Lathan Grisham |collx://profiles/5078523
 1 cards [NEW now] Justin Liverman |collx://profiles/5080811
 1 cards [NEW now] Henry Enamorado |collx://profiles/5080808
 20 cards [NEW 12h] Marty Willis |collx://profiles/5005937
@@ -60,7 +67,6 @@
 1 cards [NEW now] Jennifer De Alba |collx://profiles/5080358
 1 cards [NEW now] Dan Ferry |collx://profiles/5076671
 1 cards [NEW NOADDR now] Christopher Back |collx://profiles/5080376
-35 cards [BACK +32 now] Conny Brindley |collx://profiles/5070025
 19 cards [NEW now] Bryan Buckner |collx://profiles/4371982
 2 cards [+1 now] Cheyanne McPherson |collx://profiles/5004583
 4 cards [NEW now] Twisted888 |collx://profiles/5020935
@@ -71,7 +77,6 @@
 1 cards [NEW now] Dakota Guyette |collx://profiles/5075220
 1 cards [NEW now] Eirva Ch. Diamessis |collx://profiles/5080082
 1 cards [NEW now] Jonathan Faircloth |collx://profiles/4706042
-1 cards [NEW NOADDR now] Wesley Tunnell |collx://profiles/5078246
 108 cards [BACK +30 now] Kayla |collx://profiles/5066336
 41 cards [NEW now] Jorge Alvarez |collx://profiles/5063553
 7 cards [NEW now] Dylan Bishop |collx://profiles/5071072
@@ -121,7 +126,6 @@
 2 cards [NEW now] Nastycult |collx://profiles/5028069
 4 cards [NEW NOADDR now] Allison Hunter |collx://profiles/5059396
 1 cards [NEW now] Finley Sullivan |collx://profiles/4372571
-2 cards [NEW NOADDR now] Jason Facchine |collx://profiles/5078830
 17 cards [NEW now] AndrewHeather Gilmore |collx://profiles/5078431
 3 cards [G NEW now] Hayden Black |collx://profiles/5078731
 9 cards [NEW now] Miguel R |collx://profiles/4906800
@@ -263,7 +267,6 @@
 3 cards [NEW 6d] Hunter Johnson |collx://profiles/5053253
 2 cards [NEW 9d] Quint Solano |collx://profiles/4978763
 11 cards [G +8 now] Rich Wells |collx://profiles/4974263
-8 cards [NEW now] William Gibson |collx://profiles/5070201
 4 cards [NEW now] Darin Lokken |collx://profiles/5056410
 2 cards [NEW now] Brennon Johnson |collx://profiles/5075581
 10 cards [NEW now] Issue Dabandt |collx://profiles/4966106
@@ -392,7 +395,6 @@
 2 cards [G +1 now] Bryce Ridley |collx://profiles/4876456
 1 cards [NEW now] James Vallesteros |collx://profiles/4990730
 539 cards [BACK +478 now] I An Collectives |collx://profiles/5050873
-46 cards [BACK +44 11h] Crystle Jones |collx://profiles/4678873
 129 cards [BACK +93 9h] Michael Whitaker |collx://profiles/4911169
 57 cards [BACK +22 7h] Two Guy’s 1 Hobby |collx://profiles/4900946
 104 cards [+103 9h] Matt |collx://profiles/4305974
