@@ -1,6 +1,24 @@
-102 cards [BACK +93 now] Kathleen Strobel |collx://profiles/4983794
+80 cards [BACK +32 now] Hollie |collx://profiles/5043178
+127 cards [BACK +25 now] Kathleen Strobel |collx://profiles/4983794
+35 cards [NEW now] Max Auinlan |collx://profiles/5075165
+12 cards [NEW now] Carlos Polanco |collx://profiles/5081323
+12 cards [NEW NOADDR now] Nathan Bear |collx://profiles/5081513
+5 cards [NEW now] Christopher Binckley |collx://profiles/5058158
+5 cards [NEW now] Kandace |collx://profiles/5081467
+4 cards [NEW now] KellyJo Russell |collx://profiles/5081428
+190 cards [NEW 19d] Chris McAtamney (ChrisMack007) |collx://profiles/5013187
+1 cards [NEW now] Jared Kirstein |collx://profiles/5077184
+1 cards [NEW now] Giuseppe Scalera |collx://profiles/5081040
+1 cards [NEW now] Yucheng Fu |collx://profiles/4965919
+1 cards [NEW now] Milly Gray |collx://profiles/5020394
+3 cards [NEW NOADDR now] Nicholas Sellick |collx://profiles/4736424
+2 cards [NEW NOADDR now] PK |collx://profiles/4888086
+1 cards [NEW NOADDR now] Rabbit Collins |collx://profiles/4987141
+1 cards [NEW NOADDR now] Adan Perez |collx://profiles/5060294
+2 cards [NEW 2d] Matt Gronzo |collx://profiles/5037033
+1 cards [NEW 21d] Logan Morris |collx://profiles/4990139
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 80 cards [BACK +78 now] Luke Mooneyham |collx://profiles/4887466
-48 cards [BACK +23 now] Hollie |collx://profiles/5043178
 57 cards [NEW now] Ahmad Duplessis |collx://profiles/5000803
 35 cards [NEW now] Harrison Chan |collx://profiles/5081274
 4 cards [NEW now] Michael Bingham |collx://profiles/5081308
@@ -12,24 +30,18 @@
 1 cards [NEW now] Brian King |collx://profiles/4257083
 1 cards [NEW NOADDR now] Brian Houdek |collx://profiles/5073319
 1 cards [NEW NOADDR now] Maria Pevia |collx://profiles/5074879
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 20 cards [NEW now] Marianne Flanagan |collx://profiles/5003984
-13 cards [NEW now] MIKE |collx://profiles/4961237
 5 cards [NEW now] Sydney Gunter |collx://profiles/5080884
 4 cards [NEW now] Christina Bybee |collx://profiles/5081171
 3 cards [NEW now] Michael Shoemaker Sr |collx://profiles/5067432
 2 cards [NEW now] Tyler Disch |collx://profiles/4211876
 2 cards [NEW now] Jonathan Jones |collx://profiles/4951305
-1 cards [NEW now] Koolaid Kk |collx://profiles/5072123
 1 cards [NEW now] jack Sissen |collx://profiles/5022159
-1 cards [NEW now] Will P |collx://profiles/4841816
 1 cards [NEW now] Michael Wells |collx://profiles/4559529
 12 cards [NEW 135d] Joseph D'Elia |collx://profiles/4145557
 200 cards [BACK G +20 now] Bill Wetzelberger |collx://profiles/5057015
-69 cards [NEW now] GrimisGlob |collx://profiles/5081015
 32 cards [NEW now] Kylee Najanick |collx://profiles/4241023
 3 cards [G NEW now] Ezzy Money |collx://profiles/5080764
-4 cards [NEW now] Sebastian Herrera |collx://profiles/5080839
 4 cards [NEW NOADDR now] Domenic Kovatsi |collx://profiles/5035055
 1 cards [NEW now] Logan Kirch |collx://profiles/5080322
 1 cards [NEW now] Hunter Pope |collx://profiles/5076574
@@ -51,7 +63,6 @@
 1 cards [NEW now] 90s Topps And More |collx://profiles/5054930
 1 cards [NEW NOADDR 25d] Isaac Cooper |collx://profiles/5005339
 145 cards [NEW 11d] Ryan Jackson |collx://profiles/5025037
-2 cards [NEW now] Chloe Ann Cassel |collx://profiles/5079152
 2 cards [NEW now] Xzavier Broche |collx://profiles/4896194
 1 cards [NEW now] Justin Liverman |collx://profiles/5080811
 1 cards [NEW now] Henry Enamorado |collx://profiles/5080808
@@ -85,7 +96,6 @@
 1 cards [G NEW now] Abel But |collx://profiles/5080345
 2 cards [NEW now] Kevin Conklin |collx://profiles/5080434
 2 cards [NEW now] Aaron Rife |collx://profiles/4232399
-2 cards [NEW now] Sebastian StCyr |collx://profiles/5072805
 1 cards [NEW now] Kadyn Anderson |collx://profiles/4892421
 1 cards [NEW NOADDR now] Silver Dream Cards & Collectibles |collx://profiles/5049049
 35 cards [NEW now] Cole Harper |collx://profiles/5041613
@@ -104,7 +114,6 @@
 1 cards [NEW now] Dakota Guyette |collx://profiles/5075220
 1 cards [NEW now] Eirva Ch. Diamessis |collx://profiles/5080082
 1 cards [NEW now] Jonathan Faircloth |collx://profiles/4706042
-108 cards [BACK +30 now] Kayla |collx://profiles/5066336
 41 cards [NEW now] Jorge Alvarez |collx://profiles/5063553
 7 cards [NEW now] Dylan Bishop |collx://profiles/5071072
 1 cards [G NEW now] jared jones |collx://profiles/5073305
@@ -122,7 +131,6 @@
 1 cards [NEW now] Denilson Moreno |collx://profiles/4879237
 1 cards [NEW NOADDR now] Josh Schneider |collx://profiles/5075221
 1 cards [NEW NOADDR now] Alice Windsor |collx://profiles/5079066
-51 cards [+49 now] Tiffany Hunt |collx://profiles/5025631
 1 cards [G NEW now] Erik Gonzalez |collx://profiles/5077339
 1 cards [G NEW now] Oliver Seibert |collx://profiles/4197385
 2 cards [NEW now] Jeff Clark |collx://profiles/5079594
@@ -174,7 +182,6 @@
 1 cards [NEW now] Alex Naglak |collx://profiles/5044675
 1 cards [NEW now] Jordan Perry |collx://profiles/4614162
 1 cards [NEW now] Eric Jones |collx://profiles/4033350
-35 cards [BACK +26 now] Courtney Borror |collx://profiles/4932191
 19 cards [NEW now] Kaila Ward-Merritt |collx://profiles/4156143
 3 cards [+1 now] Colt Spivey |collx://profiles/4449631
 10 cards [NEW now] Rymel Jeter |collx://profiles/5073019
