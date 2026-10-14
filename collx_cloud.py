@@ -180,7 +180,8 @@ STYLE = (
  '*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}'
  'body{font-family:-apple-system,system-ui,sans-serif;margin:0;background:var(--bg);color:var(--tx)}'
  '.wrap{max-width:560px;margin:0 auto}'
- '.hdr{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding:10px 14px 0}'
+ '.hdr{position:sticky;top:0;z-index:5;background:rgba(18,26,36,.86);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);'
+ 'border-bottom:1px solid var(--line);padding:calc(10px + env(safe-area-inset-top,0)) 14px 0}'
  '.hrow{display:flex;align-items:baseline;justify-content:space-between;font-size:13px;color:var(--dim)}'
  '.hrow b{color:var(--tx);font-size:15px;font-weight:600}'
  '.hrow a{color:var(--act);text-decoration:none;font-size:13px}'
@@ -349,7 +350,7 @@ if True:  # page build block
         '<meta name="theme-color" content="#111111">'
     )
     page = (
-        '<!doctype html><meta name="viewport" content="width=device-width,initial-scale=1">'
+        '<!doctype html><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">'
         + pwa_tags + STYLE + refresh_js
         + '<body><div class="wrap">'
         + f'<div class="hdr"><div class="hrow"><span><b>CollX targets</b> · {ts} · {len(lines)} fresh · <span id="vt"></span></span>'
@@ -374,7 +375,7 @@ for _pid, _r in rnd.iterrows():
         continue
     rrows.append(row_html(_pid, _nm, int(_r["cards"]), '', 'RANDOM'))
 rpage = (
-    '<!doctype html><meta name="viewport" content="width=device-width,initial-scale=1">'
+    '<!doctype html><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">'
     + pwa_tags + STYLE + refresh_js
     + '<body><div class="wrap">'
     + f'<div class="hdr"><div class="hrow"><span><b>CollX random</b> · {ts} · {len(rrows)} never contacted</span>'
@@ -398,7 +399,7 @@ for _pid, _r in mv.iterrows():
     _t = 'now' if _h < 3 else (f"{_h:.0f}h" if _h < 48 else f"{_h/24:.0f}d")
     mrows.append(row_html(_pid, _nm, int(_r['cards']), f"+{int(_r['delta'])} {_t}", 'MOVER'))
 mpage = (
-    '<!doctype html><meta name="viewport" content="width=device-width,initial-scale=1">'
+    '<!doctype html><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">'
     + pwa_tags + STYLE + refresh_js
     + '<body><div class="wrap">'
     + f'<div class="hdr"><div class="hrow"><span><b>CollX movers</b> · {ts} · {len(mrows)} added cards since last pull</span>'
@@ -414,11 +415,17 @@ open(f"{HOME}/movers.html", "w").write(mpage)
 
 # STATS LOG: one line per run, kept to ~3 weeks
 import json as _json
+_items = []
+for _l in lines[:40]:
+    _m = re.match(r'^(\d+) cards \[(.*?)\] (.*?) \|collx://profiles/(\d+)$', _l)
+    if _m:
+        _items.append([_m.group(4), _m.group(3), int(_m.group(1)), _m.group(2)])
 _stat = {
     "t": datetime.datetime.now(__import__('zoneinfo').ZoneInfo('America/New_York')).strftime('%Y-%m-%d %H:%M'),
     "fresh": len(lines), "carry": len(carry), "movers": len(mrows),
     "pool": int(len(rnd_pool)), "served": len(excl),
     "new_signups": int(df['new_arrival'].sum()) if 'new_arrival' in df else 0,
+    "items": _items,
 }
 _hist = []
 try:
@@ -429,64 +436,161 @@ _hist.append(_stat)
 _hist = _hist[-500:]
 open(f"{HOME}/stats.jsonl", "w").write("\n".join(_json.dumps(x) for x in _hist) + "\n")
 
-# STATS PAGE
-def _bars(vals, w=330, h=70):
-    if not vals: return ''
-    mx = max(max(vals), 1)
-    bw = w / len(vals)
-    parts = []
-    for i, v in enumerate(vals):
-        bh = max(2, v / mx * (h - 14))
-        parts.append(f'<rect x="{i*bw+1:.1f}" y="{h-bh:.1f}" width="{bw-2:.1f}" height="{bh:.1f}" rx="2" fill="var(--act)" opacity="{0.45 + 0.55*v/mx:.2f}"/>')
-    return f'<svg viewBox="0 0 {w} {h}" style="width:100%;height:auto">' + ''.join(parts) + '</svg>'
-
+# STATS PAGE (interactive)
 _last24 = _hist[-24:]
 _today = _stat["t"][:10]
 _fresh_today = sum(x["fresh"] for x in _hist if x["t"][:10] == _today)
 _signups_today = sum(x.get("new_signups", 0) for x in _hist if x["t"][:10] == _today)
-# daily fresh totals, last 7 days
 _days = {}
 for x in _hist:
     _days.setdefault(x["t"][:10], 0)
     _days[x["t"][:10]] += x["fresh"]
-_day_rows = ''.join(
-    f'<div class="srow"><span>{d[5:]}</span><b>{n}</b></div>'
-    for d, n in sorted(_days.items())[-7:])
+_day_list = sorted(_days.items())[-7:]
 
-def _card(label, val, sub=''):
-    return (f'<div class="scard"><div class="sv">{val}</div><div class="sl">{label}</div>'
-            + (f'<div class="ss">{sub}</div>' if sub else '') + '</div>')
+# drill datasets
+_seen_today, _today_items = set(), []
+for x in _hist:
+    if x["t"][:10] == _today:
+        for it in x.get("items", []):
+            if it[0] not in _seen_today:
+                _seen_today.add(it[0]); _today_items.append(it)
+_today_items = _today_items[::-1][:80]
 
+_mv_items = []
+for _pid, _r in mv.head(60).iterrows():
+    _nm = ' '.join(str(_r['Name']).split())
+    if _nm: _mv_items.append([str(_pid), _nm, int(_r['cards']), f"+{int(_r['delta'])}"])
+
+_pool_top = []
+for _pid, _r in rnd_pool.sort_values('cards', ascending=False).head(50).iterrows():
+    _nm = ' '.join(str(_r['Name']).split())
+    if _nm: _pool_top.append([str(_pid), _nm, int(_r['cards']), ''])
+
+_carry_items = []
+for _l in carry[:60]:
+    _m = re.match(r'^(\d+) cards \[(.*?)\] (.*?) \|collx://profiles/(\d+)$', _l)
+    if _m and _m.group(4) != '0':
+        _carry_items.append([_m.group(4), _m.group(3), int(_m.group(1)), _m.group(2)])
+
+_served_series = [x["served"] for x in _hist[-48:]]
+_drill = {
+  "freshtoday": {"title": f"Fresh served today — {_fresh_today}", "rows": _today_items},
+  "signups": {"title": f"New signups today — {_signups_today}", "rows": _today_items},
+  "movers": {"title": f"Movers right now — {len(_mv_items)}", "rows": _mv_items},
+  "pool": {"title": f"Never contacted — biggest collections", "rows": _pool_top},
+  "served": {"title": "Served all-time — last 48 pulls", "series": _served_series},
+  "carry": {"title": f"Carry-overs — {len(carry)}", "rows": _carry_items},
+  "runs": [[x["t"], x["fresh"], x.get("new_signups", 0)] for x in _last24],
+}
+
+def _bars(vals, w=330, h=84):
+    if not vals: return '<div style="color:var(--dim);font-size:13px;padding:6px 0">no runs yet</div>'
+    mx = max(max(vals), 1)
+    bw = w / len(vals)
+    parts = []
+    for i, v in enumerate(vals):
+        bh = max(3, v / mx * (h - 20))
+        parts.append(
+            f'<g class="bar" data-i="{i}"><rect x="{i*bw+1.5:.1f}" y="0" width="{bw-3:.1f}" height="{h}" fill="transparent"/>'
+            f'<rect x="{i*bw+1.5:.1f}" y="{h-bh-14:.1f}" width="{bw-3:.1f}" height="{bh:.1f}" rx="3" fill="var(--act)" opacity="{0.4 + 0.6*v/mx:.2f}"/></g>')
+    return (f'<svg id="runchart" viewBox="0 0 {w} {h}" style="width:100%;height:auto">'
+            + ''.join(parts) + f'<text id="barlab" x="4" y="{h-2}" fill="var(--dim)" font-size="10"></text></svg>')
+
+def _card(key, label, val, sub=''):
+    return (f'<div class="scard" data-d="{key}"><div class="sv">{val}</div><div class="sl">{label}</div>'
+            + (f'<div class="ss">{sub}</div>' if sub else '') + '<div class="chv">›</div></div>')
+
+import json as _j2
 _spage = (
-    '<!doctype html><meta name="viewport" content="width=device-width,initial-scale=1">'
+    '<!doctype html><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">'
     + pwa_tags + STYLE
-    + '<style>.sgrid{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:14px}'
-    + '.scard{background:#1A2430;border:1px solid var(--line);border-radius:12px;padding:14px}'
+    + '<style>'
+    + '.sgrid{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:14px}'
+    + '.scard{position:relative;background:#1A2430;border:1px solid var(--line);border-radius:14px;padding:14px;transition:transform .06s}'
+    + '.scard:active{transform:scale(.97);background:#20304-0}'
     + '.sv{font-size:26px;font-weight:700;font-variant-numeric:tabular-nums}'
     + '.sl{font-size:12px;color:var(--dim);margin-top:2px}'
     + '.ss{font-size:11px;color:var(--dim);margin-top:4px}'
+    + '.chv{position:absolute;top:12px;right:12px;color:var(--dim);font-size:16px}'
     + '.sect{padding:4px 14px 2px;font-size:13px;font-weight:600;color:var(--dim)}'
     + '.chartbox{padding:6px 14px 14px}'
     + '.srow{display:flex;justify-content:space-between;padding:8px 14px;border-bottom:1px solid var(--line);font-size:14px}'
-    + '.srow b{font-variant-numeric:tabular-nums}</style>'
+    + '.srow b{font-variant-numeric:tabular-nums}'
+    + '.ovl{position:fixed;inset:0;background:rgba(0,0,0,.45);opacity:0;pointer-events:none;transition:opacity .18s;z-index:20}'
+    + '.sheet{position:fixed;left:0;right:0;bottom:0;max-height:75vh;background:#17202B;border-radius:18px 18px 0 0;'
+    + 'transform:translateY(102%);transition:transform .22s;z-index:21;display:flex;flex-direction:column;'
+    + 'padding-bottom:env(safe-area-inset-bottom,0)}'
+    + '.sheet.open{transform:translateY(0)}'
+    + '.ovl.open{opacity:1;pointer-events:auto}'
+    + '.sh-h{padding:14px 16px 10px;font-weight:700;font-size:15px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between}'
+    + '.sh-x{color:var(--dim);font-size:20px;line-height:1}'
+    + '.sh-b{overflow-y:auto}'
+    + '.grab{width:36px;height:4px;background:#2A3B4E;border-radius:2px;margin:8px auto 0}'
+    + '</style>'
     + '<body><div class="wrap">'
     + f'<div class="hdr"><div class="hrow"><span><b>CollX stats</b> · {ts}</span>'
     + '<a href="javascript:location.replace(location.pathname+\'?t=\'+Date.now())">refresh</a></div>'
     + '<div class="tabs"><a href="index.html">Fresh</a><a href="movers.html">Movers</a><a href="random.html">Random</a><a class="on" href="stats.html">Stats</a></div>'
     + '</div>'
     + '<div class="sgrid">'
-    + _card('fresh served today', _fresh_today)
-    + _card('new signups today', _signups_today)
-    + _card('movers right now', len(mrows))
-    + _card('never contacted', f'{len(rnd_pool):,}')
-    + _card('served all-time', f'{len(excl):,}')
-    + _card('carry-overs', len(carry))
+    + _card('freshtoday', 'fresh served today', _fresh_today)
+    + _card('signups', 'new signups today', _signups_today)
+    + _card('movers', 'movers right now', len(_mv_items))
+    + _card('pool', 'never contacted', f'{len(rnd_pool):,}')
+    + _card('served', 'served all-time', f'{len(excl):,}')
+    + _card('carry', 'carry-overs', len(carry))
     + '</div>'
-    + '<div class="sect">Fresh per run — last 24 pulls</div>'
+    + '<div class="sect">Fresh per run — last 24 pulls · tap bars</div>'
     + f'<div class="chartbox">{_bars([x["fresh"] for x in _last24])}</div>'
     + '<div class="sect">Fresh per day</div>'
-    + _day_rows
-    + '</div></body>')
+    + ''.join(f'<div class="srow"><span>{d[5:]}</span><b>{n}</b></div>' for d, n in _day_list)
+    + '</div>'
+    + '<div class="ovl" id="ovl"></div>'
+    + '<div class="sheet" id="sheet"><div class="grab"></div>'
+    + '<div class="sh-h"><span id="sh-t"></span><span class="sh-x" id="sh-x">✕</span></div>'
+    + '<div class="sh-b" id="sh-b"></div></div>'
+    + '<script type="application/json" id="D">' + _j2.dumps(_drill) + '</script>'
+    + """<script>
+(function(){
+var D=JSON.parse(document.getElementById('D').textContent);
+var sheet=document.getElementById('sheet'),ovl=document.getElementById('ovl');
+function rowHtml(r){
+ return '<a class="row" href="collx://profiles/'+r[0]+'">'
+  +'<span class="ct"><b>'+r[2]+'</b><i>cards</i></span>'
+  +'<span class="main"><span class="nm">'+r[1]+'</span>'
+  +'<span class="meta"><span>'+(r[3]||'')+'</span></span></span></a>';
+}
+function sparkline(series){
+ if(!series||!series.length)return '';
+ var w=330,h=80,mn=Math.min.apply(null,series),mx=Math.max.apply(null,series);
+ var pts=series.map(function(v,i){
+  var x=i/(series.length-1)*w, y=h-6-((v-mn)/Math.max(mx-mn,1))*(h-16);
+  return x.toFixed(1)+','+y.toFixed(1)}).join(' ');
+ return '<div style="padding:14px"><svg viewBox="0 0 '+w+' '+h+'" style="width:100%">'
+  +'<polyline points="'+pts+'" fill="none" stroke="var(--act)" stroke-width="2.5" stroke-linejoin="round"/></svg>'
+  +'<div style="color:var(--dim);font-size:12px">'+mn.toLocaleString()+' → '+mx.toLocaleString()+'</div></div>';
+}
+function open(key){
+ var d=D[key]; if(!d)return;
+ document.getElementById('sh-t').textContent=d.title;
+ var b=document.getElementById('sh-b');
+ if(d.rows)b.innerHTML=d.rows.length?d.rows.map(rowHtml).join(''):'<div style="padding:18px;color:var(--dim)">nothing here right now</div>';
+ else if(d.series)b.innerHTML=sparkline(d.series);
+ sheet.classList.add('open');ovl.classList.add('open');
+}
+function close(){sheet.classList.remove('open');ovl.classList.remove('open');}
+document.querySelectorAll('.scard').forEach(function(c){c.addEventListener('click',function(){open(c.dataset.d)})});
+ovl.addEventListener('click',close);
+document.getElementById('sh-x').addEventListener('click',close);
+var runs=D.runs||[];
+document.querySelectorAll('#runchart .bar').forEach(function(g){
+ g.addEventListener('click',function(){
+  var r=runs[+g.dataset.i];if(!r)return;
+  document.getElementById('barlab').textContent=r[0].slice(5)+' — '+r[1]+' fresh, '+r[2]+' signups';
+ });
+});
+})();
+</script></body>""")
 open(f"{HOME}/stats.html", "w").write(_spage)
 
 open(f"{HOME}/random.html", "w").write(rpage)
