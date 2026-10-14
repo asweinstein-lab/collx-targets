@@ -1,6 +1,10 @@
-2 cards [NEW 119d] Chris Donnelly |collx://profiles/4041506
+20 cards [NEW 12h] Marty Willis |collx://profiles/5005937
+8 cards [NEW now] Megan |collx://profiles/5074062
+8 cards [NEW now] Scott Peek |collx://profiles/4753691
+1 cards [G NEW now] Jack Frischman |collx://profiles/5079317
+4 cards [NEW now] Brayden Mossman |collx://profiles/5026409
+1 cards [NEW now] Brian Carey |collx://profiles/5080751
 0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
-50 cards [NEW now] Raymond Love |collx://profiles/5080741
 17 cards [NEW now] Hunter |collx://profiles/5065866
 2 cards [+1 now] Alexander Lee |collx://profiles/4884152
 2 cards [G NEW now] Owen Sadler |collx://profiles/4929137
@@ -32,7 +36,6 @@
 71 cards [NEW now] Jason Connor |collx://profiles/5028007
 3 cards [+2 now] Demetric Helton |collx://profiles/4547954
 11 cards [NEW now] CuléCollector |collx://profiles/4270893
-7 cards [NEW now] Jon Chaney |collx://profiles/5026778
 1 cards [G NEW now] Abel But |collx://profiles/5080345
 5 cards [NEW now] Vincent Florio |collx://profiles/5080413
 2 cards [NEW now] Kevin Conklin |collx://profiles/5080434
