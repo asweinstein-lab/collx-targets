@@ -1,32 +1,38 @@
+308 cards [BACK +128 now] Benny Yinzer |collx://profiles/5044709
+71 cards [NEW now] Jason Connor |collx://profiles/5028007
+3 cards [+2 now] Demetric Helton |collx://profiles/4547954
+11 cards [NEW now] CuléCollector |collx://profiles/4270893
+7 cards [NEW now] Jon Chaney |collx://profiles/5026778
+1 cards [G NEW now] Abel But |collx://profiles/5080345
+5 cards [NEW now] Vincent Florio |collx://profiles/5080413
+2 cards [NEW now] Kevin Conklin |collx://profiles/5080434
+2 cards [NEW now] Aaron Rife |collx://profiles/4232399
+2 cards [NEW now] Jeremiah Miller |collx://profiles/5080096
+2 cards [NEW now] Sebastian StCyr |collx://profiles/5072805
+1 cards [NEW now] Derick Corley |collx://profiles/5046926
+1 cards [NEW now] Kadyn Anderson |collx://profiles/4892421
+1 cards [NEW now] Nate McCoy |collx://profiles/4956216
+1 cards [NEW NOADDR now] Silver Dream Cards & Collectibles |collx://profiles/5049049
+1 cards [NEW 30d] Byrd Elwell |collx://profiles/4988777
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 443 cards [BACK +442 now] Sugarfree Collectibles |collx://profiles/4069936
-180 cards [BACK +102 now] Benny Yinzer |collx://profiles/5044709
-49 cards [NEW now] Chance Hewett |collx://profiles/5080125
 35 cards [NEW now] Cole Harper |collx://profiles/5041613
 16 cards [NEW now] Maceo Lewis |collx://profiles/4886800
-3 cards [+1 now] Seth Harris |collx://profiles/4970629
-3 cards [G NEW now] Tss outplayz |collx://profiles/5080313
 6 cards [NEW now] Therese Perri |collx://profiles/4631809
 1 cards [G NEW now] Adrian Flores |collx://profiles/5075215
-1 cards [G NEW now] Dont Bemad |collx://profiles/5080354
 1 cards [NEW now] Jennifer De Alba |collx://profiles/5080358
 1 cards [NEW now] Dan Ferry |collx://profiles/5076671
 1 cards [NEW NOADDR now] Christopher Back |collx://profiles/5080376
-1 cards [NEW NOADDR now] Daniel Cruz |collx://profiles/5063241
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 70 cards [BACK +63 now] Christopher Grady |collx://profiles/5045260
 35 cards [BACK +32 now] Conny Brindley |collx://profiles/5070025
 19 cards [NEW now] Bryan Buckner |collx://profiles/4371982
 2 cards [+1 now] Cheyanne McPherson |collx://profiles/5004583
 4 cards [NEW now] Twisted888 |collx://profiles/5020935
 3 cards [NEW now] nick herrington |collx://profiles/5032181
-2 cards [NEW now] Rene Alvidrez |collx://profiles/5061710
 2 cards [NEW now] Makayla Ozburn |collx://profiles/4234488
 2 cards [NEW now] Chase Collins |collx://profiles/4938301
 1 cards [NEW now] Daniel Puteri |collx://profiles/5079876
 1 cards [NEW now] Dakota Guyette |collx://profiles/5075220
-1 cards [NEW now] Luke Barton |collx://profiles/5077289
-1 cards [NEW now] Montana Darnell |collx://profiles/5077746
-1 cards [NEW now] 4theartist |collx://profiles/5080102
 1 cards [NEW now] Eirva Ch. Diamessis |collx://profiles/5080082
 1 cards [NEW now] Jonathan Faircloth |collx://profiles/4706042
 1 cards [NEW NOADDR now] Wesley Tunnell |collx://profiles/5078246
@@ -39,7 +45,6 @@
 1 cards [NEW now] Zak Stout |collx://profiles/5065001
 1 cards [NEW NOADDR now] M . C |collx://profiles/5072817
 1 cards [NEW 5d] Mac Harris |collx://profiles/4894413
-27 cards [NEW now] David mandujano |collx://profiles/5038308
 9 cards [NEW now] Nicholas Willard |collx://profiles/4846065
 7 cards [NEW now] Portwood36 |collx://profiles/5068297
 3 cards [NEW now] Jake Perkins |collx://profiles/5075297
@@ -86,10 +91,8 @@
 2 cards [NEW now] Cardz |collx://profiles/4375173
 2 cards [NEW now] Nastycult |collx://profiles/5028069
 4 cards [NEW NOADDR now] Allison Hunter |collx://profiles/5059396
-1 cards [NEW now] Phil Spoljaric |collx://profiles/4933099
 1 cards [NEW now] Finley Sullivan |collx://profiles/4372571
 2 cards [NEW NOADDR now] Jason Facchine |collx://profiles/5078830
-81 cards [BACK +33 now] David Gerstel |collx://profiles/4476130
 17 cards [NEW now] AndrewHeather Gilmore |collx://profiles/5078431
 3 cards [G NEW now] Hayden Black |collx://profiles/5078731
 9 cards [NEW now] Miguel R |collx://profiles/4906800
@@ -208,11 +211,9 @@
 50 cards [BACK +17 now] Marcelo Luc |collx://profiles/4644041
 83 cards [NEW now] Cesar Silva |collx://profiles/4860024
 16 cards [NEW now] Kila Thomas |collx://profiles/5076364
-3 cards [G NEW now] Joseph Bilshausen |collx://profiles/4916904
 2 cards [NEW now] Aaron Thompson |collx://profiles/5074912
 2 cards [NEW now] jose soliz |collx://profiles/5050068
 2 cards [NEW now] Eric Weitzel |collx://profiles/5068942
-1 cards [NEW now] Max Whitworth |collx://profiles/4927652
 1 cards [NEW now] Lazarus Shea |collx://profiles/5044267
 2 cards [NEW 2d] K.j. Bickham |collx://profiles/4939122
 1 cards [NEW now] MOTIVATION NATION |collx://profiles/5076184
