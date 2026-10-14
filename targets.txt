@@ -1,6 +1,10 @@
+76 cards [BACK +23 now] julie jenkins |collx://profiles/5073594
+1 cards [NEW now] Arturo Maldonado |collx://profiles/5080710
+1 cards [NEW now] Terry Aguilar |collx://profiles/4472768
+2 cards [NEW NOADDR now] Brian Wallenrod |collx://profiles/5042735
+1 cards [NEW NOADDR now] CallMeZ3US |collx://profiles/5063168
 0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 10 cards [NEW now] Janno |collx://profiles/4694810
-9 cards [NEW now] Skylar Smith |collx://profiles/5077673
 1 cards [G NEW now] Christopher Liverett |collx://profiles/5080640
 4 cards [NEW now] grant pope |collx://profiles/5080456
 1 cards [NEW now] Brian Summers |collx://profiles/5080583
@@ -228,7 +232,6 @@
 1 cards [NEW now] MOTIVATION NATION |collx://profiles/5076184
 1 cards [NEW now] Glenn George |collx://profiles/5076196
 1 cards [NEW now] Matthew Owens |collx://profiles/4698815
-1 cards [NEW now] DecayingZombie |collx://profiles/4582903
 100 cards [BACK +20 now] Ivory Hilton |collx://profiles/5062976
 3 cards [+2 now] Emiliano Garcia |collx://profiles/4835860
 3 cards [G NEW now] William Tyker |collx://profiles/5076073
@@ -326,7 +329,6 @@
 1 cards [G NEW now] Eric Moreno |collx://profiles/5053850
 4 cards [NEW now] Shaun Gouner |collx://profiles/4788864
 7 cards [NEW NOADDR now] Chris Bailey |collx://profiles/4117360
-7 cards [NEW NOADDR now] julie jenkins |collx://profiles/5073594
 2 cards [NEW now] Kristina Bechtel |collx://profiles/5063349
 2 cards [NEW now] Gaven Mize |collx://profiles/4954522
 1 cards [NEW now] Cesar Bulux |collx://profiles/5067647
