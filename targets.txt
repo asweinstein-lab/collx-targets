@@ -1,9 +1,15 @@
-7 cards [NEW now] Nick Matarazzo |collx://profiles/5082538
+29 cards [BACK +22 now] Nick Matarazzo |collx://profiles/5082538
+27 cards [BACK +21 now] Jonathan Moore |collx://profiles/5065036
+20 cards [BACK +19 now] Rachelle Santora |collx://profiles/4636183
+15 cards [G NEW now] Mira Barnes |collx://profiles/4856348
+7 cards [NEW now] Nate Thomas |collx://profiles/4871978
+1 cards [G NEW now] Scott B |collx://profiles/4233442
+2 cards [NEW now] Keizer |collx://profiles/5015472
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 5 cards [NEW now] Timothy Watson |collx://profiles/5061302
 2 cards [NEW now] Shripal Khajuria |collx://profiles/4931254
 2 cards [NEW now] Skollectz |collx://profiles/4750685
 1 cards [NEW now] Jack Davis |collx://profiles/5011419
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 60 cards [BACK +24 now] Adam Petty |collx://profiles/5015404
 8 cards [NEW 28d] Charles Lee |collx://profiles/4989692
 19 cards [NEW now] Nathan Barbosa |collx://profiles/5082028
@@ -23,11 +29,9 @@
 1 cards [NEW now] Nataly Elizabethh |collx://profiles/5083304
 1 cards [NEW now] CardGuy |collx://profiles/5083279
 152 cards [BACK +72 now] Madison McClure |collx://profiles/5076025
-2 cards [G NEW now] Chadwick Groat |collx://profiles/5082910
 2 cards [G NEW now] Adeev Getzel |collx://profiles/4737765
 1 cards [G NEW now] Darian Cantey |collx://profiles/5040280
 2 cards [NEW now] Gracyn Poulos |collx://profiles/4907665
-2 cards [NEW now] Jonathan Moore |collx://profiles/5065036
 1 cards [NEW now] Cesar Barajas |collx://profiles/5069499
 1 cards [NEW 25d] Miles S |collx://profiles/5006217
 21 cards [BACK +18 now] Joseph Bernard |collx://profiles/5083016
@@ -36,7 +40,6 @@
 2 cards [NEW now] Brian Shue |collx://profiles/4190300
 2 cards [NEW now] Josh Bernero |collx://profiles/4914964
 2 cards [NEW now] Graham |collx://profiles/4698948
-1 cards [NEW now] Stephen Scurti |collx://profiles/5080505
 1 cards [NEW now] Nick Sullivan |collx://profiles/4933347
 1 cards [NEW now] Kevin |collx://profiles/5067181
 1 cards [NEW NOADDR now] Javier Molina |collx://profiles/5080394
@@ -549,7 +552,6 @@
 3 cards [NEW now] Felicia Decker |collx://profiles/4857552
 3 cards [NEW now] Zac |collx://profiles/5006054
 3 cards [NEW 6h] Salvador Chavarria |collx://profiles/5061288
-11 cards [NEW 12h] Marshall Mahan |collx://profiles/5038585
 2 cards [NEW now] David Groover |collx://profiles/5003515
 2 cards [NEW 5h] Elijah doll |collx://profiles/4515553
 2 cards [NEW 4h] David Minervini |collx://profiles/5053713
