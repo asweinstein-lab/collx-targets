@@ -1,12 +1,24 @@
-64 cards [BACK +36 now] Trevor Rosensteel |collx://profiles/4542907
-177 cards [BACK +48 now] Michael Whitaker |collx://profiles/4911169
+122 cards [BACK +58 now] Trevor Rosensteel |collx://profiles/4542907
+94 cards [BACK +16 now] reilly |collx://profiles/5051244
+199 cards [BACK +22 now] Michael Whitaker |collx://profiles/4911169
+28 cards [BACK +18 now] A.J. Whitt |collx://profiles/4940564
+22 cards [NEW now] Kierstyn Gordon |collx://profiles/5082342
+21 cards [NEW now] Andrew Lewis |collx://profiles/5072827
+3 cards [+1 now] DaHeatVault |collx://profiles/4894573
+5 cards [G NEW now] Lucas Montano |collx://profiles/5082448
+6 cards [NEW now] Joseph |collx://profiles/4957692
+11 cards [NEW NOADDR now] Seth Wilhelmsen |collx://profiles/5081212
+4 cards [NEW now] Taylor Hamilton |collx://profiles/5082479
+2 cards [NEW now] Jeffery Hall (LANGHO) |collx://profiles/5056068
+1 cards [NEW now] Tyler Neth |collx://profiles/5076423
+1 cards [NEW now] Christopher Goodlett |collx://profiles/5073855
+1 cards [NEW NOADDR now] Anthony Clayton |collx://profiles/5082378
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 197 cards [BACK +16 now] Mike Cahill |collx://profiles/5052987
 50 cards [NEW now] James White |collx://profiles/5057964
 5 cards [G NEW now] Devin A |collx://profiles/4692831
 14 cards [NEW now] Spencer Christensen |collx://profiles/5036059
-3 cards [G NEW now] DailyCollects |collx://profiles/5079217
 12 cards [NEW now] Jeffery Perkins |collx://profiles/5012201
-10 cards [NEW now] A.J. Whitt |collx://profiles/4940564
 2 cards [G NEW now] LowEnd2HighEnd |collx://profiles/5077604
 9 cards [NEW now] Reagan Ross |collx://profiles/4116830
 8 cards [NEW now] Connor McCarthy |collx://profiles/5082044
@@ -19,7 +31,6 @@
 1 cards [NEW now] Bell Muss |collx://profiles/5082255
 1 cards [NEW now] Adam Krumenauer |collx://profiles/5057956
 1 cards [NEW now] Jj Pardo |collx://profiles/5026972
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 110 cards [BACK +74 now] Michael Brophy |collx://profiles/5050343
 84 cards [BACK +60 now] FickleFinds |collx://profiles/4196930
 183 cards [BACK +51 now] Cormac Johnson |collx://profiles/5062782
@@ -30,7 +41,6 @@
 5 cards [NEW now] Justin Carter |collx://profiles/4933986
 3 cards [NEW now] Jonathan Martin |collx://profiles/5076126
 3 cards [NEW now] Xavier Swieczkowski |collx://profiles/4987497
-2 cards [NEW now] Adri's Biscuit Tin |collx://profiles/5081423
 1 cards [NEW now] Jordan Ferreira |collx://profiles/5081458
 1 cards [NEW now] Samuel Liu |collx://profiles/5080526
 1 cards [NEW now] LeMoyne Jackson |collx://profiles/5052553
@@ -276,7 +286,6 @@
 1 cards [NEW now] Nader Chtay |collx://profiles/5077517
 1 cards [NEW now] Erin Peryer |collx://profiles/4730950
 1 cards [G NEW 36h] ET_SportsCards13 |collx://profiles/4723119
-25 cards [BACK +21 2d] Micah Hamiter |collx://profiles/5020537
 2 cards [+1 22h] Caney Bay Collectibles |collx://profiles/4961493
 3 cards [NEW now] Joe Class |collx://profiles/5000606
 2 cards [NEW now] Rob Mercer |collx://profiles/5013966
@@ -452,7 +461,6 @@
 2 cards [NEW now] John Shafer |collx://profiles/5068689
 1 cards [NEW now] David Resnick |collx://profiles/4958101
 1 cards [NEW now] Rey Rubio |collx://profiles/4398671
-7 cards [NEW now] Jake Cillo |collx://profiles/5070358
 5 cards [NEW now] brett haack |collx://profiles/4877641
 2 cards [NEW now] Thomas |collx://profiles/5057617
 22 cards [NEW NOADDR now] casey theresa |collx://profiles/4472638
