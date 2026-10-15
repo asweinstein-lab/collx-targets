@@ -1,6 +1,12 @@
+100 cards [BACK +65 now] Cody |collx://profiles/5041155
+26 cards [NEW now] Meghan Burrola |collx://profiles/5083282
+26 cards [NEW now] Dan WalkOffWins |collx://profiles/5042368
+3 cards [NEW now] John |collx://profiles/4704633
+1 cards [NEW now] Nataly Elizabethh |collx://profiles/5083304
+1 cards [NEW now] CardGuy |collx://profiles/5083279
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 174 cards [BACK +173 now] Jordan Ferreira |collx://profiles/5081458
 152 cards [BACK +72 now] Madison McClure |collx://profiles/5076025
-35 cards [NEW now] Cody |collx://profiles/5041155
 10 cards [NEW now] Clover Cards |collx://profiles/5056003
 2 cards [G NEW now] Chadwick Groat |collx://profiles/5082910
 2 cards [G NEW now] Adeev Getzel |collx://profiles/4737765
@@ -11,7 +17,6 @@
 1 cards [NEW now] Ryan DIMAGGIO |collx://profiles/5083220
 1 cards [NEW now] Cesar Barajas |collx://profiles/5069499
 1 cards [NEW 25d] Miles S |collx://profiles/5006217
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 21 cards [BACK +18 now] Joseph Bernard |collx://profiles/5083016
 1 cards [G NEW now] Christopher Escalante |collx://profiles/5082966
 3 cards [NEW now] Joshua Fedele |collx://profiles/5047633
@@ -112,7 +117,6 @@
 1 cards [NEW now] Jared Kirstein |collx://profiles/5077184
 1 cards [NEW now] Yucheng Fu |collx://profiles/4965919
 1 cards [NEW now] Milly Gray |collx://profiles/5020394
-3 cards [NEW NOADDR now] Nicholas Sellick |collx://profiles/4736424
 2 cards [NEW NOADDR now] PK |collx://profiles/4888086
 1 cards [NEW NOADDR now] Rabbit Collins |collx://profiles/4987141
 1 cards [NEW NOADDR now] Adan Perez |collx://profiles/5060294
@@ -578,7 +582,6 @@
 1 cards [NEW now] Phil Movaghar |collx://profiles/5055905
 1 cards [NEW 11h] Caleb Proehl |collx://profiles/5050884
 1 cards [NEW 10h] Hunter |collx://profiles/5045990
-1 cards [NEW 4h] Tony Peal |collx://profiles/5051532
 1 cards [NEW now] Jayson Billitz |collx://profiles/5052374
 1 cards [NEW now] Richard |collx://profiles/4975780
 1 cards [NEW 8h] Jake Dobbs |collx://profiles/4893795
