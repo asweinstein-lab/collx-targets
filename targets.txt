@@ -1,15 +1,15 @@
-106 cards [BACK +25 now] Dan WalkOffWins |collx://profiles/5042368
+60 cards [BACK +24 now] Adam Petty |collx://profiles/5015404
+1 cards [NEW now] Reef |collx://profiles/5082752
+8 cards [NEW 28d] Charles Lee |collx://profiles/4989692
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 19 cards [NEW now] Nathan Barbosa |collx://profiles/5082028
 5 cards [G NEW now] Bradd |collx://profiles/4756321
 3 cards [NEW now] Kayla Swift |collx://profiles/5076614
 2 cards [NEW now] Akay Symuongsong |collx://profiles/5083364
 1 cards [NEW now] Caleb Bingham |collx://profiles/4519920
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 110 cards [BACK G +57 now] Arrthurr |collx://profiles/5076827
-50 cards [NEW now] Connor |collx://profiles/5063920
 2 cards [G NEW now] Khang Tran |collx://profiles/5083331
 1 cards [G NEW now] Sebastian Lisanti |collx://profiles/5069963
-4 cards [NEW now] Brett Begley |collx://profiles/5083322
 1 cards [NEW now] Tony Erchull |collx://profiles/4800478
 128 cards [BACK +28 now] Cody |collx://profiles/5041155
 4 cards [NEW now] Jacoby |collx://profiles/4972542
@@ -19,7 +19,6 @@
 1 cards [NEW now] Nataly Elizabethh |collx://profiles/5083304
 1 cards [NEW now] CardGuy |collx://profiles/5083279
 152 cards [BACK +72 now] Madison McClure |collx://profiles/5076025
-10 cards [NEW now] Clover Cards |collx://profiles/5056003
 2 cards [G NEW now] Chadwick Groat |collx://profiles/5082910
 2 cards [G NEW now] Adeev Getzel |collx://profiles/4737765
 1 cards [G NEW now] Darian Cantey |collx://profiles/5040280
@@ -93,7 +92,6 @@
 3 cards [NEW now] Xavier Swieczkowski |collx://profiles/4987497
 1 cards [NEW now] LeMoyne Jackson |collx://profiles/5052553
 77 cards [BACK +19 now] Two Guy’s 1 Hobby |collx://profiles/4900946
-22 cards [BACK +20 now] Adam Petty |collx://profiles/5015404
 12 cards [G NEW now] cesar collazo |collx://profiles/4387082
 6 cards [NEW now] Margaret Sterling |collx://profiles/5054387
 2 cards [NEW now] James Ziler |collx://profiles/5029805
