@@ -1,11 +1,17 @@
+28 cards [BACK +20 now] corey roof |collx://profiles/5073252
+5 cards [+4 now] Brenden Wright |collx://profiles/4254368
+4 cards [G NEW now] Antony |collx://profiles/5083446
+11 cards [NEW now] Sean morris |collx://profiles/4879926
+8 cards [NEW now] Gino Nucilli |collx://profiles/4339385
+1 cards [G NEW now] Joseph Santo |collx://profiles/5082569
+3 cards [NEW now] Joseph Allend |collx://profiles/5079368
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 29 cards [BACK +22 now] Nick Matarazzo |collx://profiles/5082538
 27 cards [BACK +21 now] Jonathan Moore |collx://profiles/5065036
 20 cards [BACK +19 now] Rachelle Santora |collx://profiles/4636183
-15 cards [G NEW now] Mira Barnes |collx://profiles/4856348
 7 cards [NEW now] Nate Thomas |collx://profiles/4871978
 1 cards [G NEW now] Scott B |collx://profiles/4233442
 2 cards [NEW now] Keizer |collx://profiles/5015472
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 5 cards [NEW now] Timothy Watson |collx://profiles/5061302
 2 cards [NEW now] Shripal Khajuria |collx://profiles/4931254
 2 cards [NEW now] Skollectz |collx://profiles/4750685
@@ -258,7 +264,6 @@
 5 cards [NEW now] Bairon Toga |collx://profiles/5078376
 4 cards [NEW now] Shawn Tidd |collx://profiles/4872310
 2 cards [NEW now] Andrew Axelrod |collx://profiles/5078496
-2 cards [NEW now] corey roof |collx://profiles/5073252
 1 cards [NEW now] Ranch Ripz |collx://profiles/5078468
 1 cards [NEW now] Reid Bolden |collx://profiles/4186729
 1 cards [G NEW now] Craig M |collx://profiles/5009447
