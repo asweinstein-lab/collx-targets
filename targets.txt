@@ -1,32 +1,37 @@
-110 cards [BACK +50 now] CHRISTOPHER SHEPHERD |collx://profiles/4436954
+53 cards [BACK G +52 now] Arrthurr |collx://profiles/5076827
+293 cards [BACK +96 now] Mike Cahill |collx://profiles/5052987
+154 cards [BACK +25 now] Ken |collx://profiles/4865815
+28 cards [G NEW now] Jesus Figueroa |collx://profiles/5079936
+7 cards [G +6 now] Terry Kittrell |collx://profiles/4637939
+4 cards [+2 now] Diane Lopez |collx://profiles/5017922
+2 cards [G NEW now] Ryan Miller |collx://profiles/5064383
+3 cards [NEW 4h] jonathan |collx://profiles/5082222
+2 cards [NEW now] Ricky Parris |collx://profiles/4985713
+1 cards [NEW now] Jason Heray |collx://profiles/5082857
+1 cards [NEW now] Steve Horn |collx://profiles/5082788
+1 cards [NEW now] Keelan Elias |collx://profiles/4958540
+1 cards [NEW now] Jesse Valenciano Jr |collx://profiles/4926043
+1 cards [NEW now] Aaiden Perez |collx://profiles/4971725
+1 cards [NEW now] Zachary Scott |collx://profiles/4712009
+1 cards [NEW now] Max Mejorado |collx://profiles/4698080
+2 cards [NEW NOADDR now] Tj Ostrander |collx://profiles/5079339
+1 cards [NEW NOADDR now] Joey Blas |collx://profiles/5081121
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 79 cards [BACK +67 now] Elijah Rebold |collx://profiles/4864345
 257 cards [BACK +58 now] Michael Whitaker |collx://profiles/4911169
 142 cards [BACK +48 now] reilly |collx://profiles/5051244
-17 cards [BACK G +15 now] Jeffery Hall (LANGHO) |collx://profiles/5056068
 23 cards [BACK +22 now] Charles Navarro |collx://profiles/5074093
-129 cards [BACK +16 now] Ken |collx://profiles/4865815
-48 cards [NEW NOADDR now] Dustin Teays |collx://profiles/5081915
-19 cards [NEW now] Reid Ellis |collx://profiles/5077363
-11 cards [NEW now] Shawna N |collx://profiles/5072166
-10 cards [NEW now] Copas Morgan |collx://profiles/5082581
 5 cards [NEW now] John Stewart |collx://profiles/5082612
 4 cards [NEW now] Daniel Puetter |collx://profiles/5082621
-3 cards [NEW now] Shawn Futrell |collx://profiles/5079364
-6 cards [NEW NOADDR now] Joe |collx://profiles/5057684
 2 cards [NEW now] Lucas |collx://profiles/4877726
 2 cards [NEW now] Alberto Cisneros |collx://profiles/5082710
-1 cards [NEW now] Bobby Price |collx://profiles/4936652
 1 cards [NEW now] Tommy Joe Maness |collx://profiles/5081984
 1 cards [NEW now] Eric Claggett |collx://profiles/5082619
 1 cards [NEW now] James Thomas |collx://profiles/5025776
-2 cards [NEW NOADDR now] Cooper Cannon |collx://profiles/5082516
-1 cards [NEW NOADDR now] Arrthurr |collx://profiles/5076827
 1 cards [NEW NOADDR now] Ajaé Dewitt-Davis |collx://profiles/4590973
 1 cards [NEW NOADDR now] Todd Stearns |collx://profiles/4316588
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 122 cards [BACK +58 now] Trevor Rosensteel |collx://profiles/4542907
 28 cards [BACK +18 now] A.J. Whitt |collx://profiles/4940564
-22 cards [NEW now] Kierstyn Gordon |collx://profiles/5082342
 21 cards [NEW now] Andrew Lewis |collx://profiles/5072827
 3 cards [+1 now] DaHeatVault |collx://profiles/4894573
 6 cards [NEW now] Joseph |collx://profiles/4957692
@@ -35,14 +40,12 @@
 1 cards [NEW now] Tyler Neth |collx://profiles/5076423
 1 cards [NEW now] Christopher Goodlett |collx://profiles/5073855
 1 cards [NEW NOADDR now] Anthony Clayton |collx://profiles/5082378
-197 cards [BACK +16 now] Mike Cahill |collx://profiles/5052987
 50 cards [NEW now] James White |collx://profiles/5057964
 5 cards [G NEW now] Devin A |collx://profiles/4692831
 14 cards [NEW now] Spencer Christensen |collx://profiles/5036059
 12 cards [NEW now] Jeffery Perkins |collx://profiles/5012201
 2 cards [G NEW now] LowEnd2HighEnd |collx://profiles/5077604
 9 cards [NEW now] Reagan Ross |collx://profiles/4116830
-7 cards [NEW now] Chad Meadows |collx://profiles/5082298
 4 cards [NEW now] Sean Root |collx://profiles/4819093
 4 cards [NEW now] Brock |collx://profiles/5050797
 3 cards [NEW now] Zyn |collx://profiles/5077747
@@ -171,7 +174,6 @@
 1 cards [NEW now] Rodolfo Vasquez |collx://profiles/5068476
 1 cards [NEW now] Nickie Jackson |collx://profiles/4111165
 1 cards [NEW now] Donald Shainin |collx://profiles/5080560
-308 cards [BACK +128 now] Benny Yinzer |collx://profiles/5044709
 71 cards [NEW now] Jason Connor |collx://profiles/5028007
 3 cards [+2 now] Demetric Helton |collx://profiles/4547954
 11 cards [NEW now] CuléCollector |collx://profiles/4270893
@@ -218,7 +220,6 @@
 1 cards [NEW now] Charlie Watts |collx://profiles/5079441
 1 cards [NEW 2d] Coleman Ramey |collx://profiles/4840375
 304 cards [BACK +131 now] Douglas Jones |collx://profiles/5044882
-130 cards [BACK +15 now] Brayan Zuniga |collx://profiles/5057262
 1 cards [G NEW now] Mike Kinney |collx://profiles/5063834
 1 cards [G NEW now] Naqeebullah Tukhi |collx://profiles/5076430
 4 cards [NEW now] Charlie Reardon |collx://profiles/4096148
@@ -323,7 +324,6 @@
 138 cards [BACK +18 now] Brynlee Grayson |collx://profiles/5073636
 2 cards [G NEW now] Michael Bowden |collx://profiles/4542522
 9 cards [NEW now] Gabriella Bendana |collx://profiles/4719272
-7 cards [NEW now] Jayson Emrich |collx://profiles/5035300
 1 cards [G NEW now] Cardboard Fix 314 |collx://profiles/5009416
 3 cards [NEW now] Greyson Gore |collx://profiles/5076508
 2 cards [NEW now] Gabriel Torres-garcia |collx://profiles/4029483
