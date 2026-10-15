@@ -1,9 +1,17 @@
-57 cards [BACK +31 now] Dan WalkOffWins |collx://profiles/5042368
+110 cards [BACK G +57 now] Arrthurr |collx://profiles/5076827
+81 cards [BACK +24 now] Dan WalkOffWins |collx://profiles/5042368
+50 cards [NEW now] Connor |collx://profiles/5063920
+32 cards [NEW now] Mitzi Mears |collx://profiles/5083343
+13 cards [NEW now] Aiden Magallanes |collx://profiles/5083288
+2 cards [G NEW now] Khang Tran |collx://profiles/5083331
+1 cards [G NEW now] Sebastian Lisanti |collx://profiles/5069963
+4 cards [NEW now] Brett Begley |collx://profiles/5083322
+1 cards [NEW now] Tony Erchull |collx://profiles/4800478
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 128 cards [BACK +28 now] Cody |collx://profiles/5041155
 4 cards [NEW now] Jacoby |collx://profiles/4972542
 3 cards [NEW now] tyler o'neal |collx://profiles/4595231
 2 cards [NEW now] Kyle Ronek |collx://profiles/5081650
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 26 cards [NEW now] Meghan Burrola |collx://profiles/5083282
 3 cards [NEW now] John |collx://profiles/4704633
 1 cards [NEW now] Nataly Elizabethh |collx://profiles/5083304
@@ -17,7 +25,6 @@
 2 cards [NEW now] Gracyn Poulos |collx://profiles/4907665
 2 cards [NEW now] Jose Zepeda |collx://profiles/5082997
 2 cards [NEW now] Jonathan Moore |collx://profiles/5065036
-1 cards [NEW now] Ryan DIMAGGIO |collx://profiles/5083220
 1 cards [NEW now] Cesar Barajas |collx://profiles/5069499
 1 cards [NEW 25d] Miles S |collx://profiles/5006217
 21 cards [BACK +18 now] Joseph Bernard |collx://profiles/5083016
@@ -41,7 +48,6 @@
 2 cards [NEW NOADDR now] Randy Morgan |collx://profiles/5058836
 2 cards [NEW 31h] Lorenzo Lopez |collx://profiles/5077260
 1 cards [NEW 30h] Jeremy White |collx://profiles/4922274
-53 cards [BACK G +52 now] Arrthurr |collx://profiles/5076827
 293 cards [BACK +96 now] Mike Cahill |collx://profiles/5052987
 4 cards [+2 now] Diane Lopez |collx://profiles/5017922
 2 cards [G NEW now] Ryan Miller |collx://profiles/5064383
@@ -72,7 +78,6 @@
 1 cards [NEW now] Christopher Goodlett |collx://profiles/5073855
 1 cards [NEW NOADDR now] Anthony Clayton |collx://profiles/5082378
 50 cards [NEW now] James White |collx://profiles/5057964
-5 cards [G NEW now] Devin A |collx://profiles/4692831
 12 cards [NEW now] Jeffery Perkins |collx://profiles/5012201
 2 cards [G NEW now] LowEnd2HighEnd |collx://profiles/5077604
 4 cards [NEW now] Sean Root |collx://profiles/4819093
@@ -150,7 +155,6 @@
 1 cards [G NEW now] Justin Freedman |collx://profiles/5080089
 1 cards [G NEW now] Josh Rodriguez |collx://profiles/5078048
 2 cards [NEW now] Waylon |collx://profiles/4800509
-1 cards [NEW now] Peter Becerra |collx://profiles/5080349
 1 cards [NEW now] John Reynolds |collx://profiles/5064168
 1 cards [NEW NOADDR now] Corry Judd |collx://profiles/5064194
 1 cards [NEW NOADDR now] Stephen Madonia |collx://profiles/4899867
