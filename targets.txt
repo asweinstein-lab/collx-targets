@@ -1,22 +1,23 @@
+106 cards [BACK +25 now] Dan WalkOffWins |collx://profiles/5042368
+19 cards [NEW now] Nathan Barbosa |collx://profiles/5082028
+5 cards [G NEW now] Bradd |collx://profiles/4756321
+3 cards [NEW now] Kayla Swift |collx://profiles/5076614
+2 cards [NEW now] Akay Symuongsong |collx://profiles/5083364
+1 cards [NEW now] Caleb Bingham |collx://profiles/4519920
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 110 cards [BACK G +57 now] Arrthurr |collx://profiles/5076827
-81 cards [BACK +24 now] Dan WalkOffWins |collx://profiles/5042368
 50 cards [NEW now] Connor |collx://profiles/5063920
-32 cards [NEW now] Mitzi Mears |collx://profiles/5083343
-13 cards [NEW now] Aiden Magallanes |collx://profiles/5083288
 2 cards [G NEW now] Khang Tran |collx://profiles/5083331
 1 cards [G NEW now] Sebastian Lisanti |collx://profiles/5069963
 4 cards [NEW now] Brett Begley |collx://profiles/5083322
 1 cards [NEW now] Tony Erchull |collx://profiles/4800478
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 128 cards [BACK +28 now] Cody |collx://profiles/5041155
 4 cards [NEW now] Jacoby |collx://profiles/4972542
 3 cards [NEW now] tyler o'neal |collx://profiles/4595231
 2 cards [NEW now] Kyle Ronek |collx://profiles/5081650
-26 cards [NEW now] Meghan Burrola |collx://profiles/5083282
 3 cards [NEW now] John |collx://profiles/4704633
 1 cards [NEW now] Nataly Elizabethh |collx://profiles/5083304
 1 cards [NEW now] CardGuy |collx://profiles/5083279
-174 cards [BACK +173 now] Jordan Ferreira |collx://profiles/5081458
 152 cards [BACK +72 now] Madison McClure |collx://profiles/5076025
 10 cards [NEW now] Clover Cards |collx://profiles/5056003
 2 cards [G NEW now] Chadwick Groat |collx://profiles/5082910
@@ -30,7 +31,6 @@
 21 cards [BACK +18 now] Joseph Bernard |collx://profiles/5083016
 1 cards [G NEW now] Christopher Escalante |collx://profiles/5082966
 3 cards [NEW now] Joshua Fedele |collx://profiles/5047633
-3 cards [NEW now] Ian King |collx://profiles/5078821
 2 cards [NEW now] Brian Shue |collx://profiles/4190300
 2 cards [NEW now] Josh Bernero |collx://profiles/4914964
 2 cards [NEW now] Graham |collx://profiles/4698948
@@ -64,7 +64,6 @@
 257 cards [BACK +58 now] Michael Whitaker |collx://profiles/4911169
 142 cards [BACK +48 now] reilly |collx://profiles/5051244
 23 cards [BACK +22 now] Charles Navarro |collx://profiles/5074093
-4 cards [NEW now] Daniel Puetter |collx://profiles/5082621
 2 cards [NEW now] Lucas |collx://profiles/4877726
 2 cards [NEW now] Alberto Cisneros |collx://profiles/5082710
 1 cards [NEW now] Tommy Joe Maness |collx://profiles/5081984
@@ -189,7 +188,6 @@
 1 cards [NEW now] Nickie Jackson |collx://profiles/4111165
 1 cards [NEW now] Donald Shainin |collx://profiles/5080560
 71 cards [NEW now] Jason Connor |collx://profiles/5028007
-3 cards [+2 now] Demetric Helton |collx://profiles/4547954
 11 cards [NEW now] CuléCollector |collx://profiles/4270893
 2 cards [NEW now] Kevin Conklin |collx://profiles/5080434
 2 cards [NEW now] Aaron Rife |collx://profiles/4232399
