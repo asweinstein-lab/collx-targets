@@ -1,7 +1,11 @@
-60 cards [BACK +24 now] Adam Petty |collx://profiles/5015404
-1 cards [NEW now] Reef |collx://profiles/5082752
-8 cards [NEW 28d] Charles Lee |collx://profiles/4989692
+7 cards [NEW now] Nick Matarazzo |collx://profiles/5082538
+5 cards [NEW now] Timothy Watson |collx://profiles/5061302
+2 cards [NEW now] Shripal Khajuria |collx://profiles/4931254
+2 cards [NEW now] Skollectz |collx://profiles/4750685
+1 cards [NEW now] Jack Davis |collx://profiles/5011419
 0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
+60 cards [BACK +24 now] Adam Petty |collx://profiles/5015404
+8 cards [NEW 28d] Charles Lee |collx://profiles/4989692
 19 cards [NEW now] Nathan Barbosa |collx://profiles/5082028
 5 cards [G NEW now] Bradd |collx://profiles/4756321
 3 cards [NEW now] Kayla Swift |collx://profiles/5076614
@@ -23,7 +27,6 @@
 2 cards [G NEW now] Adeev Getzel |collx://profiles/4737765
 1 cards [G NEW now] Darian Cantey |collx://profiles/5040280
 2 cards [NEW now] Gracyn Poulos |collx://profiles/4907665
-2 cards [NEW now] Jose Zepeda |collx://profiles/5082997
 2 cards [NEW now] Jonathan Moore |collx://profiles/5065036
 1 cards [NEW now] Cesar Barajas |collx://profiles/5069499
 1 cards [NEW 25d] Miles S |collx://profiles/5006217
@@ -71,7 +74,6 @@
 122 cards [BACK +58 now] Trevor Rosensteel |collx://profiles/4542907
 21 cards [NEW now] Andrew Lewis |collx://profiles/5072827
 3 cards [+1 now] DaHeatVault |collx://profiles/4894573
-6 cards [NEW now] Joseph |collx://profiles/4957692
 4 cards [NEW now] Taylor Hamilton |collx://profiles/5082479
 1 cards [NEW now] Christopher Goodlett |collx://profiles/5073855
 1 cards [NEW NOADDR now] Anthony Clayton |collx://profiles/5082378
@@ -92,7 +94,6 @@
 3 cards [NEW now] Xavier Swieczkowski |collx://profiles/4987497
 1 cards [NEW now] LeMoyne Jackson |collx://profiles/5052553
 77 cards [BACK +19 now] Two Guy’s 1 Hobby |collx://profiles/4900946
-12 cards [G NEW now] cesar collazo |collx://profiles/4387082
 6 cards [NEW now] Margaret Sterling |collx://profiles/5054387
 2 cards [NEW now] James Ziler |collx://profiles/5029805
 1 cards [NEW now] Chad McKee |collx://profiles/5081823
