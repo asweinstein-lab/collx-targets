@@ -1,21 +1,33 @@
+564 cards [BACK +286 3h] OmahaDuran |collx://profiles/5017799
+170 cards [BACK +169 3h] Daniel "DT" Tuggle |collx://profiles/4109674
+29 cards [BACK G +22 now] Armando Cardenas |collx://profiles/5069102
+43 cards [NEW now] Bee |collx://profiles/5023320
+1702 cards [NEW now] Larry Mar |collx://profiles/5088921
+15 cards [NEW now] Eric Richardson |collx://profiles/4559416
+13 cards [NEW 5h] Trevor Peterson |collx://profiles/5088742
+10 cards [NEW 4h] Spenser S |collx://profiles/4426476
+3 cards [NEW 5h] Triston Johnson |collx://profiles/5088778
+1 cards [NEW now] Matthew Johnson |collx://profiles/5086002
+1 cards [NEW 4h] Christopher Erickson |collx://profiles/5088859
+1 cards [NEW 3h] TCIIIESQ21 |collx://profiles/5088804
+1 cards [NEW now] AUSTIN STIDHAM |collx://profiles/5006256
+1 cards [NEW 4h] Aaron Tapia |collx://profiles/4424106
+1 cards [NEW 5h] Will Tatum |collx://profiles/4989261
+1 cards [NEW 4h] Stephen Couto |collx://profiles/4396989
+1 cards [NEW 16h] Whitney Gosnell |collx://profiles/5002640
+0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 89 cards [BACK +78 now] Dave B. Reeves |collx://profiles/5049262
 414 cards [BACK +255 now] Colin Moore |collx://profiles/5068492
-574 cards [BACK +287 now] PokeParkRipz |collx://profiles/5074556
 18 cards [BACK +16 now] Robert A. Bruetsch |collx://profiles/4913963
 17 cards [BACK +16 now] Jared Kirstein |collx://profiles/5077184
-101 cards [NEW now] Michael Resendiz |collx://profiles/5053446
 73 cards [NEW now] Michael Repasky |collx://profiles/5025040
-58 cards [NEW now] Tim Dowling |collx://profiles/5078207
 46 cards [NEW now] Alika soares |collx://profiles/5074419
 42 cards [NEW 6h] Rachae Bertholf |collx://profiles/5087813
 319 cards [NEW 3h] Brian Spaulding |collx://profiles/5010260
-36 cards [NEW now] Gary Steagald |collx://profiles/4791965
 8 cards [G NEW 5h] Jaylen Coleman |collx://profiles/4976495
-14 cards [NEW now] Aaron Whited |collx://profiles/5088243
 3 cards [G NEW now] Eric |collx://profiles/5088389
 70 cards [NEW 6d] Nathan Edwards |collx://profiles/4944536
 7 cards [NEW now] Makoa Au |collx://profiles/4855100
-7 cards [NEW now] Armando Cardenas |collx://profiles/5069102
 1 cards [G NEW 7h] Joseph Hayden |collx://profiles/4722488
 1 cards [G NEW now] Jack Dubreuil |collx://profiles/4310356
 1 cards [G NEW 3h] Aidan Ketelaar |collx://profiles/5041111
@@ -43,7 +55,6 @@
 1 cards [NEW 2d] Brenden Puckett |collx://profiles/4681844
 1 cards [NEW 2d] Destine Punihaole |collx://profiles/4205594
 1 cards [NEW 3d] Harley Glass |collx://profiles/4841255
-0 cards [----] ======= SEEN BEFORE — hit q here ======= |collx://profiles/0
 31 cards [BACK G +17 now] Raymond Concepcion |collx://profiles/5083926
 47 cards [NEW now] Alexander Figuereo Abreu |collx://profiles/5023900
 20 cards [NEW now] Bradley Kline |collx://profiles/4315602
@@ -130,7 +141,6 @@
 1 cards [NEW NOADDR now] Georgia Kalivas |collx://profiles/4927160
 1 cards [G NEW 10d] Brian Constantino |collx://profiles/4182211
 1 cards [NEW 7d] Vaasu Patel |collx://profiles/4926020
-268 cards [BACK +255 now] OmahaDuran |collx://profiles/5017799
 8 cards [+7 5h] A T |collx://profiles/4997140
 20 cards [NEW 6h] Dominic |collx://profiles/4873224
 13 cards [G NEW 5h] Joby Butler |collx://profiles/4271739
@@ -146,7 +156,6 @@
 1 cards [NEW now] Cesar Hernandez |collx://profiles/5084845
 1 cards [NEW 5h] Clinton Mitchell |collx://profiles/4980152
 1 cards [NEW 4h] Ramon Oyarzun |collx://profiles/4755748
-1 cards [NEW now] Daniel "DT" Tuggle |collx://profiles/4109674
 1 cards [NEW now] Jordan  Paulo |collx://profiles/4588992
 2 cards [G NEW 4d] Randy |collx://profiles/4927041
 2 cards [NEW 6d] Bryan Martinez |collx://profiles/4993226
@@ -281,7 +290,6 @@
 21 cards [NEW now] Andrew Lewis |collx://profiles/5072827
 3 cards [+1 now] DaHeatVault |collx://profiles/4894573
 1 cards [NEW now] Christopher Goodlett |collx://profiles/5073855
-50 cards [NEW now] James White |collx://profiles/5057964
 12 cards [NEW now] Jeffery Perkins |collx://profiles/5012201
 2 cards [G NEW now] LowEnd2HighEnd |collx://profiles/5077604
 4 cards [NEW now] Sean Root |collx://profiles/4819093
@@ -389,7 +397,6 @@
 1 cards [NEW now] Dan Ferry |collx://profiles/5076671
 1 cards [NEW NOADDR now] Christopher Back |collx://profiles/5080376
 19 cards [NEW now] Bryan Buckner |collx://profiles/4371982
-2 cards [+1 now] Cheyanne McPherson |collx://profiles/5004583
 3 cards [NEW now] nick herrington |collx://profiles/5032181
 2 cards [NEW now] Makayla Ozburn |collx://profiles/4234488
 2 cards [NEW now] Chase Collins |collx://profiles/4938301
@@ -600,7 +607,6 @@
 1 cards [NEW now] Christian Allen |collx://profiles/5073891
 1 cards [NEW now] Dequan Handy |collx://profiles/5073012
 1 cards [NEW now] Francis Mejia Martin |collx://profiles/4972560
-1 cards [NEW now] Gianni Canzona |collx://profiles/5031815
 1 cards [NEW now] Derek Combs |collx://profiles/4822345
 53 cards [NEW now] Ryan |collx://profiles/4430290
 2 cards [G NEW now] Peter Mitchell |collx://profiles/4899223
